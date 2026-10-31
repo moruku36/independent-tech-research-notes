@@ -29,3 +29,5 @@ Benchmarks and industrial studies of AI coding assistants, automated repair, and
 - [Automating Low-Risk Code Review at Meta: RADAR](2026-radar-low-risk-code-review.md) (v2, 2026-06-12): risk-stratified automated review and landing across 535K+ diffs at Meta (DRS + LLM ACR). Primary PDF text checked.
 
 [Survey index](../README.md) | [Repository README](../../README.md)
+
+- [Minimal harness for autonomous ML engineering](2026-ml-engineering-minimal-harness.md) — primary HTML selected sections; benchmark-specific results, no reproduction.
