@@ -4,6 +4,11 @@
 
 Newest first. Earlier entries use dates recorded as additions in the reading list; these do not establish the user's actual reading dates. Undated entries are omitted.
 
+## 2026-11-01
+
+- [OSS AI contribution governance](../surveys/security-governance/2026-oss-machine-contributor-governance.md)
+- [Minimal harness for autonomous ML engineering](../surveys/coding-agents/2026-ml-engineering-minimal-harness.md)
+
 ## 2026-10-31
 
 - [Structural testing of agent workflows](../surveys/agent-safety/2026-agent-workflow-structural-testing.md) — selected primary sections checked.

@@ -29,3 +29,5 @@ AIコーディング支援・自動修復・自動レビューのベンチマー
 - [Metaにおける低リスク・コードレビューの自動化（RADAR）](2026-radar-low-risk-code-review.ja.md)（v2、2026-06-12）— 53.5万件超のDiffを処理したリスク階層型レビュー・自動マージ基盤（DRS＋LLM ACR）。一次PDF本文確認済み。
 
 [サーベイ索引](../README.ja.md) | [リポジトリREADME](../../README.ja.md)
+
+- [自律ML開発と簡素なハーネス](2026-ml-engineering-minimal-harness.ja.md) — 一次HTML主要部分確認、評価条件に限定、再現未実施。

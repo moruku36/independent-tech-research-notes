@@ -192,3 +192,8 @@ When adding an entry, record the primary URL, bibliographic information, reading
 - [Structural testing of agent workflows](../surveys/agent-safety/2026-agent-workflow-structural-testing.md) — selected primary sections checked; conflicting totals, no reproduction.
 - [Agentic evidence black box](../surveys/security-governance/2026-agentic-evidence-black-box.md) — architecture proposal, no empirical evaluation.
 - [ECB speech: primary verification pending](../economics/2026-ecb-ai-adoption-pending.md) — specified page unavailable; not read.
+
+## Added 2026-11-01 (JST)
+
+- [OSS AI contribution governance](../surveys/security-governance/2026-oss-machine-contributor-governance.md) — six-case policy analysis; no independent replication.
+- [Minimal harness for ML engineering](../surveys/coding-agents/2026-ml-engineering-minimal-harness.md) — benchmark experiment; no reproduction.

@@ -4,6 +4,11 @@
 
 新しい日付順。過去分は既存の読書一覧に記された追加日を使用し、本人の読了日を保証するものではありません。日付が特定できない資料は省いています。
 
+## 2026-11-01
+
+- [OSSへのAI貢献とガバナンス](../surveys/security-governance/2026-oss-machine-contributor-governance.ja.md)
+- [自律ML開発と簡素なハーネス](../surveys/coding-agents/2026-ml-engineering-minimal-harness.ja.md)
+
 ## 2026-10-31
 
 - [エージェントの構造的テスト](../surveys/agent-safety/2026-agent-workflow-structural-testing.ja.md)
