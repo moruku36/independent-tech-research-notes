@@ -200,3 +200,8 @@
 - [エージェントの構造的テスト](../surveys/agent-safety/2026-agent-workflow-structural-testing.ja.md) — 一次資料の主要部分確認、集計値の不一致あり、再現未実施。
 - [エージェントの監査証拠ブラックボックス](../surveys/security-governance/2026-agentic-evidence-black-box.ja.md) — 設計提案、実証なし。
 - [ECB講演：一次資料確認待ち](../economics/2026-ecb-ai-adoption-pending.ja.md) — 指定ページ未取得、未読。
+
+## 2026-11-01追加（日本時間）
+
+- [OSSへのAI貢献とガバナンス](../surveys/security-governance/2026-oss-machine-contributor-governance.ja.md) — 6組織の方針比較、独立再現未実施。
+- [自律ML開発と簡素なハーネス](../surveys/coding-agents/2026-ml-engineering-minimal-harness.ja.md) — ベンチマーク実験、再現未実施。
