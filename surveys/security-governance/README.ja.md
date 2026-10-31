@@ -37,3 +37,5 @@ GenAI利用・暗号移行・マルチクラウド統制の一貫性をめぐる
 [サーベイ索引](../README.ja.md) | [リポジトリREADME](../../README.ja.md)
 
 - [エージェントの監査証拠を残すブラックボックス](2026-agentic-evidence-black-box.ja.md) — 設計提案、一次資料の主要部分確認、実証なし。
+
+- [OSSへのAI貢献とガバナンス](2026-oss-machine-contributor-governance.ja.md) — 6組織の方針比較、一次HTML主要部分確認、独立した符号化未実施。
