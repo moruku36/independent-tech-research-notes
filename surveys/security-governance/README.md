@@ -37,3 +37,5 @@ Organizational security questions around GenAI, cryptographic migration, and mul
 [Survey index](../README.md) | [Repository README](../../README.md)
 
 - [A Black Box for Agentic Processes](2026-agentic-evidence-black-box.md) — architecture proposal; selected primary sections checked, no empirical evaluation.
+
+- [Governance of AI contributions to open source](2026-oss-machine-contributor-governance.md) — six-organization policy comparison; selected primary sections checked, no independent coding.
