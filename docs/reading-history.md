@@ -4,6 +4,12 @@
 
 Newest first. Earlier entries use dates recorded as additions in the reading list; these do not establish the user's actual reading dates. Undated entries are omitted.
 
+## 2026-11-02
+
+- [RecursiveMAS: latent multi-agent communication](../surveys/llm-infrastructure/2026-recursive-multi-agent-systems.md)
+- [Curiosity and metacognition in AI-era learning](../surveys/human-ai-collaboration/2026-curiosity-metacognition-ai-learning.md)
+- [CTFusion: live CTF evaluation](../surveys/agent-safety/2026-ctfusion-live-ctf-evaluation.md)
+
 ## 2026-11-01
 
 - [Evolving Agent Teams](../surveys/coding-agents/2026-evolving-agent-teams.md)
