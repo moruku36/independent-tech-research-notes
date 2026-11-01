@@ -199,3 +199,9 @@ When adding an entry, record the primary URL, bibliographic information, reading
 - [Minimal harness for ML engineering](../surveys/coding-agents/2026-ml-engineering-minimal-harness.md) — benchmark experiment; no reproduction.
 
 - [Evolving Agent Teams](../surveys/coding-agents/2026-evolving-agent-teams.md) — preprint; selected primary sections checked, discrepancies noted, no reproduction.
+
+## Added 2026-11-02 (JST)
+
+- [RecursiveMAS](../surveys/llm-infrastructure/2026-recursive-multi-agent-systems.md) — article and paper treated as one study; v2 selected sections checked.
+- [Curiosity and metacognition](../surveys/human-ai-collaboration/2026-curiosity-metacognition-ai-learning.md) — synthesis chapter; cited studies not independently checked.
+- [CTFusion](../surveys/agent-safety/2026-ctfusion-live-ctf-evaluation.md) — v2 selected sections checked; discrepancy recorded, no reproduction.
