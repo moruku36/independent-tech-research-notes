@@ -13,3 +13,5 @@ LLM推論のハードウェア選択、スケジューリング、KVキャッシ
 - [Google Sleep：継続学習と記憶の定着](2026-google-sleep-continual-learning.ja.md) — Google記事と元論文を部分確認、再現未実施。
 
 [サーベイ索引](../README.ja.md) | [リポジトリREADME](../../README.ja.md)
+
+- [RecursiveMAS：潜在表現によるエージェント協調](2026-recursive-multi-agent-systems.ja.md) — 紹介記事と論文を1研究に整理、v2主要部分確認、再現未実施。

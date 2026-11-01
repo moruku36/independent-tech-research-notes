@@ -20,3 +20,5 @@ AIの同僚への期待、待ち時間・注意の扱い、AI利用による業�
 [サーベイ索引](../README.ja.md) | [リポジトリREADME](../../README.ja.md)
 
 - [AIエージェントと人による教育対話の行動ラベル付け](2026-coding-agents-behavioral-labeling.ja.md) — arXiv:2603.27440v1; 主要部分確認・再現未実施.
+
+- [好奇心・メタ認知とAI時代の学習](2026-curiosity-metacognition-ai-learning.ja.md) — 文献統合の章、一次資料主要部分確認、引用研究の独立検証未実施。
