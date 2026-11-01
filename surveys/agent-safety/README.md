@@ -31,3 +31,5 @@ Whether AI agents act outside their authorization, and how they can be attacked 
 - [Wiz: The Rise of Agentic Attacks](2026-wiz-agentic-attacks-pending.md) — source unavailable; awaiting verification and summary.
 
 - [Testing Agentic Workflows with Structural Coverage Criteria](2026-agent-workflow-structural-testing.md) — primary HTML selected sections; conflicting totals noted; not reproduced.
+
+- [CTFusion: live CTF evaluation](2026-ctfusion-live-ctf-evaluation.md) — v2 primary sections checked; discrepancy recorded; not reproduced.
