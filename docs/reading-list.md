@@ -197,3 +197,5 @@ When adding an entry, record the primary URL, bibliographic information, reading
 
 - [OSS AI contribution governance](../surveys/security-governance/2026-oss-machine-contributor-governance.md) — six-case policy analysis; no independent replication.
 - [Minimal harness for ML engineering](../surveys/coding-agents/2026-ml-engineering-minimal-harness.md) — benchmark experiment; no reproduction.
+
+- [Evolving Agent Teams](../surveys/coding-agents/2026-evolving-agent-teams.md) — preprint; selected primary sections checked, discrepancies noted, no reproduction.

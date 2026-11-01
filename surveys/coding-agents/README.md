@@ -31,3 +31,5 @@ Benchmarks and industrial studies of AI coding assistants, automated repair, and
 [Survey index](../README.md) | [Repository README](../../README.md)
 
 - [Minimal harness for autonomous ML engineering](2026-ml-engineering-minimal-harness.md) — primary HTML selected sections; benchmark-specific results, no reproduction.
+
+- [Evolving Agent Teams](2026-evolving-agent-teams.md) — selected primary HTML sections checked; discrepancies recorded; not reproduced.
