@@ -13,3 +13,5 @@ Hardware choices, scheduling, KV cache control, and long-term memory retrieval.
 - [Google Sleep: continual learning and memory consolidation](2026-google-sleep-continual-learning.md) — Google blog and underlying preprint partially checked; not reproduced.
 
 [Survey index](../README.md) | [Repository README](../../README.md)
+
+- [Recursive Multi-Agent Systems](2026-recursive-multi-agent-systems.md) — article and paper counted as one study; primary v2 selected sections checked, no reproduction.
