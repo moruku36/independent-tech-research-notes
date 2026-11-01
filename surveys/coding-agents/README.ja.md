@@ -31,3 +31,5 @@ AIコーディング支援・自動修復・自動レビューのベンチマー
 [サーベイ索引](../README.ja.md) | [リポジトリREADME](../../README.ja.md)
 
 - [自律ML開発と簡素なハーネス](2026-ml-engineering-minimal-harness.ja.md) — 一次HTML主要部分確認、評価条件に限定、再現未実施。
+
+- [Evolving Agent Teams：停滞に応じたチーム再編](2026-evolving-agent-teams.ja.md) — 一次HTML主要部分確認、原文の不一致を記録、再現未実施。
