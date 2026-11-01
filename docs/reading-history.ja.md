@@ -6,6 +6,7 @@
 
 ## 2026-11-01
 
+- [Evolving Agent Teams：停滞に応じたチーム再編](../surveys/coding-agents/2026-evolving-agent-teams.ja.md)
 - [OSSへのAI貢献とガバナンス](../surveys/security-governance/2026-oss-machine-contributor-governance.ja.md)
 - [自律ML開発と簡素なハーネス](../surveys/coding-agents/2026-ml-engineering-minimal-harness.ja.md)
 
