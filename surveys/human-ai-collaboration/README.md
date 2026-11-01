@@ -20,3 +20,5 @@ What people expect from AI co-workers, how tools treat waiting time and attentio
 [Survey index](../README.md) | [Repository README](../../README.md)
 
 - [From Tool to Teammate: LLM Coding Agents as Collaborative Partners for Behavioral Labeling in Educational Dialogue Analysis](2026-coding-agents-behavioral-labeling.md) — arXiv:2603.27440v1; key sections checked; not reproduced.
+
+- [Curiosity, metacognition and AI learning](2026-curiosity-metacognition-ai-learning.md) — synthesis chapter, primary sections checked; cited studies not independently verified.
