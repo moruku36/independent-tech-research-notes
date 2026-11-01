@@ -6,6 +6,7 @@ Newest first. Earlier entries use dates recorded as additions in the reading lis
 
 ## 2026-11-01
 
+- [Evolving Agent Teams](../surveys/coding-agents/2026-evolving-agent-teams.md)
 - [OSS AI contribution governance](../surveys/security-governance/2026-oss-machine-contributor-governance.md)
 - [Minimal harness for autonomous ML engineering](../surveys/coding-agents/2026-ml-engineering-minimal-harness.md)
 
