@@ -207,3 +207,9 @@
 - [自律ML開発と簡素なハーネス](../surveys/coding-agents/2026-ml-engineering-minimal-harness.ja.md) — ベンチマーク実験、再現未実施。
 
 - [Evolving Agent Teams：停滞に応じたチーム再編](../surveys/coding-agents/2026-evolving-agent-teams.ja.md) — プレプリント、一次資料主要部分確認、記述の不一致あり、再現未実施。
+
+## 2026-11-02追加（日本時間）
+
+- [RecursiveMAS](../surveys/llm-infrastructure/2026-recursive-multi-agent-systems.ja.md) — 紹介記事と論文は同一研究、v2主要部分確認。
+- [好奇心・メタ認知とAI時代の学習](../surveys/human-ai-collaboration/2026-curiosity-metacognition-ai-learning.ja.md) — 文献統合の章、引用研究の独立確認未実施。
+- [CTFusion](../surveys/agent-safety/2026-ctfusion-live-ctf-evaluation.ja.md) — v2主要部分確認、不一致を記録、再現未実施。
