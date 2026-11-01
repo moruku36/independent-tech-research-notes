@@ -205,3 +205,5 @@
 
 - [OSSへのAI貢献とガバナンス](../surveys/security-governance/2026-oss-machine-contributor-governance.ja.md) — 6組織の方針比較、独立再現未実施。
 - [自律ML開発と簡素なハーネス](../surveys/coding-agents/2026-ml-engineering-minimal-harness.ja.md) — ベンチマーク実験、再現未実施。
+
+- [Evolving Agent Teams：停滞に応じたチーム再編](../surveys/coding-agents/2026-evolving-agent-teams.ja.md) — プレプリント、一次資料主要部分確認、記述の不一致あり、再現未実施。
