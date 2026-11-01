@@ -15,7 +15,7 @@ Kernel optimization can plateau when agents continue tuning an easy but architec
 
 ## Results and conditions
 - For MLA decode under a matched budget, the authors report approximately 0.44–0.51× for single-agent Claude Code and 0.75× for the evolving team relative to the production FlashInfer kernel; values below 1× are slower than that baseline.
-- With **additional budget**, an H100 MLA kernel achieved about 1.21× geometric mean speedup over the production FlashInfer baseline on 47 FlashInfer-Bench workloads, faster on 36 and 0.86–0.99× on the other 11. The authors report passing the 47 correctness tests. This is separate from the matched-budget comparison.
+- With **additional budget**, an H100 MLA kernel achieved about 1.21× geometric mean speedup over the production FlashInfer baseline on 47 FlashInfer-Bench workloads, faster on 36 and 0.86–0.99× on the other 11. This is separate from the matched-budget comparison.
 - Speedup is the geometric mean of baseline latency divided by candidate latency. Treatment of FlashInfer planning affects the baseline; Figure 1 reports 0.96× against the plan-excluding baseline.
 - Main settings were run twice with the better result reported; fixed-team and Codex ablations and additional case studies used single runs. Statistical conclusions are limited.
 
