@@ -4,6 +4,12 @@
 
 新しい日付順。過去分は既存の読書一覧に記された追加日を使用し、本人の読了日を保証するものではありません。日付が特定できない資料は省いています。
 
+## 2026-11-02
+
+- [RecursiveMAS：潜在表現によるエージェント協調](../surveys/llm-infrastructure/2026-recursive-multi-agent-systems.ja.md)
+- [好奇心・メタ認知とAI時代の学習](../surveys/human-ai-collaboration/2026-curiosity-metacognition-ai-learning.ja.md)
+- [CTFusion：開催中CTFによる評価](../surveys/agent-safety/2026-ctfusion-live-ctf-evaluation.ja.md)
+
 ## 2026-11-01
 
 - [Evolving Agent Teams：停滞に応じたチーム再編](../surveys/coding-agents/2026-evolving-agent-teams.ja.md)
