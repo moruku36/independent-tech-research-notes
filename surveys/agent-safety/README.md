@@ -33,3 +33,5 @@ Whether AI agents act outside their authorization, and how they can be attacked 
 - [Testing Agentic Workflows with Structural Coverage Criteria](2026-agent-workflow-structural-testing.md) — primary HTML selected sections; conflicting totals noted; not reproduced.
 
 - [CTFusion: live CTF evaluation](2026-ctfusion-live-ctf-evaluation.md) — v2 primary sections checked; discrepancy recorded; not reproduced.
+
+- [Tool-invocation red-teaming of coding agents](2025-tool-invocation-coding-agent-redteam.md) — v6 selected sections checked; abstract/table inconsistency recorded; no reproduction.
