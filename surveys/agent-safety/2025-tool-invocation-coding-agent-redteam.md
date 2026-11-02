@@ -20,6 +20,6 @@ The arXiv abstract reports leakage in 19 of 25 agent–model pairs and code exec
 Vet external MCP tools, provenance, updates and necessary permissions. Treat tool metadata and returns as untrusted input, isolate execution, limit secret access and egress, and require explicit approval and deterministic authorization for consequential actions. Test suspicious arguments and instructions in an authorized environment. These are proposals, not a guarantee of production protection.
 
 ## Limits
-The results depend on the malicious external tool connection assumption, selected agents, backends, settings and small trial counts; products can change. No independent validation, reproduction or adoption.
+The results depend on the malicious external tool connection assumption, selected agents, backends, settings and small trial counts; the paper measures RCE through invocation of the intended command tool, which does not guarantee real-world impact under different OS or network restrictions; products can change. No independent validation, reproduction or adoption.
 
 [AI agent safety index](README.md)
