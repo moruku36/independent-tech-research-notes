@@ -205,3 +205,9 @@ When adding an entry, record the primary URL, bibliographic information, reading
 - [RecursiveMAS](../surveys/llm-infrastructure/2026-recursive-multi-agent-systems.md) — article and paper treated as one study; v2 selected sections checked.
 - [Curiosity and metacognition](../surveys/human-ai-collaboration/2026-curiosity-metacognition-ai-learning.md) — synthesis chapter; cited studies not independently checked.
 - [CTFusion](../surveys/agent-safety/2026-ctfusion-live-ctf-evaluation.md) — v2 selected sections checked; discrepancy recorded, no reproduction.
+
+## Added 2026-11-03 (JST)
+
+- [AutoHarness](../surveys/coding-agents/2026-autoharness-code-synthesis.md) — primary sections checked; finite game tests, no reproduction.
+- [Tool-invocation red-teaming](../surveys/agent-safety/2025-tool-invocation-coding-agent-redteam.md) — v6 selected sections, discrepancy noted, no reproduction.
+- [Google/Mandiant LLMJacking](../surveys/security-governance/2026-google-llmjacking-cloud-resources.md) — incident article; official search-result text partially checked.
