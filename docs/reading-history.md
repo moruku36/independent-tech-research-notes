@@ -4,6 +4,12 @@
 
 Newest first. Earlier entries use dates recorded as additions in the reading list; these do not establish the user's actual reading dates. Undated entries are omitted.
 
+## 2026-11-03
+
+- [AutoHarness: synthesized action verification](../surveys/coding-agents/2026-autoharness-code-synthesis.md)
+- [Tool-invocation red-teaming of coding agents](../surveys/agent-safety/2025-tool-invocation-coding-agent-redteam.md)
+- [Google/Mandiant: LLMJacking](../surveys/security-governance/2026-google-llmjacking-cloud-resources.md)
+
 ## 2026-11-02
 
 - [RecursiveMAS: latent multi-agent communication](../surveys/llm-infrastructure/2026-recursive-multi-agent-systems.md)

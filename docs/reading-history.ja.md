@@ -4,6 +4,12 @@
 
 新しい日付順。過去分は既存の読書一覧に記された追加日を使用し、本人の読了日を保証するものではありません。日付が特定できない資料は省いています。
 
+## 2026-11-03
+
+- [AutoHarness：行動検証コードの自動生成](../surveys/coding-agents/2026-autoharness-code-synthesis.ja.md)
+- [コーディングエージェントのツール呼び出し攻撃評価](../surveys/agent-safety/2025-tool-invocation-coding-agent-redteam.ja.md)
+- [Google／Mandiant：LLMJacking](../surveys/security-governance/2026-google-llmjacking-cloud-resources.ja.md)
+
 ## 2026-11-02
 
 - [RecursiveMAS：潜在表現によるエージェント協調](../surveys/llm-infrastructure/2026-recursive-multi-agent-systems.ja.md)
