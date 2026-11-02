@@ -33,3 +33,5 @@ Benchmarks and industrial studies of AI coding assistants, automated repair, and
 - [Minimal harness for autonomous ML engineering](2026-ml-engineering-minimal-harness.md) — primary HTML selected sections; benchmark-specific results, no reproduction.
 
 - [Evolving Agent Teams](2026-evolving-agent-teams.md) — selected primary HTML sections checked; discrepancies recorded; not reproduced.
+
+- [AutoHarness: synthesized action verification](2026-autoharness-code-synthesis.md) — primary HTML selected sections; finite game tests, not reproduced.
