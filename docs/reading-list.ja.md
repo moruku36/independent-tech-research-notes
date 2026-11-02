@@ -213,3 +213,9 @@
 - [RecursiveMAS](../surveys/llm-infrastructure/2026-recursive-multi-agent-systems.ja.md) — 紹介記事と論文は同一研究、v2主要部分確認。
 - [好奇心・メタ認知とAI時代の学習](../surveys/human-ai-collaboration/2026-curiosity-metacognition-ai-learning.ja.md) — 文献統合の章、引用研究の独立確認未実施。
 - [CTFusion](../surveys/agent-safety/2026-ctfusion-live-ctf-evaluation.ja.md) — v2主要部分確認、不一致を記録、再現未実施。
+
+## 2026-11-03追加（日本時間）
+
+- [AutoHarness](../surveys/coding-agents/2026-autoharness-code-synthesis.ja.md) — 一次資料主要部分確認、有限のゲーム評価、再現未実施。
+- [ツール呼び出し攻撃評価](../surveys/agent-safety/2025-tool-invocation-coding-agent-redteam.ja.md) — v6主要部分確認、不一致あり、再現未実施。
+- [Google／MandiantのLLMJacking報告](../surveys/security-governance/2026-google-llmjacking-cloud-resources.ja.md) — 企業の事例報告、公式検索結果本文を部分確認。
