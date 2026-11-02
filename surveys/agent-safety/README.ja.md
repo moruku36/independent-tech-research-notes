@@ -33,3 +33,5 @@ AIエージェントが権限外の行動をとるか、実際のワークフロ
 - [エージェントの構造的な網羅率テスト](2026-agent-workflow-structural-testing.ja.md) — 一次HTML主要部分確認、集計の不一致あり、再現未実施。
 
 - [CTFusion：開催中CTFによる評価](2026-ctfusion-live-ctf-evaluation.ja.md) — v2一次資料主要部分確認、記述の不一致あり、再現未実施。
+
+- [コーディングエージェントのツール呼び出し攻撃評価](2025-tool-invocation-coding-agent-redteam.ja.md) — v6主要部分確認、抄録と表の不一致を記録、再現未実施。
