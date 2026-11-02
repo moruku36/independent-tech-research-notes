@@ -39,3 +39,5 @@ GenAI利用・暗号移行・マルチクラウド統制の一貫性をめぐる
 - [エージェントの監査証拠を残すブラックボックス](2026-agentic-evidence-black-box.ja.md) — 設計提案、一次資料の主要部分確認、実証なし。
 
 - [OSSへのAI貢献とガバナンス](2026-oss-machine-contributor-governance.ja.md) — 6組織の方針比較、一次HTML主要部分確認、独立した符号化未実施。
+
+- [Google／Mandiant：LLMJackingによるクラウド資源の盗用](2026-google-llmjacking-cloud-resources.ja.md) — 企業の事例報告、公式検索結果の本文主要部分確認、独立検証未実施。
