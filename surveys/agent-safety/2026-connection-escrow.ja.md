@@ -1,4 +1,4 @@
-# Connection Escrow：エージェントの外向き通信を保留して検証する試作
+# Connection Escrow: Holding AI-Agent Pod Egress in the Kernel Until an Isolated Verifier Rules
 
 [English](2026-connection-escrow.md) | [テーマ索引](README.ja.md)
 
