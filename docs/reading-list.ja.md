@@ -5,6 +5,15 @@
 
 
 
+
+## 2026-11-05：エージェントとクラウド運用
+
+- [I-HITL：人間による承認](../surveys/agent-safety/2026-inalienable-human-approval.ja.md) — 原文主要部分を確認、再現未実施。
+- [構造化出力の失敗](../surveys/coding-agents/2026-structured-output-failure.ja.md) — 原文主要部分を確認、再現未実施。
+- [AWS製造業MLパイプライン](../surveys/cloud-resilience/2026-manufacturing-ml-event-pipeline.ja.md) — 原文主要部分を確認、再現未実施。
+- [ETUDE：ツール更新の盲点](../surveys/agent-safety/2026-tool-update-gap-etude.ja.md) — 原文主要部分を確認、再現未実施。
+- [Connection Escrow：外向き通信の保留](../surveys/agent-safety/2026-connection-escrow.ja.md) — 原文主要部分を確認、再現未実施。
+
 ## 2026-10-30追加：GitHub開発動向
 
 - [Octoverse 2026：AIエージェントとGitHubの開発動向](../surveys/articles/2026-github-octoverse-agents.ja.md) — 企業レポート。集計の範囲と限界を明記。
