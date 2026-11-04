@@ -1,4 +1,4 @@
-# Connection Escrow: Holding Agent Egress for Verification
+# Connection Escrow: Holding AI-Agent Pod Egress in the Kernel Until an Isolated Verifier Rules
 
 [日本語](2026-connection-escrow.ja.md) | [Theme index](README.md)
 
