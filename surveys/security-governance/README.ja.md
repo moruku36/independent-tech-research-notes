@@ -41,3 +41,6 @@ GenAI利用・暗号移行・マルチクラウド統制の一貫性をめぐる
 - [OSSへのAI貢献とガバナンス](2026-oss-machine-contributor-governance.ja.md) — 6組織の方針比較、一次HTML主要部分確認、独立した符号化未実施。
 
 - [Google／Mandiant：LLMJackingによるクラウド資源の盗用](2026-google-llmjacking-cloud-resources.ja.md) — 企業の事例報告、公式検索結果の本文主要部分確認、独立検証未実施。
+
+- [AIエージェントの透明性・説明責任・信頼性](2026-three-pillar-agent-oversight.ja.md) — 概念枠組み、一次資料主要部分確認。
+- [量子安全な暗号の構成要素と移行事例](2026-quantum-safe-mechanisms-survey.ja.md) — 一次資料主要部分確認、引用研究の独立検証未実施。
