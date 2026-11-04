@@ -35,3 +35,6 @@ Benchmarks and industrial studies of AI coding assistants, automated repair, and
 - [Evolving Agent Teams](2026-evolving-agent-teams.md) — selected primary HTML sections checked; discrepancies recorded; not reproduced.
 
 - [AutoHarness: synthesized action verification](2026-autoharness-code-synthesis.md) — primary HTML selected sections; finite game tests, not reproduced.
+
+
+- [Structured output failures](2026-structured-output-failure.md) — selected primary text checked; no reproduction.
