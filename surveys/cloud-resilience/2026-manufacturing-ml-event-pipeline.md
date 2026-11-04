@@ -1,4 +1,4 @@
-# Event-Driven Machine Learning Infrastructure for Manufacturing
+# Event-Driven ML Pipeline Orchestration for Manufacturing: An AWS Industry Experience
 
 [日本語](2026-manufacturing-ml-event-pipeline.ja.md) | [Theme index](README.md)
 
