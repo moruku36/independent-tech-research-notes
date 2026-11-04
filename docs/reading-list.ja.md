@@ -219,3 +219,11 @@
 - [AutoHarness](../surveys/coding-agents/2026-autoharness-code-synthesis.ja.md) — 一次資料主要部分確認、有限のゲーム評価、再現未実施。
 - [ツール呼び出し攻撃評価](../surveys/agent-safety/2025-tool-invocation-coding-agent-redteam.ja.md) — v6主要部分確認、不一致あり、再現未実施。
 - [Google／MandiantのLLMJacking報告](../surveys/security-governance/2026-google-llmjacking-cloud-resources.ja.md) — 企業の事例報告、公式検索結果本文を部分確認。
+
+## 2026-11-04追加・再確認（日本時間）
+
+- [AIエージェントの3本柱](../surveys/security-governance/2026-three-pillar-agent-oversight.ja.md) — 概念枠組み。
+- [AIエージェントによる自由な研究](../surveys/agent-safety/2026-open-ended-ai-research-shadow-evaluation.ja.md) — 既存v2ノートを再確認、重複登録なし。
+- [攻撃への露出と危険行動の監視評価](../surveys/agent-safety/2026-latent-monitor-exposure-commitment.ja.md) — 一次資料主要部分確認。
+- [量子安全暗号のサーベイ](../surveys/security-governance/2026-quantum-safe-mechanisms-survey.ja.md) — 一次資料主要部分確認、独立検証未実施。
+- [自律AIエージェントとCTFの再評価](../surveys/agent-safety/2026-autonomous-agents-ctf-second-look.ja.md) — 一次資料主要部分確認、試行回数に差あり。

@@ -41,3 +41,6 @@ Organizational security questions around GenAI, cryptographic migration, and mul
 - [Governance of AI contributions to open source](2026-oss-machine-contributor-governance.md) — six-organization policy comparison; selected primary sections checked, no independent coding.
 
 - [Google/Mandiant: LLMJacking](2026-google-llmjacking-cloud-resources.md) — incident analysis; selected official search-result text checked, not independently validated.
+
+- [Three-pillar agent oversight](2026-three-pillar-agent-oversight.md) — conceptual proposal; primary sections checked.
+- [Quantum-safe mechanisms and migration survey](2026-quantum-safe-mechanisms-survey.md) — selected primary sections checked; cited studies not independently validated.

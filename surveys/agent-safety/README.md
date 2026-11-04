@@ -35,3 +35,6 @@ Whether AI agents act outside their authorization, and how they can be attacked 
 - [CTFusion: live CTF evaluation](2026-ctfusion-live-ctf-evaluation.md) — v2 primary sections checked; discrepancy recorded; not reproduced.
 
 - [Tool-invocation red-teaming of coding agents](2025-tool-invocation-coding-agent-redteam.md) — v6 selected sections checked; abstract/table inconsistency recorded; no reproduction.
+
+- [Exposure Is Not Commitment](2026-latent-monitor-exposure-commitment.md) — primary sections checked; exposed-case monitoring and text baseline compared.
+- [Autonomous LLM Agents & CTFs: A Second Look](2026-autonomous-agents-ctf-second-look.md) — primary sections checked; unequal trial budgets noted.

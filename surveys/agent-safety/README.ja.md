@@ -35,3 +35,6 @@ AIエージェントが権限外の行動をとるか、実際のワークフロ
 - [CTFusion：開催中CTFによる評価](2026-ctfusion-live-ctf-evaluation.ja.md) — v2一次資料主要部分確認、記述の不一致あり、再現未実施。
 
 - [コーディングエージェントのツール呼び出し攻撃評価](2025-tool-invocation-coding-agent-redteam.ja.md) — v6主要部分確認、抄録と表の不一致を記録、再現未実施。
+
+- [攻撃への露出と危険行動の監視評価](2026-latent-monitor-exposure-commitment.ja.md) — 一次資料主要部分確認、テキスト分類器と比較。
+- [自律AIエージェントとCTFの再評価](2026-autonomous-agents-ctf-second-look.ja.md) — 一次資料主要部分確認、試行回数の差を明記。

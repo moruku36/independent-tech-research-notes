@@ -4,6 +4,14 @@
 
 Newest first. Earlier entries use dates recorded as additions in the reading list; these do not establish the user's actual reading dates. Undated entries are omitted.
 
+## 2026-11-04
+
+- [Three-pillar agent oversight](../surveys/security-governance/2026-three-pillar-agent-oversight.md)
+- [Open-ended AI research (rechecked)](../surveys/agent-safety/2026-open-ended-ai-research-shadow-evaluation.md)
+- [Exposure Is Not Commitment](../surveys/agent-safety/2026-latent-monitor-exposure-commitment.md)
+- [Quantum-safe mechanisms survey](../surveys/security-governance/2026-quantum-safe-mechanisms-survey.md)
+- [Autonomous agents and CTFs](../surveys/agent-safety/2026-autonomous-agents-ctf-second-look.md)
+
 ## 2026-11-03
 
 - [AutoHarness: synthesized action verification](../surveys/coding-agents/2026-autoharness-code-synthesis.md)

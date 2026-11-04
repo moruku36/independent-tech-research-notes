@@ -4,6 +4,14 @@
 
 新しい日付順。過去分は既存の読書一覧に記された追加日を使用し、本人の読了日を保証するものではありません。日付が特定できない資料は省いています。
 
+## 2026-11-04
+
+- [AIエージェントの透明性・説明責任・信頼性](../surveys/security-governance/2026-three-pillar-agent-oversight.ja.md)
+- [AIエージェントによる自由な研究（再確認）](../surveys/agent-safety/2026-open-ended-ai-research-shadow-evaluation.ja.md)
+- [攻撃への露出と危険行動の監視評価](../surveys/agent-safety/2026-latent-monitor-exposure-commitment.ja.md)
+- [量子安全な暗号の構成要素と移行事例](../surveys/security-governance/2026-quantum-safe-mechanisms-survey.ja.md)
+- [自律AIエージェントとCTFの再評価](../surveys/agent-safety/2026-autonomous-agents-ctf-second-look.ja.md)
+
 ## 2026-11-03
 
 - [AutoHarness：行動検証コードの自動生成](../surveys/coding-agents/2026-autoharness-code-synthesis.ja.md)
