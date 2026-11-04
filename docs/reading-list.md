@@ -211,3 +211,11 @@ When adding an entry, record the primary URL, bibliographic information, reading
 - [AutoHarness](../surveys/coding-agents/2026-autoharness-code-synthesis.md) — primary sections checked; finite game tests, no reproduction.
 - [Tool-invocation red-teaming](../surveys/agent-safety/2025-tool-invocation-coding-agent-redteam.md) — v6 selected sections, discrepancy noted, no reproduction.
 - [Google/Mandiant LLMJacking](../surveys/security-governance/2026-google-llmjacking-cloud-resources.md) — incident article; official search-result text partially checked.
+
+## Added or rechecked 2026-11-04 (JST)
+
+- [Three-pillar agent oversight](../surveys/security-governance/2026-three-pillar-agent-oversight.md) — conceptual proposal.
+- [Open-ended AI research](../surveys/agent-safety/2026-open-ended-ai-research-shadow-evaluation.md) — existing v2 record rechecked, not duplicated.
+- [Exposure Is Not Commitment](../surveys/agent-safety/2026-latent-monitor-exposure-commitment.md) — preprint, selected primary sections checked.
+- [Quantum-safe mechanisms survey](../surveys/security-governance/2026-quantum-safe-mechanisms-survey.md) — selected primary sections, no independent validation.
+- [Autonomous agents and CTFs](../surveys/agent-safety/2026-autonomous-agents-ctf-second-look.md) — selected primary sections, differing trial budgets.
