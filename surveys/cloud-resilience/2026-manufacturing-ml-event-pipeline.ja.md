@@ -1,4 +1,4 @@
-# 製造業向けイベント駆動ML基盤
+# Event-Driven ML Pipeline Orchestration for Manufacturing: An AWS Industry Experience
 
 [English](2026-manufacturing-ml-event-pipeline.md) | [テーマ索引](README.ja.md)
 
