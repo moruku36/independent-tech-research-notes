@@ -5,6 +5,15 @@
 
 
 
+
+## Added 2026-11-05: agents and cloud operations
+
+- [I-HITL: human approval](../surveys/agent-safety/2026-inalienable-human-approval.md) — selected primary text checked; no reproduction.
+- [Structured output failures](../surveys/coding-agents/2026-structured-output-failure.md) — selected primary text checked; no reproduction.
+- [Manufacturing ML pipeline on AWS](../surveys/cloud-resilience/2026-manufacturing-ml-event-pipeline.md) — selected primary text checked; no reproduction.
+- [ETUDE: tool update gap](../surveys/agent-safety/2026-tool-update-gap-etude.md) — selected primary text checked; no reproduction.
+- [Connection Escrow](../surveys/agent-safety/2026-connection-escrow.md) — selected primary text checked; no reproduction.
+
 ## Added 2026-10-30: GitHub development trends
 
 - [Octoverse 2026: GitHub activity and agents](../surveys/articles/2026-github-octoverse-agents.md) — company report, with measurement scope and limitations.

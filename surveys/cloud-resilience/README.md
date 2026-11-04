@@ -18,3 +18,6 @@ Papers on fault injection, recovery decisions, safety and experiment coordinatio
 [Survey index](../README.md) | [Repository README](../../README.md)
 
 - [AI-Generated Terraform in 2026: Benchmarks, Failure Modes, Guardrails](2026-ai-generated-terraform-guardrails.md) — Ajay Kumar, 2026-10-20, technical article; key sections checked; not reproduced.
+
+
+- [Manufacturing ML pipeline on AWS](2026-manufacturing-ml-event-pipeline.md) — selected primary text checked; no reproduction.

@@ -35,3 +35,6 @@ AIコーディング支援・自動修復・自動レビューのベンチマー
 - [Evolving Agent Teams：停滞に応じたチーム再編](2026-evolving-agent-teams.ja.md) — 一次HTML主要部分確認、原文の不一致を記録、再現未実施。
 
 - [AutoHarness：行動検証コードの自動生成](2026-autoharness-code-synthesis.ja.md) — 一次HTML主要部分確認、有限のゲーム評価、再現未実施。
+
+
+- [構造化出力の失敗](2026-structured-output-failure.ja.md) — 原文主要部分を確認、再現未実施。

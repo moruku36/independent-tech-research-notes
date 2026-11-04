@@ -38,3 +38,8 @@ AIエージェントが権限外の行動をとるか、実際のワークフロ
 
 - [攻撃への露出と危険行動の監視評価](2026-latent-monitor-exposure-commitment.ja.md) — 一次資料主要部分確認、テキスト分類器と比較。
 - [自律AIエージェントとCTFの再評価](2026-autonomous-agents-ctf-second-look.ja.md) — 一次資料主要部分確認、試行回数の差を明記。
+
+
+- [I-HITL：人間による承認](2026-inalienable-human-approval.ja.md) — 原文主要部分を確認、再現未実施。
+- [ETUDE：ツール更新の盲点](2026-tool-update-gap-etude.ja.md) — 原文主要部分を確認、再現未実施。
+- [Connection Escrow：外向き通信の保留](2026-connection-escrow.ja.md) — 原文主要部分を確認、再現未実施。

@@ -4,6 +4,14 @@
 
 Newest first. Earlier entries use dates recorded as additions in the reading list; these do not establish the user's actual reading dates. Undated entries are omitted.
 
+## 2026-11-05
+
+- [I-HITL: human approval](../surveys/agent-safety/2026-inalienable-human-approval.md)
+- [Structured output failures](../surveys/coding-agents/2026-structured-output-failure.md)
+- [Manufacturing ML pipeline on AWS](../surveys/cloud-resilience/2026-manufacturing-ml-event-pipeline.md)
+- [ETUDE: tool update gap](../surveys/agent-safety/2026-tool-update-gap-etude.md)
+- [Connection Escrow](../surveys/agent-safety/2026-connection-escrow.md)
+
 ## 2026-11-04
 
 - [Three-pillar agent oversight](../surveys/security-governance/2026-three-pillar-agent-oversight.md)

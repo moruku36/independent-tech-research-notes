@@ -38,3 +38,8 @@ Whether AI agents act outside their authorization, and how they can be attacked 
 
 - [Exposure Is Not Commitment](2026-latent-monitor-exposure-commitment.md) — primary sections checked; exposed-case monitoring and text baseline compared.
 - [Autonomous LLM Agents & CTFs: A Second Look](2026-autonomous-agents-ctf-second-look.md) — primary sections checked; unequal trial budgets noted.
+
+
+- [I-HITL: human approval](2026-inalienable-human-approval.md) — selected primary text checked; no reproduction.
+- [ETUDE: tool update gap](2026-tool-update-gap-etude.md) — selected primary text checked; no reproduction.
+- [Connection Escrow](2026-connection-escrow.md) — selected primary text checked; no reproduction.
