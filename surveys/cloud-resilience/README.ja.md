@@ -18,3 +18,6 @@
 [サーベイ索引](../README.ja.md) | [リポジトリREADME](../../README.ja.md)
 
 - [AI生成Terraformの失敗パターンと防御策](2026-ai-generated-terraform-guardrails.ja.md) — Ajay Kumar, 2026-10-20, technical article; 主要部分確認・再現未実施.
+
+
+- [AWS製造業MLパイプライン](2026-manufacturing-ml-event-pipeline.ja.md) — 原文主要部分を確認、再現未実施。
