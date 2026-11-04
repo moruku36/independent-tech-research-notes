@@ -1,4 +1,4 @@
-# LLMアプリケーションにおける構造化出力の失敗
+# Why Does Structured Output Fail? An Empirical Study of Prompt-Enforced Pydantic Schemas Across Nine LLMs
 
 [English](2026-structured-output-failure.md) | [テーマ索引](README.ja.md)
 
