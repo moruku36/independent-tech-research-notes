@@ -4,6 +4,14 @@
 
 新しい日付順。過去分は既存の読書一覧に記された追加日を使用し、本人の読了日を保証するものではありません。日付が特定できない資料は省いています。
 
+## 2026-11-05
+
+- [I-HITL：人間による承認](../surveys/agent-safety/2026-inalienable-human-approval.ja.md)
+- [構造化出力の失敗](../surveys/coding-agents/2026-structured-output-failure.ja.md)
+- [AWS製造業MLパイプライン](../surveys/cloud-resilience/2026-manufacturing-ml-event-pipeline.ja.md)
+- [ETUDE：ツール更新の盲点](../surveys/agent-safety/2026-tool-update-gap-etude.ja.md)
+- [Connection Escrow：外向き通信の保留](../surveys/agent-safety/2026-connection-escrow.ja.md)
+
 ## 2026-11-04
 
 - [AIエージェントの透明性・説明責任・信頼性](../surveys/security-governance/2026-three-pillar-agent-oversight.ja.md)
