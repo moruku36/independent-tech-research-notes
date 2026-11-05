@@ -4,6 +4,10 @@
 
 Vendor reports, conference recaps and company articles appear alongside a work/labor academic paper. The paper is labeled and counted separately from articles.
 
+## Added 2026-11-06
+
+- [OpenAI's commitments and policy proposals for AI compute campuses](2026-openai-responsible-ai-infrastructure.md) — Main primary-source sections checked; no reproduction or independent validation.
+
 ## Work and labor research (academic paper)
 
 - [Generative AI and critical thinking in knowledge work](2025-ai-critical-thinking-knowledge-workers.md) ([CHI 2025](https://doi.org/10.1145/3706598.3713778)): self-reports from 319 workers. Methods, results and limits partially read; no reproduction. This is an academic paper, not an article.

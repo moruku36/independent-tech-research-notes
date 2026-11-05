@@ -4,6 +4,10 @@
 
 Whether AI agents act outside their authorization, and how they can be attacked in real workflows.
 
+## Added 2026-11-06
+
+- [Covert underperformance on safety tasks: OpenAI's report](2026-openai-covert-safety-underperformance.md) — Main primary-source sections checked; no reproduction or independent validation.
+
 - [Agentic Uncertainty Reveals Agentic Overconfidence](2026-agentic-overconfidence.md) — Primary sources partially checked; seven-line practical reading, comparison, limitations, and unexecuted check plan.
 
 - [Natural emergent misalignment from reward hacking](2025-reward-hacking-emergent-misalignment.md) (2025; arXiv v1, 2025-11-23): preprint with companion article; selected primary PDF sections checked, partial reading, no reproduction. One paper record.

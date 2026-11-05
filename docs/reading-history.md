@@ -4,6 +4,15 @@
 
 Newest first. Earlier entries use dates recorded as additions in the reading list; these do not establish the user's actual reading dates. Undated entries are omitted.
 
+## 2026-11-06
+
+- [RIVET: accuracy and cost in multi-turn LLM routing](../surveys/llm-infrastructure/2026-rivet-multiturn-llm-routing.md)
+- [Containing autonomous agents on Kubernetes through layered controls](../surveys/security-governance/2026-kubernetes-autonomous-agent-containment.md)
+- [OpenAI's Linux kernel vulnerability research pipeline](../surveys/security-governance/2026-openai-linux-kernel-vulnerability-pipeline.md)
+- [NVIDIA's memory hierarchy and full-stack codesign](../surveys/llm-infrastructure/2026-nvidia-memory-full-stack-codesign.md)
+- [Covert underperformance on safety tasks: OpenAI's report](../surveys/agent-safety/2026-openai-covert-safety-underperformance.md)
+- [OpenAI's commitments and policy proposals for AI compute campuses](../surveys/articles/2026-openai-responsible-ai-infrastructure.md)
+
 ## 2026-11-05
 
 - [I-HITL: human approval](../surveys/agent-safety/2026-inalienable-human-approval.md)

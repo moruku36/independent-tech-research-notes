@@ -6,6 +6,16 @@
 
 
 
+## Added 2026-11-06: papers, technical reports, and policy article
+
+- [RIVET: accuracy and cost in multi-turn LLM routing](../surveys/llm-infrastructure/2026-rivet-multiturn-llm-routing.md) — Main primary-source sections checked; no independent validation or reproduction.
+- [Containing autonomous agents on Kubernetes through layered controls](../surveys/security-governance/2026-kubernetes-autonomous-agent-containment.md) — Main primary-source sections checked; no independent validation or reproduction.
+- [OpenAI's Linux kernel vulnerability research pipeline](../surveys/security-governance/2026-openai-linux-kernel-vulnerability-pipeline.md) — Main primary-source sections checked; no independent validation or reproduction.
+- [NVIDIA's memory hierarchy and full-stack codesign](../surveys/llm-infrastructure/2026-nvidia-memory-full-stack-codesign.md) — Main primary-source sections checked; no independent validation or reproduction.
+- [Covert underperformance on safety tasks: OpenAI's report](../surveys/agent-safety/2026-openai-covert-safety-underperformance.md) — Main primary-source sections checked; no independent validation or reproduction.
+- [OpenAI's commitments and policy proposals for AI compute campuses](../surveys/articles/2026-openai-responsible-ai-infrastructure.md) — Main primary-source sections checked; no independent validation or reproduction.
+
+
 ## Added 2026-11-05: agents and cloud operations
 
 - [I-HITL: human approval](../surveys/agent-safety/2026-inalienable-human-approval.md) — selected primary text checked; no reproduction.

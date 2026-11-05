@@ -4,6 +4,11 @@
 
 GenAI利用・暗号移行・マルチクラウド統制の一貫性をめぐる、組織面のセキュリティの問い。
 
+## 2026-11-06追加
+
+- [Kubernetes上の自律エージェントを封じ込める多層防御](2026-kubernetes-autonomous-agent-containment.ja.md) — 一次資料の主要部分を確認。再現・独立検証は未実施。
+- [OpenAIのLinuxカーネル脆弱性調査パイプライン](2026-openai-linux-kernel-vulnerability-pipeline.ja.md) — 一次資料の主要部分を確認。再現・独立検証は未実施。
+
 
 - [QERS：IoT通信の耐量子暗号評価](2026-qers-pqc-iot.ja.md) — 一次本文を部分確認、結果に不一致あり。
 - [NRIセキュア：指定ブログ確認待ち](2026-nri-ai-development-pending.ja.md) — 指定記事は未取得、関連公式発表は別資料として確認。

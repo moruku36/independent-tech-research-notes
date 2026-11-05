@@ -4,6 +4,11 @@
 
 Hardware choices, scheduling, KV cache control, and long-term memory retrieval.
 
+## Added 2026-11-06
+
+- [RIVET: accuracy and cost in multi-turn LLM routing](2026-rivet-multiturn-llm-routing.md) — Main primary-source sections checked; no reproduction or independent validation.
+- [NVIDIA's memory hierarchy and full-stack codesign](2026-nvidia-memory-full-stack-codesign.md) — Main primary-source sections checked; no reproduction or independent validation.
+
 - [Demystifying Cost-Efficiency in LLM Serving over Heterogeneous GPUs](2025-heterogeneous-gpu-llm-serving.md) ([arXiv:2502.00722](https://arxiv.org/abs/2502.00722), v2, 2025): benchmark of six GPU types and a MILP scheduler for GPU composition, deployment, and workload assignment under a price budget. Partially read (stops mid-§4.2); venue unconfirmed; no reproduction.
 
 - [Cache Engineering for Agents](2026-cache-engineering-for-agents.md) ([arXiv:2610.28577v1](https://arxiv.org/html/2610.28577v1), 2026): direct agent KV control. Main sections and appendix partially read; code and reproduction unverified.
