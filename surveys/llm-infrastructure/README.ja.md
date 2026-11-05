@@ -4,6 +4,11 @@
 
 LLM推論のハードウェア選択、スケジューリング、KVキャッシュ制御、長期記憶検索。
 
+## 2026-11-06追加
+
+- [RIVET：複数ターンLLMルーティングの精度と費用](2026-rivet-multiturn-llm-routing.ja.md) — 一次資料の主要部分を確認。再現・独立検証は未実施。
+- [NVIDIAのメモリー階層とフルスタック共同設計](2026-nvidia-memory-full-stack-codesign.ja.md) — 一次資料の主要部分を確認。再現・独立検証は未実施。
+
 - [Demystifying Cost-Efficiency in LLM Serving over Heterogeneous GPUs](2025-heterogeneous-gpu-llm-serving.ja.md)（[arXiv:2502.00722](https://arxiv.org/abs/2502.00722)、v2、2025）— 6種類のGPUの計測と、価格予算のもとでGPU構成・配置・負荷割り当てを決めるMILPスケジューラ。部分読了（§4.2の途中まで）／会場未確認／再現未実施。
 
 - [Cache Engineering for Agents](2026-cache-engineering-for-agents.ja.md)（[arXiv:2610.28577v1](https://arxiv.org/html/2610.28577v1)、2026）— エージェントのKVキャッシュを直接制御する研究。本文主要節・付録を部分読了／コード・再現未実施。

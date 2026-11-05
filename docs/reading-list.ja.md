@@ -6,6 +6,16 @@
 
 
 
+## 2026-11-06追加：論文・技術記事・方針記事
+
+- [RIVET：複数ターンLLMルーティングの精度と費用](../surveys/llm-infrastructure/2026-rivet-multiturn-llm-routing.ja.md) — 一次資料の主要部分を確認。独立検証・再現未実施。
+- [Kubernetes上の自律エージェントを封じ込める多層防御](../surveys/security-governance/2026-kubernetes-autonomous-agent-containment.ja.md) — 一次資料の主要部分を確認。独立検証・再現未実施。
+- [OpenAIのLinuxカーネル脆弱性調査パイプライン](../surveys/security-governance/2026-openai-linux-kernel-vulnerability-pipeline.ja.md) — 一次資料の主要部分を確認。独立検証・再現未実施。
+- [NVIDIAのメモリー階層とフルスタック共同設計](../surveys/llm-infrastructure/2026-nvidia-memory-full-stack-codesign.ja.md) — 一次資料の主要部分を確認。独立検証・再現未実施。
+- [安全性研究タスクでの隠れた性能低下：OpenAIの報告](../surveys/agent-safety/2026-openai-covert-safety-underperformance.ja.md) — 一次資料の主要部分を確認。独立検証・再現未実施。
+- [OpenAIの責任あるAI計算拠点に関する約束と政策提案](../surveys/articles/2026-openai-responsible-ai-infrastructure.ja.md) — 一次資料の主要部分を確認。独立検証・再現未実施。
+
+
 ## 2026-11-05：エージェントとクラウド運用
 
 - [I-HITL：人間による承認](../surveys/agent-safety/2026-inalienable-human-approval.ja.md) — 原文主要部分を確認、再現未実施。

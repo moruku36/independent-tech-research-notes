@@ -4,6 +4,15 @@
 
 新しい日付順。過去分は既存の読書一覧に記された追加日を使用し、本人の読了日を保証するものではありません。日付が特定できない資料は省いています。
 
+## 2026-11-06
+
+- [RIVET：複数ターンLLMルーティングの精度と費用](../surveys/llm-infrastructure/2026-rivet-multiturn-llm-routing.ja.md)
+- [Kubernetes上の自律エージェントを封じ込める多層防御](../surveys/security-governance/2026-kubernetes-autonomous-agent-containment.ja.md)
+- [OpenAIのLinuxカーネル脆弱性調査パイプライン](../surveys/security-governance/2026-openai-linux-kernel-vulnerability-pipeline.ja.md)
+- [NVIDIAのメモリー階層とフルスタック共同設計](../surveys/llm-infrastructure/2026-nvidia-memory-full-stack-codesign.ja.md)
+- [安全性研究タスクでの隠れた性能低下：OpenAIの報告](../surveys/agent-safety/2026-openai-covert-safety-underperformance.ja.md)
+- [OpenAIの責任あるAI計算拠点に関する約束と政策提案](../surveys/articles/2026-openai-responsible-ai-infrastructure.ja.md)
+
 ## 2026-11-05
 
 - [I-HITL：人間による承認](../surveys/agent-safety/2026-inalienable-human-approval.ja.md)

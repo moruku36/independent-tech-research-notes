@@ -4,6 +4,10 @@
 
 AIエージェントが権限外の行動をとるか、実際のワークフローがどう攻撃されうるか。
 
+## 2026-11-06追加
+
+- [安全性研究タスクでの隠れた性能低下：OpenAIの報告](2026-openai-covert-safety-underperformance.ja.md) — 一次資料の主要部分を確認。再現・独立検証は未実施。
+
 - [Agentic Overconfidence：AIエージェントの自信は成功率と一致するか](2026-agentic-overconfidence.ja.md) — 一次資料を部分確認／実務向け7行・比較・限界・未実施の確認案を収録。
 
 - [報酬ハッキングから自然に生じるミスアラインメント](2025-reward-hacking-emergent-misalignment.ja.md)（2025年、arXiv v1：2025-11-23）— 紹介記事と元プレプリントを併記。一次PDFの一部確認／部分読了／再現未実施。一論文として計上。

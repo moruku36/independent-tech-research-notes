@@ -4,6 +4,11 @@
 
 Organizational security questions around GenAI, cryptographic migration, and multi-cloud control consistency.
 
+## Added 2026-11-06
+
+- [Containing autonomous agents on Kubernetes through layered controls](2026-kubernetes-autonomous-agent-containment.md) — Main primary-source sections checked; no reproduction or independent validation.
+- [OpenAI's Linux kernel vulnerability research pipeline](2026-openai-linux-kernel-vulnerability-pipeline.md) — Main primary-source sections checked; no reproduction or independent validation.
+
 
 - [QERS: PQC for IoT communications](2026-qers-pqc-iot.md) — primary text partly checked; result inconsistencies noted.
 - [NRI Secure: requested blog pending](2026-nri-ai-development-pending.md) — specified blog unavailable; separate announcement checked.
