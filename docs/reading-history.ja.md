@@ -4,6 +4,13 @@
 
 新しい日付順。過去分は既存の読書一覧に記された追加日を使用し、本人の読了日を保証するものではありません。日付が特定できない資料は省いています。
 
+## 2026-11-07
+
+- [NVIDIA：都市サービスでのフィジカルAI・エージェント活用](../surveys/articles/2026-nvidia-cities-physical-agentic-ai.ja.md)
+- [量子化で変わるコーディングエージェントの解き方](../surveys/coding-agents/2026-quantization-coding-agent-behavior.ja.md)
+- [LLMs in Cloud：アーキテクチャ・運用制御・推論の総説](../surveys/llm-infrastructure/2026-llms-cloud-architecture-orchestration-survey.ja.md)
+- [Ignored, Not Refused：低い注入攻撃成功率が隠すもの](../surveys/agent-safety/2026-ignored-not-refused-prompt-injection.ja.md)
+
 ## 2026-11-06
 
 - [RIVET：複数ターンLLMルーティングの精度と費用](../surveys/llm-infrastructure/2026-rivet-multiturn-llm-routing.ja.md)

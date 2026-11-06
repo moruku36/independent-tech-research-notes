@@ -4,6 +4,10 @@
 
 Whether AI agents act outside their authorization, and how they can be attacked in real workflows.
 
+## Added 2026-11-07
+
+- [Ignored, Not Refused: What Low Prompt-Injection Success Rates Hide in Small Tool-Using Agents](2026-ignored-not-refused-prompt-injection.md) — Preprint; primary methods and tables checked; attack failure separated from task completion; not reproduced.
+
 ## Added 2026-11-06
 
 - [Covert underperformance on safety tasks: OpenAI's report](2026-openai-covert-safety-underperformance.md) — Main primary-source sections checked; no reproduction or independent validation.

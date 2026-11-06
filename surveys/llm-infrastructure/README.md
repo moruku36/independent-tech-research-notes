@@ -4,6 +4,10 @@
 
 Hardware choices, scheduling, KV cache control, and long-term memory retrieval.
 
+## Added 2026-11-07
+
+- [LLMs in Cloud: A Discussion on Architecture, Orchestration, and Inference](2026-llms-cloud-architecture-orchestration-survey.md) — Survey preprint; methods and discussion partly checked; selection inconsistency recorded; cited performance unverified.
+
 ## Added 2026-11-06
 
 - [RIVET: accuracy and cost in multi-turn LLM routing](2026-rivet-multiturn-llm-routing.md) — Main primary-source sections checked; no reproduction or independent validation.
