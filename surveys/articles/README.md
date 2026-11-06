@@ -4,6 +4,10 @@
 
 Vendor reports, conference recaps and company articles appear alongside a work/labor academic paper. The paper is labeled and counted separately from articles.
 
+## Added 2026-11-07
+
+- [Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI](2026-nvidia-cities-physical-agentic-ai.md) — Vendor case-study article; text checked, deployments separated from plans; no independent validation.
+
 ## Added 2026-11-06
 
 - [OpenAI's commitments and policy proposals for AI compute campuses](2026-openai-responsible-ai-infrastructure.md) — Main primary-source sections checked; no reproduction or independent validation.

@@ -6,6 +6,13 @@
 
 
 
+## Added 2026-11-07: city AI, quantization, cloud serving, and injection evaluation
+
+- [Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI](../surveys/articles/2026-nvidia-cities-physical-agentic-ai.md) — Vendor case-study article; text checked, deployments separated from plans; no independent validation.
+- [Beyond Accuracy: How Quantization Affects Coding Agents](../surveys/coding-agents/2026-quantization-coding-agent-behavior.md) — Preprint; primary methods and main tables checked; non-significance distinguished from equivalence; not reproduced.
+- [LLMs in Cloud: A Discussion on Architecture, Orchestration, and Inference](../surveys/llm-infrastructure/2026-llms-cloud-architecture-orchestration-survey.md) — Survey preprint; methods and discussion partly checked; selection inconsistency recorded; cited performance unverified.
+- [Ignored, Not Refused: What Low Prompt-Injection Success Rates Hide in Small Tool-Using Agents](../surveys/agent-safety/2026-ignored-not-refused-prompt-injection.md) — Preprint; primary methods and tables checked; attack failure separated from task completion; not reproduced.
+
 ## Added 2026-11-06: papers, technical reports, and policy article
 
 - [RIVET: accuracy and cost in multi-turn LLM routing](../surveys/llm-infrastructure/2026-rivet-multiturn-llm-routing.md) — Main primary-source sections checked; no independent validation or reproduction.

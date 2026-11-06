@@ -6,6 +6,13 @@
 
 
 
+## 2026-11-07追加：都市AI・量子化・クラウド推論・攻撃評価
+
+- [NVIDIA：都市サービスでのフィジカルAI・エージェント活用](../surveys/articles/2026-nvidia-cities-physical-agentic-ai.ja.md) — 企業事例記事。本文確認、導入実績と将来計画を区別／独立検証未実施。
+- [量子化で変わるコーディングエージェントの解き方](../surveys/coding-agents/2026-quantization-coding-agent-behavior.ja.md) — プレプリント。一次本文・主要表を確認／有意差なしと同等性を区別／再現未実施。
+- [LLMs in Cloud：アーキテクチャ・運用制御・推論の総説](../surveys/llm-infrastructure/2026-llms-cloud-architecture-orchestration-survey.ja.md) — 総説プレプリント。方法・主要議論を部分確認／文献選定の不一致を記録／引用性能は未検証。
+- [Ignored, Not Refused：低い注入攻撃成功率が隠すもの](../surveys/agent-safety/2026-ignored-not-refused-prompt-injection.ja.md) — プレプリント。一次本文・主要表を確認／攻撃失敗と作業完了を分けて記録／再現未実施。
+
 ## 2026-11-06追加：論文・技術記事・方針記事
 
 - [RIVET：複数ターンLLMルーティングの精度と費用](../surveys/llm-infrastructure/2026-rivet-multiturn-llm-routing.ja.md) — 一次資料の主要部分を確認。独立検証・再現未実施。

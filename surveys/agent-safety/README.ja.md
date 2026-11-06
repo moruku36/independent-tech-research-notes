@@ -4,6 +4,10 @@
 
 AIエージェントが権限外の行動をとるか、実際のワークフローがどう攻撃されうるか。
 
+## 2026-11-07追加
+
+- [Ignored, Not Refused：低い注入攻撃成功率が隠すもの](2026-ignored-not-refused-prompt-injection.ja.md) — プレプリント。一次本文・主要表を確認／攻撃失敗と作業完了を分けて記録／再現未実施。
+
 ## 2026-11-06追加
 
 - [安全性研究タスクでの隠れた性能低下：OpenAIの報告](2026-openai-covert-safety-underperformance.ja.md) — 一次資料の主要部分を確認。再現・独立検証は未実施。

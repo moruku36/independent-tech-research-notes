@@ -4,6 +4,10 @@
 
 Benchmarks and industrial studies of AI coding assistants, automated repair, and automated review.
 
+## Added 2026-11-07
+
+- [Beyond Accuracy: How Quantization Affects Coding Agents](2026-quantization-coding-agent-behavior.md) — Preprint; primary methods and main tables checked; non-significance distinguished from equivalence; not reproduced.
+
 ## Added October 28, 2026
 
 - [Scion commentary: Git assumptions at agent scale](2026-scion-qiita-design-review.md) — Practitioner commentary on a primary engineering article. Body and publication metadata read through Qiita's API. Primary Scion article has an existing note; figures and additional Entire claims were not independently rechecked.

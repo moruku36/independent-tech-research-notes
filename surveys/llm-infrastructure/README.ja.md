@@ -4,6 +4,10 @@
 
 LLM推論のハードウェア選択、スケジューリング、KVキャッシュ制御、長期記憶検索。
 
+## 2026-11-07追加
+
+- [LLMs in Cloud：アーキテクチャ・運用制御・推論の総説](2026-llms-cloud-architecture-orchestration-survey.ja.md) — 総説プレプリント。方法・主要議論を部分確認／文献選定の不一致を記録／引用性能は未検証。
+
 ## 2026-11-06追加
 
 - [RIVET：複数ターンLLMルーティングの精度と費用](2026-rivet-multiturn-llm-routing.ja.md) — 一次資料の主要部分を確認。再現・独立検証は未実施。

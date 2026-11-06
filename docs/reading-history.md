@@ -4,6 +4,13 @@
 
 Newest first. Earlier entries use dates recorded as additions in the reading list; these do not establish the user's actual reading dates. Undated entries are omitted.
 
+## 2026-11-07
+
+- [Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI](../surveys/articles/2026-nvidia-cities-physical-agentic-ai.md)
+- [Beyond Accuracy: How Quantization Affects Coding Agents](../surveys/coding-agents/2026-quantization-coding-agent-behavior.md)
+- [LLMs in Cloud: A Discussion on Architecture, Orchestration, and Inference](../surveys/llm-infrastructure/2026-llms-cloud-architecture-orchestration-survey.md)
+- [Ignored, Not Refused: What Low Prompt-Injection Success Rates Hide in Small Tool-Using Agents](../surveys/agent-safety/2026-ignored-not-refused-prompt-injection.md)
+
 ## 2026-11-06
 
 - [RIVET: accuracy and cost in multi-turn LLM routing](../surveys/llm-infrastructure/2026-rivet-multiturn-llm-routing.md)
