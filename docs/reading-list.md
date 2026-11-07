@@ -8,6 +8,8 @@
 
 ## Added 2026-11-07: city AI, quantization, cloud serving, injection evaluation, and automated research
 
+- [Recursive Self-Improvement through Multi-Agent Self-Supervision](../surveys/coding-agents/2026-mass-multi-agent-self-supervision.md) — Preprint v1; workflow search and SFT; output-token efficiency distinguished from total cost; not reproduced.
+
 - [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](../surveys/coding-agents/2024-sakana-ai-scientist.md) — Research article + paper v3; 2024 pipeline and limits partly checked; automated scores distinguished from actual acceptance; not reproduced.
 - [Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents](../surveys/coding-agents/2025-sakana-darwin-godel-machine.md) — Research article + paper v3; code self-improvement with frozen models; staged and full evaluations distinguished; not reproduced.
 - [Wider or Deeper? Scaling LLM Inference-Time Compute with Adaptive Branching Tree Search](../surveys/llm-infrastructure/2025-sakana-adaptive-branching-mcts.md) — Research article + paper v5; search partly checked; Pass@250 distinguished from final selection; not reproduced.

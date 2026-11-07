@@ -8,6 +8,8 @@
 
 ## 2026-11-07追加：都市AI・量子化・クラウド推論・攻撃評価・研究自動化
 
+- [MASS：複数エージェントの実行記録から学ぶ再帰的自己改善](../surveys/coding-agents/2026-mass-multi-agent-self-supervision.ja.md) — プレプリントv1。ワークフロー探索と追加学習／出力トークン効率と総費用を区別／再現未実施。
+
 - [The AI Scientist：研究工程から論文作成・自動査読まで](../surveys/coding-agents/2024-sakana-ai-scientist.ja.md) — 研究記事＋対応論文v3。2024年版の工程・評価・限界を部分確認／自動査読と実際の採択を区別／再現未実施。
 - [Darwin Gödel Machine：自分のコードを改善するエージェント](../surveys/coding-agents/2025-sakana-darwin-godel-machine.ja.md) — 研究記事＋対応論文v3。固定モデルでのコード自己改善／段階評価と全体評価を区別／再現未実施。
 - [AB-MCTS：新しい候補と既存案の改善を配分する探索](../surveys/llm-infrastructure/2025-sakana-adaptive-branching-mcts.ja.md) — 研究記事＋対応論文v5。探索方式を部分確認／Pass@250と最終解選択を区別／再現未実施。
