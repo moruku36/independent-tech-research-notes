@@ -4,6 +4,10 @@
 
 GenAI利用・暗号移行・マルチクラウド統制の一貫性をめぐる、組織面のセキュリティの問い。
 
+## 2026-11-08追加
+
+- [CVM-Store：機密VMの永続ストレージを守る設計](2026-cvm-store-confidential-vm-storage.ja.md) — システム論文プレプリントv1。脅威モデル・同期条件・性能を部分確認／再現未実施。
+
 ## 2026-11-06追加
 
 - [Kubernetes上の自律エージェントを封じ込める多層防御](2026-kubernetes-autonomous-agent-containment.ja.md) — 一次資料の主要部分を確認。再現・独立検証は未実施。

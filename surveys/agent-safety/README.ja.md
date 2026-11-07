@@ -4,6 +4,10 @@
 
 AIエージェントが権限外の行動をとるか、実際のワークフローがどう攻撃されうるか。
 
+## 2026-11-08追加
+
+- [Trojan Horse：コーディングエージェントへのリポジトリ汚染攻撃](2026-trojanforge-repository-poisoning.ja.md) — プレプリントv1。リポジトリ汚染の実験条件・成功例選択を確認／攻撃未実行。
+
 ## 2026-11-07追加
 
 - [Ignored, Not Refused：低い注入攻撃成功率が隠すもの](2026-ignored-not-refused-prompt-injection.ja.md) — プレプリント。一次本文・主要表を確認／攻撃失敗と作業完了を分けて記録／再現未実施。

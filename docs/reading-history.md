@@ -4,6 +4,12 @@
 
 Newest first. Earlier entries use dates recorded as additions in the reading list; these do not establish the user's actual reading dates. Undated entries are omitted.
 
+## 2026-11-08
+
+- [Trojan Horse: Automated Repository Poisoning against Coding Agents](../surveys/agent-safety/2026-trojanforge-repository-poisoning.md)
+- [CVM-Store: A Secure Storage System for Confidential Virtual Machines](../surveys/security-governance/2026-cvm-store-confidential-vm-storage.md)
+- [What Open-Source Projects Tell Their Coding Agents: A Census of AGENTS.md and CLAUDE.md](../surveys/coding-agents/2026-agents-claude-instruction-file-census.md)
+
 ## 2026-11-07
 
 - [Dream-Cubed: Controllable Generative Modeling in Minecraft by Training on Billions of Cubes](../surveys/generative-modeling/2026-dream-cubed-minecraft-generation.md)

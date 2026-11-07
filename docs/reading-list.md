@@ -6,6 +6,12 @@
 
 
 
+## Added 2026-11-08: repository attacks, confidential storage, and instruction files
+
+- [Trojan Horse: Automated Repository Poisoning against Coding Agents](../surveys/agent-safety/2026-trojanforge-repository-poisoning.md) — Preprint v1; setup and success-conditioned corpus checked; attacks not executed.
+- [CVM-Store: A Secure Storage System for Confidential Virtual Machines](../surveys/security-governance/2026-cvm-store-confidential-vm-storage.md) — Systems preprint v1; threat model, synchronization, and performance partly checked; not reproduced.
+- [What Open-Source Projects Tell Their Coding Agents: A Census of AGENTS.md and CLAUDE.md](../surveys/coding-agents/2026-agents-claude-instruction-file-census.md) — Observational preprint v2; root-file prevalence/content checked; distinguished from effectiveness and runtime use.
+
 ## Added 2026-11-07: city AI, quantization, cloud serving, injection evaluation, automated research, and 3D generation
 
 - [Dream-Cubed: Controllable Generative Modeling in Minecraft by Training on Billions of Cubes](../surveys/generative-modeling/2026-dream-cubed-minecraft-generation.md) — Preprint v1; primary text and public README checked; visual evaluation distinguished from functionality; not reproduced.
