@@ -6,6 +6,8 @@ Hardware choices, scheduling, KV cache control, and long-term memory retrieval.
 
 ## Added 2026-11-07
 
+- [Wider or Deeper? Scaling LLM Inference-Time Compute with Adaptive Branching Tree Search](2025-sakana-adaptive-branching-mcts.md) — Research article + paper v5; search partly checked; Pass@250 distinguished from final selection; not reproduced.
+
 - [LLMs in Cloud: A Discussion on Architecture, Orchestration, and Inference](2026-llms-cloud-architecture-orchestration-survey.md) — Survey preprint; methods and discussion partly checked; selection inconsistency recorded; cited performance unverified.
 
 ## Added 2026-11-06

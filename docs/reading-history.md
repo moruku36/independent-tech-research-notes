@@ -6,6 +6,10 @@ Newest first. Earlier entries use dates recorded as additions in the reading lis
 
 ## 2026-11-07
 
+- [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](../surveys/coding-agents/2024-sakana-ai-scientist.md)
+- [Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents](../surveys/coding-agents/2025-sakana-darwin-godel-machine.md)
+- [Wider or Deeper? Scaling LLM Inference-Time Compute with Adaptive Branching Tree Search](../surveys/llm-infrastructure/2025-sakana-adaptive-branching-mcts.md)
+
 - [Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI](../surveys/articles/2026-nvidia-cities-physical-agentic-ai.md)
 - [Beyond Accuracy: How Quantization Affects Coding Agents](../surveys/coding-agents/2026-quantization-coding-agent-behavior.md)
 - [LLMs in Cloud: A Discussion on Architecture, Orchestration, and Inference](../surveys/llm-infrastructure/2026-llms-cloud-architecture-orchestration-survey.md)
