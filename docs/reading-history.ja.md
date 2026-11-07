@@ -6,6 +6,8 @@
 
 ## 2026-11-07
 
+- [MASS：複数エージェントの実行記録から学ぶ再帰的自己改善](../surveys/coding-agents/2026-mass-multi-agent-self-supervision.ja.md)
+
 - [The AI Scientist：研究工程から論文作成・自動査読まで](../surveys/coding-agents/2024-sakana-ai-scientist.ja.md)
 - [Darwin Gödel Machine：自分のコードを改善するエージェント](../surveys/coding-agents/2025-sakana-darwin-godel-machine.ja.md)
 - [AB-MCTS：新しい候補と既存案の改善を配分する探索](../surveys/llm-infrastructure/2025-sakana-adaptive-branching-mcts.ja.md)

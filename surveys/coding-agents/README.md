@@ -6,6 +6,8 @@ Benchmarks and industrial studies of AI coding assistants, automated repair, and
 
 ## Added 2026-11-07
 
+- [Recursive Self-Improvement through Multi-Agent Self-Supervision](2026-mass-multi-agent-self-supervision.md) — Preprint v1; workflow search and SFT; output-token efficiency distinguished from total cost; not reproduced.
+
 - [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](2024-sakana-ai-scientist.md) — Research article + paper v3; 2024 pipeline and limits partly checked; automated scores distinguished from actual acceptance; not reproduced.
 - [Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents](2025-sakana-darwin-godel-machine.md) — Research article + paper v3; code self-improvement with frozen models; staged and full evaluations distinguished; not reproduced.
 

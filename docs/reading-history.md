@@ -6,6 +6,8 @@ Newest first. Earlier entries use dates recorded as additions in the reading lis
 
 ## 2026-11-07
 
+- [Recursive Self-Improvement through Multi-Agent Self-Supervision](../surveys/coding-agents/2026-mass-multi-agent-self-supervision.md)
+
 - [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](../surveys/coding-agents/2024-sakana-ai-scientist.md)
 - [Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents](../surveys/coding-agents/2025-sakana-darwin-godel-machine.md)
 - [Wider or Deeper? Scaling LLM Inference-Time Compute with Adaptive Branching Tree Search](../surveys/llm-infrastructure/2025-sakana-adaptive-branching-mcts.md)
