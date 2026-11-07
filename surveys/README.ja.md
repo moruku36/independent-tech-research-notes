@@ -13,6 +13,7 @@
 - [クラウドの耐障害性・SRE](cloud-resilience/README.ja.md): AWS複数アカウントの障害実験と復旧判定。実測・再現は未確認。 [SequenceFI：タイミングを指定するマイクロサービス障害注入](cloud-resilience/2026-sequencefi.ja.md)。 [Cloud Computing & DevOps：2025–2026年の研究動向](cloud-resilience/2026-cloud-devops-research-insights.ja.md) (技術記事・報告).
 - [イベント・技術記事・仕事／労働研究](articles/README.ja.md)（記事・報告書5本＋学術論文1本）: 仕事・労働のCHI論文を記事と区別して収録。 [再帰的自己改善（RSI）：証拠の読み分け](articles/2026-rsi-evidence-review.ja.md)。
 
+- [生成モデル・3D環境](generative-modeling/README.ja.md): 構造化された環境生成、部分補完、拡張と品質評価。
 - [予測・ベンチマーク](forecasting/README.ja.md)：時系列予測と評価データ。
 
 研究記事も同じ記録項目で整理するが、査読論文・プレプリントとは区別して件数を示す。

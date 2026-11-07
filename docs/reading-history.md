@@ -6,6 +6,8 @@ Newest first. Earlier entries use dates recorded as additions in the reading lis
 
 ## 2026-11-07
 
+- [Dream-Cubed: Controllable Generative Modeling in Minecraft by Training on Billions of Cubes](../surveys/generative-modeling/2026-dream-cubed-minecraft-generation.md)
+
 - [Recursive Self-Improvement through Multi-Agent Self-Supervision](../surveys/coding-agents/2026-mass-multi-agent-self-supervision.md)
 
 - [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](../surveys/coding-agents/2024-sakana-ai-scientist.md)
