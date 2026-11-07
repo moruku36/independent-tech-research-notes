@@ -6,7 +6,9 @@
 
 
 
-## Added 2026-11-07: city AI, quantization, cloud serving, injection evaluation, and automated research
+## Added 2026-11-07: city AI, quantization, cloud serving, injection evaluation, automated research, and 3D generation
+
+- [Dream-Cubed: Controllable Generative Modeling in Minecraft by Training on Billions of Cubes](../surveys/generative-modeling/2026-dream-cubed-minecraft-generation.md) — Preprint v1; primary text and public README checked; visual evaluation distinguished from functionality; not reproduced.
 
 - [Recursive Self-Improvement through Multi-Agent Self-Supervision](../surveys/coding-agents/2026-mass-multi-agent-self-supervision.md) — Preprint v1; workflow search and SFT; output-token efficiency distinguished from total cost; not reproduced.
 

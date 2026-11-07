@@ -6,7 +6,9 @@
 
 
 
-## 2026-11-07追加：都市AI・量子化・クラウド推論・攻撃評価・研究自動化
+## 2026-11-07追加：都市AI・量子化・クラウド推論・攻撃評価・研究自動化・3D生成
+
+- [Dream-Cubed：Minecraftのブロック配置を制御して生成する](../surveys/generative-modeling/2026-dream-cubed-minecraft-generation.ja.md) — プレプリントv1。一次本文・公開READMEを確認／画像評価と機能性を区別／再現未実施。
 
 - [MASS：複数エージェントの実行記録から学ぶ再帰的自己改善](../surveys/coding-agents/2026-mass-multi-agent-self-supervision.ja.md) — プレプリントv1。ワークフロー探索と追加学習／出力トークン効率と総費用を区別／再現未実施。
 

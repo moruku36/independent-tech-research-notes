@@ -6,6 +6,8 @@
 
 ## 2026-11-07
 
+- [Dream-Cubed：Minecraftのブロック配置を制御して生成する](../surveys/generative-modeling/2026-dream-cubed-minecraft-generation.ja.md)
+
 - [MASS：複数エージェントの実行記録から学ぶ再帰的自己改善](../surveys/coding-agents/2026-mass-multi-agent-self-supervision.ja.md)
 
 - [The AI Scientist：研究工程から論文作成・自動査読まで](../surveys/coding-agents/2024-sakana-ai-scientist.ja.md)
