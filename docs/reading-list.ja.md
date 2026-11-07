@@ -6,6 +6,12 @@
 
 
 
+## 2026-11-08追加：リポジトリ攻撃・機密VMストレージ・指示ファイル
+
+- [Trojan Horse：コーディングエージェントへのリポジトリ汚染攻撃](../surveys/agent-safety/2026-trojanforge-repository-poisoning.ja.md) — プレプリントv1。リポジトリ汚染の実験条件・成功例選択を確認／攻撃未実行。
+- [CVM-Store：機密VMの永続ストレージを守る設計](../surveys/security-governance/2026-cvm-store-confidential-vm-storage.ja.md) — システム論文プレプリントv1。脅威モデル・同期条件・性能を部分確認／再現未実施。
+- [AGENTS.md・CLAUDE.mdの実態：公開リポジトリの指示ファイル調査](../surveys/coding-agents/2026-agents-claude-instruction-file-census.ja.md) — 観察研究プレプリントv2。ルート指示ファイルの普及・内容を確認／効果や実利用とは区別。
+
 ## 2026-11-07追加：都市AI・量子化・クラウド推論・攻撃評価・研究自動化・3D生成
 
 - [Dream-Cubed：Minecraftのブロック配置を制御して生成する](../surveys/generative-modeling/2026-dream-cubed-minecraft-generation.ja.md) — プレプリントv1。一次本文・公開READMEを確認／画像評価と機能性を区別／再現未実施。

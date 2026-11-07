@@ -4,6 +4,10 @@
 
 Benchmarks and industrial studies of AI coding assistants, automated repair, and automated review.
 
+## Added 2026-11-08
+
+- [What Open-Source Projects Tell Their Coding Agents: A Census of AGENTS.md and CLAUDE.md](2026-agents-claude-instruction-file-census.md) — Observational preprint v2; root-file prevalence/content checked; distinguished from effectiveness and runtime use.
+
 ## Added 2026-11-07
 
 - [Recursive Self-Improvement through Multi-Agent Self-Supervision](2026-mass-multi-agent-self-supervision.md) — Preprint v1; workflow search and SFT; output-token efficiency distinguished from total cost; not reproduced.

@@ -4,6 +4,12 @@
 
 新しい日付順。過去分は既存の読書一覧に記された追加日を使用し、本人の読了日を保証するものではありません。日付が特定できない資料は省いています。
 
+## 2026-11-08
+
+- [Trojan Horse：コーディングエージェントへのリポジトリ汚染攻撃](../surveys/agent-safety/2026-trojanforge-repository-poisoning.ja.md)
+- [CVM-Store：機密VMの永続ストレージを守る設計](../surveys/security-governance/2026-cvm-store-confidential-vm-storage.ja.md)
+- [AGENTS.md・CLAUDE.mdの実態：公開リポジトリの指示ファイル調査](../surveys/coding-agents/2026-agents-claude-instruction-file-census.ja.md)
+
 ## 2026-11-07
 
 - [Dream-Cubed：Minecraftのブロック配置を制御して生成する](../surveys/generative-modeling/2026-dream-cubed-minecraft-generation.ja.md)

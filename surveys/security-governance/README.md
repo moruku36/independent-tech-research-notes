@@ -4,6 +4,10 @@
 
 Organizational security questions around GenAI, cryptographic migration, and multi-cloud control consistency.
 
+## Added 2026-11-08
+
+- [CVM-Store: A Secure Storage System for Confidential Virtual Machines](2026-cvm-store-confidential-vm-storage.md) — Systems preprint v1; threat model, synchronization, and performance partly checked; not reproduced.
+
 ## Added 2026-11-06
 
 - [Containing autonomous agents on Kubernetes through layered controls](2026-kubernetes-autonomous-agent-containment.md) — Main primary-source sections checked; no reproduction or independent validation.
