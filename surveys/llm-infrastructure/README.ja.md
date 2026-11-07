@@ -6,6 +6,8 @@ LLM推論のハードウェア選択、スケジューリング、KVキャッシ
 
 ## 2026-11-07追加
 
+- [AB-MCTS：新しい候補と既存案の改善を配分する探索](2025-sakana-adaptive-branching-mcts.ja.md) — 研究記事＋対応論文v5。探索方式を部分確認／Pass@250と最終解選択を区別／再現未実施。
+
 - [LLMs in Cloud：アーキテクチャ・運用制御・推論の総説](2026-llms-cloud-architecture-orchestration-survey.ja.md) — 総説プレプリント。方法・主要議論を部分確認／文献選定の不一致を記録／引用性能は未検証。
 
 ## 2026-11-06追加
