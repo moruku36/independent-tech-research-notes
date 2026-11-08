@@ -8,6 +8,7 @@
 
 ## Added 2026-11-08: security, instruction files, identity auditing, and memory
 
+- [Ubuntu security layers: Desktop, Server, and agent isolation conditions](../surveys/security-governance/2026-npaka-ubuntu-security-layers.md) — Personal explanatory article; text and selected official documentation checked; AppArmor/Snap and UFW/Docker conditions distinguished; no device tests.
 - [Mac security layers and their limits for AI-agent workflows](../surveys/security-governance/2026-npaka-macos-security-layers.md) — Personal explanatory article; text and selected Apple documentation checked; distinguished from OS rankings/defense rates; no device tests.
 - [Windows security layers, applicability, and agent permissions](../surveys/security-governance/2026-npaka-windows-security-layers.md) — Personal explanatory article; text and selected Microsoft documentation checked; applicability and desktop privileges distinguished; no device tests.
 - [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](../surveys/articles/2026-hightouch-identity-resolution-llm-judges.md) — Corporate experiment; synthetic-data cascade and conditions of the cost claim checked; no independent validation.

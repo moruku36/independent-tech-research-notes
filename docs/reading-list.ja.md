@@ -8,6 +8,7 @@
 
 ## 2026-11-08追加：セキュリティ・指示ファイル・名寄せ評価・記憶
 
+- [Ubuntuの標準セキュリティ：Desktop・Serverとエージェントの隔離条件](../surveys/security-governance/2026-npaka-ubuntu-security-layers.ja.md) — 個人解説記事。本文・主要な公式資料を確認／AppArmor・Snap・UFWとDockerの条件を区別／実機検証未実施。
 - [Macの標準セキュリティ：保護の層とAIエージェント利用時の限界](../surveys/security-governance/2026-npaka-macos-security-layers.ja.md) — 個人解説記事。本文・主要なApple公式資料を確認／OS間の優劣や防御率とは区別／実機検証未実施。
 - [Windowsの標準セキュリティ：機能の適用条件とエージェントの権限](../surveys/security-governance/2026-npaka-windows-security-layers.ja.md) — 個人解説記事。本文・主要なMicrosoft公式資料を確認／機能の有効状態とアプリ権限を区別／実機検証未実施。
 - [Hightouch：名寄せの誤統合をLLM評価器で検出する](../surveys/articles/2026-hightouch-identity-resolution-llm-judges.ja.md) — 企業実験記事。合成データの段階評価／約4倍の費用差の条件を確認／独立検証未実施。
