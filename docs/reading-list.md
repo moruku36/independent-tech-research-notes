@@ -8,6 +8,8 @@
 
 ## Added 2026-11-08: security, instruction files, identity auditing, and memory
 
+- [Mac security layers and their limits for AI-agent workflows](../surveys/security-governance/2026-npaka-macos-security-layers.md) — Personal explanatory article; text and selected Apple documentation checked; distinguished from OS rankings/defense rates; no device tests.
+- [Windows security layers, applicability, and agent permissions](../surveys/security-governance/2026-npaka-windows-security-layers.md) — Personal explanatory article; text and selected Microsoft documentation checked; applicability and desktop privileges distinguished; no device tests.
 - [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](../surveys/articles/2026-hightouch-identity-resolution-llm-judges.md) — Corporate experiment; synthetic-data cascade and conditions of the cost claim checked; no independent validation.
 - [The components of agent memory](../surveys/llm-infrastructure/2026-anthropic-agent-memory-components.md) — Corporate technical article; external-memory, search, and wiki evidence checked; answering savings separated from preparation costs; not reproduced.
 - [Trojan Horse: Automated Repository Poisoning against Coding Agents](../surveys/agent-safety/2026-trojanforge-repository-poisoning.md) — Preprint v1; setup and success-conditioned corpus checked; attacks not executed.
