@@ -6,6 +6,8 @@ Organizational security questions around GenAI, cryptographic migration, and mul
 
 ## Added 2026-11-08
 
+- [Mac security layers and their limits for AI-agent workflows](2026-npaka-macos-security-layers.md) — Personal explanatory article; text and selected Apple documentation checked; distinguished from OS rankings/defense rates; no device tests.
+- [Windows security layers, applicability, and agent permissions](2026-npaka-windows-security-layers.md) — Personal explanatory article; text and selected Microsoft documentation checked; applicability and desktop privileges distinguished; no device tests.
 - [CVM-Store: A Secure Storage System for Confidential Virtual Machines](2026-cvm-store-confidential-vm-storage.md) — Systems preprint v1; threat model, synchronization, and performance partly checked; not reproduced.
 
 ## Added 2026-11-06

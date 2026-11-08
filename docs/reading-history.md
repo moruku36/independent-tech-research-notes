@@ -6,6 +6,8 @@ Newest first. Earlier entries use dates recorded as additions in the reading lis
 
 ## 2026-11-08
 
+- [Mac security layers and their limits for AI-agent workflows](../surveys/security-governance/2026-npaka-macos-security-layers.md)
+- [Windows security layers, applicability, and agent permissions](../surveys/security-governance/2026-npaka-windows-security-layers.md)
 - [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](../surveys/articles/2026-hightouch-identity-resolution-llm-judges.md)
 - [The components of agent memory](../surveys/llm-infrastructure/2026-anthropic-agent-memory-components.md)
 - [Trojan Horse: Automated Repository Poisoning against Coding Agents](../surveys/agent-safety/2026-trojanforge-repository-poisoning.md)
