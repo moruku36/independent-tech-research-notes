@@ -4,6 +4,10 @@
 
 Papers on fault injection, recovery decisions, safety and experiment coordination.
 
+## Added 2026-11-09
+
+- [Incident-Arena: Getting agents to the last nine of reliability](2026-incident-arena-sre-reliability.md) — Benchmark preprint v1; recovery/persistence/safety partly checked; abstract/HTML discrepancies recorded; not reproduced.
+
 ## Added October 28, 2026
 
 - [Home servers over 25 years: virtualization to AI](2026-home-server-evolution.md) — Practitioner technology article. Primary HTML read; historical, price and productivity claims not independently verified.

@@ -4,6 +4,10 @@
 
 Organizational security questions around GenAI, cryptographic migration, and multi-cloud control consistency.
 
+## Added 2026-11-09
+
+- [Apiiro: secret exposure through agent permission files](2026-apiiro-agent-approval-secret-leaks.md) — Corporate investigation; approval persistence and count definitions checked; no actual secret search/authentication tests.
+
 ## Added 2026-11-08
 
 - [Ubuntu security layers: Desktop, Server, and agent isolation conditions](2026-npaka-ubuntu-security-layers.md) — Personal explanatory article; text and selected official documentation checked; AppArmor/Snap and UFW/Docker conditions distinguished; no device tests.

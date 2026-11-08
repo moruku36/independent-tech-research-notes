@@ -4,6 +4,10 @@
 
 Hardware choices, scheduling, KV cache control, and long-term memory retrieval.
 
+## Added 2026-11-09
+
+- [OpenClaw Dreaming: evidence-backed external-memory consolidation](2026-openclaw-dreaming-memory-consolidation.md) — Official product documentation; phases, provenance, and rewrite validation checked; code/runtime unverified.
+
 ## Added 2026-11-08
 
 - [The components of agent memory](2026-anthropic-agent-memory-components.md) — Corporate technical article; external-memory, search, and wiki evidence checked; answering savings separated from preparation costs; not reproduced.

@@ -4,6 +4,10 @@
 
 LLM推論のハードウェア選択、スケジューリング、KVキャッシュ制御、長期記憶検索。
 
+## 2026-11-09追加
+
+- [OpenClaw Dreaming：根拠付きの外部記憶を整理・昇格する](2026-openclaw-dreaming-memory-consolidation.ja.md) — 公式製品文書。外部記憶の段階・由来・書き換え検証を確認／コード・実動作未検証。
+
 ## 2026-11-08追加
 
 - [Anthropic：エージェント記憶を構成する四つの層](2026-anthropic-agent-memory-components.ja.md) — 企業技術記事。外部記憶・検索・wikiの事例を確認／回答時の節約と準備費用を区別／再現未実施。
