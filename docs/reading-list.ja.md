@@ -6,8 +6,10 @@
 
 
 
-## 2026-11-08追加：リポジトリ攻撃・機密VMストレージ・指示ファイル
+## 2026-11-08追加：セキュリティ・指示ファイル・名寄せ評価・記憶
 
+- [Hightouch：名寄せの誤統合をLLM評価器で検出する](../surveys/articles/2026-hightouch-identity-resolution-llm-judges.ja.md) — 企業実験記事。合成データの段階評価／約4倍の費用差の条件を確認／独立検証未実施。
+- [Anthropic：エージェント記憶を構成する四つの層](../surveys/llm-infrastructure/2026-anthropic-agent-memory-components.ja.md) — 企業技術記事。外部記憶・検索・wikiの事例を確認／回答時の節約と準備費用を区別／再現未実施。
 - [Trojan Horse：コーディングエージェントへのリポジトリ汚染攻撃](../surveys/agent-safety/2026-trojanforge-repository-poisoning.ja.md) — プレプリントv1。リポジトリ汚染の実験条件・成功例選択を確認／攻撃未実行。
 - [CVM-Store：機密VMの永続ストレージを守る設計](../surveys/security-governance/2026-cvm-store-confidential-vm-storage.ja.md) — システム論文プレプリントv1。脅威モデル・同期条件・性能を部分確認／再現未実施。
 - [AGENTS.md・CLAUDE.mdの実態：公開リポジトリの指示ファイル調査](../surveys/coding-agents/2026-agents-claude-instruction-file-census.ja.md) — 観察研究プレプリントv2。ルート指示ファイルの普及・内容を確認／効果や実利用とは区別。

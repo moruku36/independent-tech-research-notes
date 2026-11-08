@@ -6,8 +6,10 @@
 
 
 
-## Added 2026-11-08: repository attacks, confidential storage, and instruction files
+## Added 2026-11-08: security, instruction files, identity auditing, and memory
 
+- [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](../surveys/articles/2026-hightouch-identity-resolution-llm-judges.md) — Corporate experiment; synthetic-data cascade and conditions of the cost claim checked; no independent validation.
+- [The components of agent memory](../surveys/llm-infrastructure/2026-anthropic-agent-memory-components.md) — Corporate technical article; external-memory, search, and wiki evidence checked; answering savings separated from preparation costs; not reproduced.
 - [Trojan Horse: Automated Repository Poisoning against Coding Agents](../surveys/agent-safety/2026-trojanforge-repository-poisoning.md) — Preprint v1; setup and success-conditioned corpus checked; attacks not executed.
 - [CVM-Store: A Secure Storage System for Confidential Virtual Machines](../surveys/security-governance/2026-cvm-store-confidential-vm-storage.md) — Systems preprint v1; threat model, synchronization, and performance partly checked; not reproduced.
 - [What Open-Source Projects Tell Their Coding Agents: A Census of AGENTS.md and CLAUDE.md](../surveys/coding-agents/2026-agents-claude-instruction-file-census.md) — Observational preprint v2; root-file prevalence/content checked; distinguished from effectiveness and runtime use.
