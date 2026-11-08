@@ -4,6 +4,10 @@
 
 Vendor reports, conference recaps and company articles appear alongside a work/labor academic paper. The paper is labeled and counted separately from articles.
 
+## Added 2026-11-08
+
+- [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](2026-hightouch-identity-resolution-llm-judges.md) — Corporate experiment; synthetic-data cascade and conditions of the cost claim checked; no independent validation.
+
 ## Added 2026-11-07
 
 - [Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI](2026-nvidia-cities-physical-agentic-ai.md) — Vendor case-study article; text checked, deployments separated from plans; no independent validation.

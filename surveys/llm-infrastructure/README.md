@@ -4,6 +4,10 @@
 
 Hardware choices, scheduling, KV cache control, and long-term memory retrieval.
 
+## Added 2026-11-08
+
+- [The components of agent memory](2026-anthropic-agent-memory-components.md) — Corporate technical article; external-memory, search, and wiki evidence checked; answering savings separated from preparation costs; not reproduced.
+
 ## Added 2026-11-07
 
 - [Wider or Deeper? Scaling LLM Inference-Time Compute with Adaptive Branching Tree Search](2025-sakana-adaptive-branching-mcts.md) — Research article + paper v5; search partly checked; Pass@250 distinguished from final selection; not reproduced.

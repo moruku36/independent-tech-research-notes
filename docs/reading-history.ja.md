@@ -6,6 +6,8 @@
 
 ## 2026-11-08
 
+- [Hightouch：名寄せの誤統合をLLM評価器で検出する](../surveys/articles/2026-hightouch-identity-resolution-llm-judges.ja.md)
+- [Anthropic：エージェント記憶を構成する四つの層](../surveys/llm-infrastructure/2026-anthropic-agent-memory-components.ja.md)
 - [Trojan Horse：コーディングエージェントへのリポジトリ汚染攻撃](../surveys/agent-safety/2026-trojanforge-repository-poisoning.ja.md)
 - [CVM-Store：機密VMの永続ストレージを守る設計](../surveys/security-governance/2026-cvm-store-confidential-vm-storage.ja.md)
 - [AGENTS.md・CLAUDE.mdの実態：公開リポジトリの指示ファイル調査](../surveys/coding-agents/2026-agents-claude-instruction-file-census.ja.md)

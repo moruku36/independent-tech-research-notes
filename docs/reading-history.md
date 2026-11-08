@@ -6,6 +6,8 @@ Newest first. Earlier entries use dates recorded as additions in the reading lis
 
 ## 2026-11-08
 
+- [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](../surveys/articles/2026-hightouch-identity-resolution-llm-judges.md)
+- [The components of agent memory](../surveys/llm-infrastructure/2026-anthropic-agent-memory-components.md)
 - [Trojan Horse: Automated Repository Poisoning against Coding Agents](../surveys/agent-safety/2026-trojanforge-repository-poisoning.md)
 - [CVM-Store: A Secure Storage System for Confidential Virtual Machines](../surveys/security-governance/2026-cvm-store-confidential-vm-storage.md)
 - [What Open-Source Projects Tell Their Coding Agents: A Census of AGENTS.md and CLAUDE.md](../surveys/coding-agents/2026-agents-claude-instruction-file-census.md)
