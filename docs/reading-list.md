@@ -6,6 +6,14 @@
 
 
 
+## Added 2026-11-09: memory, secret exposure, audit skills, IaC, and incident repair
+
+- [OpenClaw Dreaming: evidence-backed external-memory consolidation](../surveys/llm-infrastructure/2026-openclaw-dreaming-memory-consolidation.md) — Official product documentation; phases, provenance, and rewrite validation checked; code/runtime unverified.
+- [Apiiro: secret exposure through agent permission files](../surveys/security-governance/2026-apiiro-agent-approval-secret-leaks.md) — Corporate investigation; approval persistence and count definitions checked; no actual secret search/authentication tests.
+- [How Effectively Do Security Skills Guide Coding Agents in Vulnerability Detection in Linux Kernel?](../surveys/coding-agents/2026-security-skills-kernel-skill-sif.md) — Preprint v1; file-guided audits and skill refinement partially checked; absolute rates distinguished from multipliers; not reproduced.
+- [Do AI Coding Agents Write Infrastructure as Code Like Humans? An Empirical Study of GitHub Pull Requests](../surveys/coding-agents/2026-agent-iac-pull-request-study.md) — Observational preprint v1; attribution and within-repository comparisons checked; reporting differences recorded; no reanalysis.
+- [Incident-Arena: Getting agents to the last nine of reliability](../surveys/cloud-resilience/2026-incident-arena-sre-reliability.md) — Benchmark preprint v1; recovery/persistence/safety partly checked; abstract/HTML discrepancies recorded; not reproduced.
+
 ## Added 2026-11-08: security, instruction files, identity auditing, and memory
 
 - [Ubuntu security layers: Desktop, Server, and agent isolation conditions](../surveys/security-governance/2026-npaka-ubuntu-security-layers.md) — Personal explanatory article; text and selected official documentation checked; AppArmor/Snap and UFW/Docker conditions distinguished; no device tests.

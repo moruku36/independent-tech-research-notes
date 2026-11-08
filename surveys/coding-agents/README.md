@@ -4,6 +4,11 @@
 
 Benchmarks and industrial studies of AI coding assistants, automated repair, and automated review.
 
+## Added 2026-11-09
+
+- [How Effectively Do Security Skills Guide Coding Agents in Vulnerability Detection in Linux Kernel?](2026-security-skills-kernel-skill-sif.md) — Preprint v1; file-guided audits and skill refinement partially checked; absolute rates distinguished from multipliers; not reproduced.
+- [Do AI Coding Agents Write Infrastructure as Code Like Humans? An Empirical Study of GitHub Pull Requests](2026-agent-iac-pull-request-study.md) — Observational preprint v1; attribution and within-repository comparisons checked; reporting differences recorded; no reanalysis.
+
 ## Added 2026-11-08
 
 - [What Open-Source Projects Tell Their Coding Agents: A Census of AGENTS.md and CLAUDE.md](2026-agents-claude-instruction-file-census.md) — Observational preprint v2; root-file prevalence/content checked; distinguished from effectiveness and runtime use.

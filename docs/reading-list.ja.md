@@ -6,6 +6,14 @@
 
 
 
+## 2026-11-09追加：記憶整理・秘密漏えい・監査スキル・IaC・障害復旧
+
+- [OpenClaw Dreaming：根拠付きの外部記憶を整理・昇格する](../surveys/llm-infrastructure/2026-openclaw-dreaming-memory-consolidation.ja.md) — 公式製品文書。外部記憶の段階・由来・書き換え検証を確認／コード・実動作未検証。
+- [Apiiro：エージェントの承認設定からGitHubへ漏れる秘密情報](../surveys/security-governance/2026-apiiro-agent-approval-secret-leaks.ja.md) — 企業調査記事。承認規則からの漏えい経路・件数の意味を確認／実際の秘密の探索・接続試験なし。
+- [SKILL-SIF：カーネル監査スキルの限界と失敗からの改善](../surveys/coding-agents/2026-security-skills-kernel-skill-sif.ja.md) — プレプリントv1。ファイル誘導型の監査とスキル改訂を部分確認／絶対成功率と改善倍率を区別／再現未実施。
+- [AIのIaC変更：PRの出自・採用率・持続可能性の観察研究](../surveys/coding-agents/2026-agent-iac-pull-request-study.ja.md) — 観察研究プレプリントv1。出自判定・リポジトリ内比較を確認／集計表記の差を記録／再分析なし。
+- [Incident-Arena：復旧の持続性と安全性を測るSRE評価](../surveys/cloud-resilience/2026-incident-arena-sre-reliability.ja.md) — ベンチマークプレプリントv1。復旧・持続性・安全性を部分確認／抄録と本文の数値差を記録／再現未実施。
+
 ## 2026-11-08追加：セキュリティ・指示ファイル・名寄せ評価・記憶
 
 - [Ubuntuの標準セキュリティ：Desktop・Serverとエージェントの隔離条件](../surveys/security-governance/2026-npaka-ubuntu-security-layers.ja.md) — 個人解説記事。本文・主要な公式資料を確認／AppArmor・Snap・UFWとDockerの条件を区別／実機検証未実施。

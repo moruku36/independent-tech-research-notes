@@ -4,6 +4,14 @@
 
 新しい日付順。過去分は既存の読書一覧に記された追加日を使用し、本人の読了日を保証するものではありません。日付が特定できない資料は省いています。
 
+## 2026-11-09
+
+- [OpenClaw Dreaming：根拠付きの外部記憶を整理・昇格する](../surveys/llm-infrastructure/2026-openclaw-dreaming-memory-consolidation.ja.md)
+- [Apiiro：エージェントの承認設定からGitHubへ漏れる秘密情報](../surveys/security-governance/2026-apiiro-agent-approval-secret-leaks.ja.md)
+- [SKILL-SIF：カーネル監査スキルの限界と失敗からの改善](../surveys/coding-agents/2026-security-skills-kernel-skill-sif.ja.md)
+- [AIのIaC変更：PRの出自・採用率・持続可能性の観察研究](../surveys/coding-agents/2026-agent-iac-pull-request-study.ja.md)
+- [Incident-Arena：復旧の持続性と安全性を測るSRE評価](../surveys/cloud-resilience/2026-incident-arena-sre-reliability.ja.md)
+
 ## 2026-11-08
 
 - [Ubuntuの標準セキュリティ：Desktop・Serverとエージェントの隔離条件](../surveys/security-governance/2026-npaka-ubuntu-security-layers.ja.md)

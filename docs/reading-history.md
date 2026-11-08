@@ -4,6 +4,14 @@
 
 Newest first. Earlier entries use dates recorded as additions in the reading list; these do not establish the user's actual reading dates. Undated entries are omitted.
 
+## 2026-11-09
+
+- [OpenClaw Dreaming: evidence-backed external-memory consolidation](../surveys/llm-infrastructure/2026-openclaw-dreaming-memory-consolidation.md)
+- [Apiiro: secret exposure through agent permission files](../surveys/security-governance/2026-apiiro-agent-approval-secret-leaks.md)
+- [How Effectively Do Security Skills Guide Coding Agents in Vulnerability Detection in Linux Kernel?](../surveys/coding-agents/2026-security-skills-kernel-skill-sif.md)
+- [Do AI Coding Agents Write Infrastructure as Code Like Humans? An Empirical Study of GitHub Pull Requests](../surveys/coding-agents/2026-agent-iac-pull-request-study.md)
+- [Incident-Arena: Getting agents to the last nine of reliability](../surveys/cloud-resilience/2026-incident-arena-sre-reliability.md)
+
 ## 2026-11-08
 
 - [Ubuntu security layers: Desktop, Server, and agent isolation conditions](../surveys/security-governance/2026-npaka-ubuntu-security-layers.md)
