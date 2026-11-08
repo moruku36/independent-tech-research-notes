@@ -6,6 +6,7 @@
 
 ## 2026-11-08
 
+- [Ubuntuの標準セキュリティ：Desktop・Serverとエージェントの隔離条件](../surveys/security-governance/2026-npaka-ubuntu-security-layers.ja.md)
 - [Macの標準セキュリティ：保護の層とAIエージェント利用時の限界](../surveys/security-governance/2026-npaka-macos-security-layers.ja.md)
 - [Windowsの標準セキュリティ：機能の適用条件とエージェントの権限](../surveys/security-governance/2026-npaka-windows-security-layers.ja.md)
 - [Hightouch：名寄せの誤統合をLLM評価器で検出する](../surveys/articles/2026-hightouch-identity-resolution-llm-judges.ja.md)

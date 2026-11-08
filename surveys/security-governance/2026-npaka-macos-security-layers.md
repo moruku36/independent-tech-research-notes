@@ -54,6 +54,7 @@ Phishing, session theft, and data access within granted privileges are separate 
 
 ## Related notes and proposed application
 
+- [Ubuntu security layers](2026-npaka-ubuntu-security-layers.md): adds Desktop/Server, AppArmor/Snap, and container-network applicability conditions.
 - [Windows security layers](2026-npaka-windows-security-layers.md): a companion for mapping mechanisms and applicability, not a superiority ranking.
 - [Layered containment of autonomous agents on Kubernetes](2026-kubernetes-autonomous-agent-containment.md): compares controls on execution environments, privileges, and communication beyond endpoint OS protections.
 

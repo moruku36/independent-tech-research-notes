@@ -54,6 +54,7 @@ Appleシリコン／T2搭載Macの内蔵ストレージ暗号化と、FileVault�
 
 ## 関連ノートと応用案
 
+- [Ubuntuの標準セキュリティ](2026-npaka-ubuntu-security-layers.ja.md)：Desktop／Server、AppArmor・Snap、コンテナ通信の適用条件を補う。
 - [Windowsの標準セキュリティ](2026-npaka-windows-security-layers.ja.md)：機能の対応と適用条件を読むための対になる記事。優劣のランキングではない。
 - [Kubernetes上の自律エージェントの多層防御](2026-kubernetes-autonomous-agent-containment.ja.md)：端末のOS保護に加え、実行領域・権限・通信を別々に制限する設計と比較できる。
 

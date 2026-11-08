@@ -56,6 +56,7 @@ Even enabled OS controls do not settle whether an authorized user or agent can r
 
 ## Related notes and proposed application
 
+- [Ubuntu security layers](2026-npaka-ubuntu-security-layers.md): adds Desktop/Server, AppArmor/Snap, and container-network applicability conditions.
 - [Mac security layers](2026-npaka-macos-security-layers.md): maps protected assets and applicability in the companion article.
 - [Trojan Horse repository poisoning](../agent-safety/2026-trojanforge-repository-poisoning.md): illustrates the separate problem of an agent taking instructions from external content.
 

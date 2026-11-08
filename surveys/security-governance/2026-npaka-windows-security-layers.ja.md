@@ -56,6 +56,7 @@ BitLockerの主な対象は紛失・盗難などに伴う保存データの露�
 
 ## 関連ノートと応用案
 
+- [Ubuntuの標準セキュリティ](2026-npaka-ubuntu-security-layers.ja.md)：Desktop／Server、AppArmor・Snap、コンテナ通信の適用条件を補う。
 - [Macの標準セキュリティ](2026-npaka-macos-security-layers.ja.md)：機能が守る対象と適用範囲を対応付ける対の記事。
 - [Trojan Horse：リポジトリ汚染攻撃](../agent-safety/2026-trojanforge-repository-poisoning.ja.md)：OSの保護とは別に、エージェントが外部の命令を取り込む経路を考える材料。
 
