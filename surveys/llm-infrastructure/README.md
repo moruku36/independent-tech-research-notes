@@ -4,6 +4,16 @@
 
 Hardware choices, scheduling, KV cache control, and long-term memory retrieval.
 
+
+## Added 2026-11-10
+
+- [Cloud Pathways GA: a runtime for multi-slice ML](2026-google-cloud-pathways-ga.md) — Primary source partially checked; not reproduced.
+- [GKE dynamic slicing: resource topology and recovery](2026-google-gke-dynamic-slicing.md) — Primary source partially checked; not reproduced.
+- [TPU Sync: moving KV cache and model weights](2026-google-tpu-sync.md) — Primary source partially checked; not reproduced.
+- [Nexus: persistent execution and authority across devices](2026-nexus-cloud-edge-execution.md) — Primary source partially checked; not reproduced.
+- [Let Them Sleep: RSPM and the risk of excessive pruning](2026-rspm-self-pruning-memory.md) — Primary source partially checked; not reproduced.
+- [Do agents need to sleep? A testable theory of consolidation](2026-do-agents-need-sleep.md) — Primary source partially checked; not reproduced.
+
 ## Added 2026-11-09
 
 - [OpenClaw Dreaming: evidence-backed external-memory consolidation](2026-openclaw-dreaming-memory-consolidation.md) — Official product documentation; phases, provenance, and rewrite validation checked; code/runtime unverified.

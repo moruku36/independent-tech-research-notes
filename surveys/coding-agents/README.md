@@ -4,6 +4,11 @@
 
 Benchmarks and industrial studies of AI coding assistants, automated repair, and automated review.
 
+
+## Added 2026-11-10
+
+- [Organon: adapting the procedure of scientific search](2026-organon-scientific-discovery.md) — Primary source partially checked; not reproduced.
+
 ## Added 2026-11-09
 
 - [How Effectively Do Security Skills Guide Coding Agents in Vulnerability Detection in Linux Kernel?](2026-security-skills-kernel-skill-sif.md) — Preprint v1; file-guided audits and skill refinement partially checked; absolute rates distinguished from multipliers; not reproduced.

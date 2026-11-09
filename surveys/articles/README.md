@@ -4,6 +4,12 @@
 
 Vendor reports, conference recaps and company articles appear alongside a work/labor academic paper. The paper is labeled and counted separately from articles.
 
+
+## Added 2026-11-10
+
+- [Claude Fable 5.2 and Mythos 5.2: capabilities, safeguards and evidence](2026-anthropic-fable-mythos-5-2.md) — Primary source partially checked; not reproduced.
+- [Vercel Production Index: requests, adoption and spend differ](2026-vercel-production-index-november.md) — Primary source partially checked; not reproduced.
+
 ## Added 2026-11-08
 
 - [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](2026-hightouch-identity-resolution-llm-judges.md) — Corporate experiment; synthetic-data cascade and conditions of the cost claim checked; no independent validation.
