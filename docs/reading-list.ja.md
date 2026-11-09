@@ -6,6 +6,19 @@
 
 
 
+
+## 2026-11-10追加：モデル発表・TPU基盤・利用統計・研究と記憶
+
+- [Claude Fable 5.2／Mythos 5.2：能力・制約・評価の読み方](../surveys/articles/2026-anthropic-fable-mythos-5-2.ja.md) — 一次資料を部分確認、再現未実施。
+- [Cloud Pathways GA：複数スライスのML実行ランタイム](../surveys/llm-infrastructure/2026-google-cloud-pathways-ga.ja.md) — 一次資料を部分確認、再現未実施。
+- [GKE dynamic slicing：TPUの資源形状と障害復旧](../surveys/llm-infrastructure/2026-google-gke-dynamic-slicing.ja.md) — 一次資料を部分確認、再現未実施。
+- [TPU Sync：KVキャッシュとモデル重みの転送](../surveys/llm-infrastructure/2026-google-tpu-sync.ja.md) — 一次資料を部分確認、再現未実施。
+- [Vercel Production Index：要求数・採用・支出を分ける](../surveys/articles/2026-vercel-production-index-november.ja.md) — 一次資料を部分確認、再現未実施。
+- [Nexus：クラウド・エッジ・端末をまたぐ実行と権限](../surveys/llm-infrastructure/2026-nexus-cloud-edge-execution.ja.md) — 一次資料を部分確認、再現未実施。
+- [Organon：科学的探索の進め方そのものを改訂する](../surveys/coding-agents/2026-organon-scientific-discovery.ja.md) — 一次資料を部分確認、再現未実施。
+- [Let Them Sleep：RSPMの記憶整理と削りすぎの問題](../surveys/llm-infrastructure/2026-rspm-self-pruning-memory.ja.md) — 一次資料を部分確認、再現未実施。
+- [Do agents need to sleep?：記憶整理をめぐる検証可能な仮説](../surveys/llm-infrastructure/2026-do-agents-need-sleep.ja.md) — 一次資料を部分確認、再現未実施。
+
 ## 2026-11-09追加：記憶整理・秘密漏えい・監査スキル・IaC・障害復旧
 
 - [OpenClaw Dreaming：根拠付きの外部記憶を整理・昇格する](../surveys/llm-infrastructure/2026-openclaw-dreaming-memory-consolidation.ja.md) — 公式製品文書。外部記憶の段階・由来・書き換え検証を確認／コード・実動作未検証。

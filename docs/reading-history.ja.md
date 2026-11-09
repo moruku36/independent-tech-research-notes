@@ -4,6 +4,19 @@
 
 新しい日付順。過去分は既存の読書一覧に記された追加日を使用し、本人の読了日を保証するものではありません。日付が特定できない資料は省いています。
 
+
+## 2026-11-10
+
+- [Claude Fable 5.2／Mythos 5.2：能力・制約・評価の読み方](../surveys/articles/2026-anthropic-fable-mythos-5-2.ja.md)
+- [Cloud Pathways GA：複数スライスのML実行ランタイム](../surveys/llm-infrastructure/2026-google-cloud-pathways-ga.ja.md)
+- [GKE dynamic slicing：TPUの資源形状と障害復旧](../surveys/llm-infrastructure/2026-google-gke-dynamic-slicing.ja.md)
+- [TPU Sync：KVキャッシュとモデル重みの転送](../surveys/llm-infrastructure/2026-google-tpu-sync.ja.md)
+- [Vercel Production Index：要求数・採用・支出を分ける](../surveys/articles/2026-vercel-production-index-november.ja.md)
+- [Nexus：クラウド・エッジ・端末をまたぐ実行と権限](../surveys/llm-infrastructure/2026-nexus-cloud-edge-execution.ja.md)
+- [Organon：科学的探索の進め方そのものを改訂する](../surveys/coding-agents/2026-organon-scientific-discovery.ja.md)
+- [Let Them Sleep：RSPMの記憶整理と削りすぎの問題](../surveys/llm-infrastructure/2026-rspm-self-pruning-memory.ja.md)
+- [Do agents need to sleep?：記憶整理をめぐる検証可能な仮説](../surveys/llm-infrastructure/2026-do-agents-need-sleep.ja.md)
+
 ## 2026-11-09
 
 - [OpenClaw Dreaming：根拠付きの外部記憶を整理・昇格する](../surveys/llm-infrastructure/2026-openclaw-dreaming-memory-consolidation.ja.md)

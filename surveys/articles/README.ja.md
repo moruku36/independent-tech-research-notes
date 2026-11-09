@@ -4,6 +4,12 @@
 
 企業レポート・学会イベント記事・会社の調査記事に加え、仕事・労働研究の学術論文を収録する。学術論文は記事件数に含めず、種別を明記する。
 
+
+## 2026-11-10追加
+
+- [Claude Fable 5.2／Mythos 5.2：能力・制約・評価の読み方](2026-anthropic-fable-mythos-5-2.ja.md) — 一次資料を部分確認、再現未実施。
+- [Vercel Production Index：要求数・採用・支出を分ける](2026-vercel-production-index-november.ja.md) — 一次資料を部分確認、再現未実施。
+
 ## 2026-11-08追加
 
 - [Hightouch：名寄せの誤統合をLLM評価器で検出する](2026-hightouch-identity-resolution-llm-judges.ja.md) — 企業実験記事。合成データの段階評価／約4倍の費用差の条件を確認／独立検証未実施。

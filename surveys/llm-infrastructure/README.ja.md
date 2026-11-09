@@ -4,6 +4,16 @@
 
 LLM推論のハードウェア選択、スケジューリング、KVキャッシュ制御、長期記憶検索。
 
+
+## 2026-11-10追加
+
+- [Cloud Pathways GA：複数スライスのML実行ランタイム](2026-google-cloud-pathways-ga.ja.md) — 一次資料を部分確認、再現未実施。
+- [GKE dynamic slicing：TPUの資源形状と障害復旧](2026-google-gke-dynamic-slicing.ja.md) — 一次資料を部分確認、再現未実施。
+- [TPU Sync：KVキャッシュとモデル重みの転送](2026-google-tpu-sync.ja.md) — 一次資料を部分確認、再現未実施。
+- [Nexus：クラウド・エッジ・端末をまたぐ実行と権限](2026-nexus-cloud-edge-execution.ja.md) — 一次資料を部分確認、再現未実施。
+- [Let Them Sleep：RSPMの記憶整理と削りすぎの問題](2026-rspm-self-pruning-memory.ja.md) — 一次資料を部分確認、再現未実施。
+- [Do agents need to sleep?：記憶整理をめぐる検証可能な仮説](2026-do-agents-need-sleep.ja.md) — 一次資料を部分確認、再現未実施。
+
 ## 2026-11-09追加
 
 - [OpenClaw Dreaming：根拠付きの外部記憶を整理・昇格する](2026-openclaw-dreaming-memory-consolidation.ja.md) — 公式製品文書。外部記憶の段階・由来・書き換え検証を確認／コード・実動作未検証。

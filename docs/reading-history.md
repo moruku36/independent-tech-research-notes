@@ -4,6 +4,19 @@
 
 Newest first. Earlier entries use dates recorded as additions in the reading list; these do not establish the user's actual reading dates. Undated entries are omitted.
 
+
+## 2026-11-10
+
+- [Claude Fable 5.2 and Mythos 5.2: capabilities, safeguards and evidence](../surveys/articles/2026-anthropic-fable-mythos-5-2.md)
+- [Cloud Pathways GA: a runtime for multi-slice ML](../surveys/llm-infrastructure/2026-google-cloud-pathways-ga.md)
+- [GKE dynamic slicing: resource topology and recovery](../surveys/llm-infrastructure/2026-google-gke-dynamic-slicing.md)
+- [TPU Sync: moving KV cache and model weights](../surveys/llm-infrastructure/2026-google-tpu-sync.md)
+- [Vercel Production Index: requests, adoption and spend differ](../surveys/articles/2026-vercel-production-index-november.md)
+- [Nexus: persistent execution and authority across devices](../surveys/llm-infrastructure/2026-nexus-cloud-edge-execution.md)
+- [Organon: adapting the procedure of scientific search](../surveys/coding-agents/2026-organon-scientific-discovery.md)
+- [Let Them Sleep: RSPM and the risk of excessive pruning](../surveys/llm-infrastructure/2026-rspm-self-pruning-memory.md)
+- [Do agents need to sleep? A testable theory of consolidation](../surveys/llm-infrastructure/2026-do-agents-need-sleep.md)
+
 ## 2026-11-09
 
 - [OpenClaw Dreaming: evidence-backed external-memory consolidation](../surveys/llm-infrastructure/2026-openclaw-dreaming-memory-consolidation.md)

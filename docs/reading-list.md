@@ -6,6 +6,19 @@
 
 
 
+
+## Added 2026-11-10: model launch, TPU infrastructure, usage, research and memory
+
+- [Claude Fable 5.2 and Mythos 5.2: capabilities, safeguards and evidence](../surveys/articles/2026-anthropic-fable-mythos-5-2.md) — Primary source partially checked; not reproduced.
+- [Cloud Pathways GA: a runtime for multi-slice ML](../surveys/llm-infrastructure/2026-google-cloud-pathways-ga.md) — Primary source partially checked; not reproduced.
+- [GKE dynamic slicing: resource topology and recovery](../surveys/llm-infrastructure/2026-google-gke-dynamic-slicing.md) — Primary source partially checked; not reproduced.
+- [TPU Sync: moving KV cache and model weights](../surveys/llm-infrastructure/2026-google-tpu-sync.md) — Primary source partially checked; not reproduced.
+- [Vercel Production Index: requests, adoption and spend differ](../surveys/articles/2026-vercel-production-index-november.md) — Primary source partially checked; not reproduced.
+- [Nexus: persistent execution and authority across devices](../surveys/llm-infrastructure/2026-nexus-cloud-edge-execution.md) — Primary source partially checked; not reproduced.
+- [Organon: adapting the procedure of scientific search](../surveys/coding-agents/2026-organon-scientific-discovery.md) — Primary source partially checked; not reproduced.
+- [Let Them Sleep: RSPM and the risk of excessive pruning](../surveys/llm-infrastructure/2026-rspm-self-pruning-memory.md) — Primary source partially checked; not reproduced.
+- [Do agents need to sleep? A testable theory of consolidation](../surveys/llm-infrastructure/2026-do-agents-need-sleep.md) — Primary source partially checked; not reproduced.
+
 ## Added 2026-11-09: memory, secret exposure, audit skills, IaC, and incident repair
 
 - [OpenClaw Dreaming: evidence-backed external-memory consolidation](../surveys/llm-infrastructure/2026-openclaw-dreaming-memory-consolidation.md) — Official product documentation; phases, provenance, and rewrite validation checked; code/runtime unverified.
