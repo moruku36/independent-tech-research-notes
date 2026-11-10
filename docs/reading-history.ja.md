@@ -5,6 +5,14 @@
 新しい日付順。過去分は既存の読書一覧に記された追加日を使用し、本人の読了日を保証するものではありません。日付が特定できない資料は省いています。
 
 
+## 2026-11-11
+
+- [ShatteredによるLLM自前運用とAPIの費用比較](../surveys/llm-infrastructure/2026-shattered-self-hosted-llm-vs-api.ja.md)
+- [EmergentによるKimi K3.1 Proの重み公開報道](../surveys/articles/2026-emergent-kimi-k31-pro.ja.md)
+- [AlphaProof Codeによるlibsignalの機械検証](../surveys/coding-agents/2026-google-alphaproof-code.ja.md)
+- [Evan X. Merzが指摘するAI支援開発とコードの脆さ](../surveys/coding-agents/2026-merz-ai-codebase-fragility.ja.md)
+- [NVIDIA OpenShellとKubernetes上のエージェント基盤](../surveys/security-governance/2026-nvidia-openshell-infrastructure.ja.md)
+
 ## 2026-11-10
 
 - [AIによる量子プログラム発見と形式検証](../surveys/coding-agents/2026-formally-verified-quantum-discovery.ja.md)

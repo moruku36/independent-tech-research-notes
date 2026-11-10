@@ -7,6 +7,14 @@
 
 
 
+## 2026-11-11追加：推論費用・モデル公開・形式検証・エージェント基盤
+
+- [ShatteredによるLLM自前運用とAPIの費用比較](../surveys/llm-infrastructure/2026-shattered-self-hosted-llm-vs-api.ja.md) — 編集記事。仮定を置いた費用試算。
+- [EmergentによるKimi K3.1 Proの重み公開報道](../surveys/articles/2026-emergent-kimi-k31-pro.ja.md) — 公開報道を開発元のモデルカードと照合。
+- [AlphaProof Codeによるlibsignalの機械検証](../surveys/coding-agents/2026-google-alphaproof-code.ja.md) — 発表記事と技術論文の該当箇所を確認。
+- [Evan X. Merzが指摘するAI支援開発とコードの脆さ](../surveys/coding-agents/2026-merz-ai-codebase-fragility.ja.md) — 開発者の実務論考。対照測定なし。
+- [NVIDIA OpenShellとKubernetes上のエージェント基盤](../surveys/security-governance/2026-nvidia-openshell-infrastructure.ja.md) — NVIDIAとCNCFの発表を照合。
+
 ## 2026-11-10追加：モデル発表・TPU基盤・利用統計・研究と記憶
 
 - [AIによる量子プログラム発見と形式検証](../surveys/coding-agents/2026-formally-verified-quantum-discovery.ja.md) — プレプリントv2。仕様固定・外部証明検査・資源指標を部分確認／再現未実施。

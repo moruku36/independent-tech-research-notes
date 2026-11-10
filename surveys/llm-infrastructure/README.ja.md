@@ -5,6 +5,10 @@
 LLM推論のハードウェア選択、スケジューリング、KVキャッシュ制御、長期記憶検索。
 
 
+## 2026-11-11追加
+
+- [ShatteredによるLLM自前運用とAPIの費用比較](2026-shattered-self-hosted-llm-vs-api.ja.md) — 編集記事。仮定を置いた費用試算。
+
 ## 2026-11-10追加
 
 - [Cloud Pathways GA：複数スライスのML実行ランタイム](2026-google-cloud-pathways-ga.ja.md) — 一次資料を部分確認、再現未実施。

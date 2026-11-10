@@ -5,6 +5,10 @@
 Vendor reports, conference recaps and company articles appear alongside a work/labor academic paper. The paper is labeled and counted separately from articles.
 
 
+## Added 2026-11-11
+
+- [Emergent on the Kimi K3.1 Pro weight release](2026-emergent-kimi-k31-pro.md) — Release coverage checked against the vendor model card.
+
 ## Added 2026-11-10
 
 - [Claude Fable 5.2 and Mythos 5.2: capabilities, safeguards and evidence](2026-anthropic-fable-mythos-5-2.md) — Primary source partially checked; not reproduced.

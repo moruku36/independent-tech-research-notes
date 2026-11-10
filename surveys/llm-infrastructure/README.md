@@ -5,6 +5,10 @@
 Hardware choices, scheduling, KV cache control, and long-term memory retrieval.
 
 
+## Added 2026-11-11
+
+- [Shattered on self-hosted LLM and API costs](2026-shattered-self-hosted-llm-vs-api.md) — Editorial comparison with illustrative cost estimates.
+
 ## Added 2026-11-10
 
 - [Cloud Pathways GA: a runtime for multi-slice ML](2026-google-cloud-pathways-ga.md) — Primary source partially checked; not reproduced.
