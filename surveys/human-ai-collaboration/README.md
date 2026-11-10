@@ -4,6 +4,10 @@
 
 What people expect from AI co-workers, how tools treat waiting time and attention, and how AI use changes work activity and learning opportunities.
 
+## Added 2026-11-11
+
+- [Avatar Intelligence and oversight of persistent personal agents](2026-avatar-intelligence-personal-agents.md) — Position paper v1. Roadmap, AOI and rehearsal design checked.
+
 ## Added October 28, 2026
 
 - [Design and Report Benchmarks for Knowledge Work](2026-knowledge-work-benchmark-design.md) — Methodological preprint. Primary HTML methods, case analyses and discussion checked; appendices not closely read, no reproduction.

@@ -7,6 +7,7 @@ AIコーディング支援・自動修復・自動レビューのベンチマー
 
 ## 2026-11-11追加
 
+- [CWE-benchによるリポジトリの防御的な修正評価](2026-cwe-bench-defensive-repair.ja.md) — ベンチマークのプレプリントv2。修正の判定条件と表3を確認。
 - [AlphaProof Codeによるlibsignalの機械検証](2026-google-alphaproof-code.ja.md) — 発表記事と技術論文の該当箇所を確認。
 - [Evan X. Merzが指摘するAI支援開発とコードの脆さ](2026-merz-ai-codebase-fragility.ja.md) — 開発者の実務論考。対照測定なし。
 

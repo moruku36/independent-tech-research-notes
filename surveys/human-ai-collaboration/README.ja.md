@@ -4,6 +4,10 @@
 
 AIの同僚への期待、待ち時間・注意の扱い、AI利用による業務活動と学習機会の変化。
 
+## 2026-11-11追加
+
+- [Avatar Intelligenceによる継続型個人エージェントの委任と監督](2026-avatar-intelligence-personal-agents.ja.md) — 構想論文v1。委任の段階、AOI、リハーサルを確認。
+
 ## 2026-10-28追加
 
 - [知識労働のベンチマークは何を測るべきか](2026-knowledge-work-benchmark-design.ja.md) — プレプリント（評価設計・報告の方法論）。一次HTMLの方法・事例分析・議論を確認。付録は未精読、再現未実施。

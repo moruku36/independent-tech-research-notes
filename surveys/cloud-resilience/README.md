@@ -4,6 +4,10 @@
 
 Papers on fault injection, recovery decisions, safety and experiment coordination.
 
+## Added 2026-11-11
+
+- [BEACON and asynchronous cloud anomaly detection](2026-beacon-cloud-anomaly-detection.md) — Preprint v1. Method and segment-level evaluation checked.
+
 ## Added 2026-11-09
 
 - [Incident-Arena: Getting agents to the last nine of reliability](2026-incident-arena-sre-reliability.md) — Benchmark preprint v1; recovery/persistence/safety partly checked; abstract/HTML discrepancies recorded; not reproduced.
