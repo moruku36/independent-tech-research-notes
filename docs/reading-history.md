@@ -7,6 +7,7 @@ Newest first. Earlier entries use dates recorded as additions in the reading lis
 
 ## 2026-11-10
 
+- [AI discovery of formally verified quantum programs](../surveys/coding-agents/2026-formally-verified-quantum-discovery.md)
 - [Claude Fable 5.2 and Mythos 5.2: capabilities, safeguards and evidence](../surveys/articles/2026-anthropic-fable-mythos-5-2.md)
 - [Cloud Pathways GA: a runtime for multi-slice ML](../surveys/llm-infrastructure/2026-google-cloud-pathways-ga.md)
 - [GKE dynamic slicing: resource topology and recovery](../surveys/llm-infrastructure/2026-google-gke-dynamic-slicing.md)

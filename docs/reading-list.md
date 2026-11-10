@@ -9,6 +9,7 @@
 
 ## Added 2026-11-10: model launch, TPU infrastructure, usage, research and memory
 
+- [AI discovery of formally verified quantum programs](../surveys/coding-agents/2026-formally-verified-quantum-discovery.md) — Preprint v2; frozen-specification verification and resource metrics partially checked; not reproduced.
 - [Claude Fable 5.2 and Mythos 5.2: capabilities, safeguards and evidence](../surveys/articles/2026-anthropic-fable-mythos-5-2.md) — Primary source partially checked; not reproduced.
 - [Cloud Pathways GA: a runtime for multi-slice ML](../surveys/llm-infrastructure/2026-google-cloud-pathways-ga.md) — Primary source partially checked; not reproduced.
 - [GKE dynamic slicing: resource topology and recovery](../surveys/llm-infrastructure/2026-google-gke-dynamic-slicing.md) — Primary source partially checked; not reproduced.

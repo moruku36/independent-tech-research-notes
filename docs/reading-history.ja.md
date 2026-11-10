@@ -7,6 +7,7 @@
 
 ## 2026-11-10
 
+- [AIによる量子プログラム発見と形式検証](../surveys/coding-agents/2026-formally-verified-quantum-discovery.ja.md)
 - [Claude Fable 5.2／Mythos 5.2：能力・制約・評価の読み方](../surveys/articles/2026-anthropic-fable-mythos-5-2.ja.md)
 - [Cloud Pathways GA：複数スライスのML実行ランタイム](../surveys/llm-infrastructure/2026-google-cloud-pathways-ga.ja.md)
 - [GKE dynamic slicing：TPUの資源形状と障害復旧](../surveys/llm-infrastructure/2026-google-gke-dynamic-slicing.ja.md)

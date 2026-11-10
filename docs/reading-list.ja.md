@@ -9,6 +9,7 @@
 
 ## 2026-11-10追加：モデル発表・TPU基盤・利用統計・研究と記憶
 
+- [AIによる量子プログラム発見と形式検証](../surveys/coding-agents/2026-formally-verified-quantum-discovery.ja.md) — プレプリントv2。仕様固定・外部証明検査・資源指標を部分確認／再現未実施。
 - [Claude Fable 5.2／Mythos 5.2：能力・制約・評価の読み方](../surveys/articles/2026-anthropic-fable-mythos-5-2.ja.md) — 一次資料を部分確認、再現未実施。
 - [Cloud Pathways GA：複数スライスのML実行ランタイム](../surveys/llm-infrastructure/2026-google-cloud-pathways-ga.ja.md) — 一次資料を部分確認、再現未実施。
 - [GKE dynamic slicing：TPUの資源形状と障害復旧](../surveys/llm-infrastructure/2026-google-gke-dynamic-slicing.ja.md) — 一次資料を部分確認、再現未実施。

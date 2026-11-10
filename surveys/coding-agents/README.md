@@ -7,6 +7,7 @@ Benchmarks and industrial studies of AI coding assistants, automated repair, and
 
 ## Added 2026-11-10
 
+- [AI discovery of formally verified quantum programs](2026-formally-verified-quantum-discovery.md) — Preprint v2; frozen-specification verification and resource metrics partially checked; not reproduced.
 - [Organon: adapting the procedure of scientific search](2026-organon-scientific-discovery.md) — Primary source partially checked; not reproduced.
 
 ## Added 2026-11-09
