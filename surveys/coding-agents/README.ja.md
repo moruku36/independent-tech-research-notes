@@ -5,6 +5,11 @@
 AIコーディング支援・自動修復・自動レビューのベンチマークと企業での実証研究。
 
 
+## 2026-11-11追加
+
+- [AlphaProof Codeによるlibsignalの機械検証](2026-google-alphaproof-code.ja.md) — 発表記事と技術論文の該当箇所を確認。
+- [Evan X. Merzが指摘するAI支援開発とコードの脆さ](2026-merz-ai-codebase-fragility.ja.md) — 開発者の実務論考。対照測定なし。
+
 ## 2026-11-10追加
 
 - [AIによる量子プログラム発見と形式検証](2026-formally-verified-quantum-discovery.ja.md) — プレプリントv2。仕様固定・外部証明検査・資源指標を部分確認／再現未実施。

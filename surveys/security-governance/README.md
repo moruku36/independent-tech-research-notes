@@ -4,6 +4,10 @@
 
 Organizational security questions around GenAI, cryptographic migration, and multi-cloud control consistency.
 
+## Added 2026-11-11
+
+- [NVIDIA OpenShell and Kubernetes agent infrastructure](2026-nvidia-openshell-infrastructure.md) — Vendor and CNCF announcements checked.
+
 ## Added 2026-11-09
 
 - [Apiiro: secret exposure through agent permission files](2026-apiiro-agent-approval-secret-leaks.md) — Corporate investigation; approval persistence and count definitions checked; no actual secret search/authentication tests.

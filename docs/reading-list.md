@@ -7,6 +7,14 @@
 
 
 
+## Added 2026-11-11: inference costs, model release, verification and agent infrastructure
+
+- [Shattered on self-hosted LLM and API costs](../surveys/llm-infrastructure/2026-shattered-self-hosted-llm-vs-api.md) — Editorial comparison with illustrative cost estimates.
+- [Emergent on the Kimi K3.1 Pro weight release](../surveys/articles/2026-emergent-kimi-k31-pro.md) — Release coverage checked against the vendor model card.
+- [AlphaProof Code and machine-checked guarantees for libsignal](../surveys/coding-agents/2026-google-alphaproof-code.md) — Announcement and selected technical-report sections checked.
+- [Evan X. Merz on AI-assisted codebase fragility](../surveys/coding-agents/2026-merz-ai-codebase-fragility.md) — Practitioner essay, with no controlled measurement.
+- [NVIDIA OpenShell and Kubernetes agent infrastructure](../surveys/security-governance/2026-nvidia-openshell-infrastructure.md) — Vendor and CNCF announcements checked.
+
 ## Added 2026-11-10: model launch, TPU infrastructure, usage, research and memory
 
 - [AI discovery of formally verified quantum programs](../surveys/coding-agents/2026-formally-verified-quantum-discovery.md) — Preprint v2; frozen-specification verification and resource metrics partially checked; not reproduced.

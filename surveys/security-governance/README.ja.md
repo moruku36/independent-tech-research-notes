@@ -4,6 +4,10 @@
 
 GenAI利用・暗号移行・マルチクラウド統制の一貫性をめぐる、組織面のセキュリティの問い。
 
+## 2026-11-11追加
+
+- [NVIDIA OpenShellとKubernetes上のエージェント基盤](2026-nvidia-openshell-infrastructure.ja.md) — NVIDIAとCNCFの発表を照合。
+
 ## 2026-11-09追加
 
 - [Apiiro：エージェントの承認設定からGitHubへ漏れる秘密情報](2026-apiiro-agent-approval-secret-leaks.ja.md) — 企業調査記事。承認規則からの漏えい経路・件数の意味を確認／実際の秘密の探索・接続試験なし。

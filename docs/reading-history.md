@@ -5,6 +5,14 @@
 Newest first. Earlier entries use dates recorded as additions in the reading list; these do not establish the user's actual reading dates. Undated entries are omitted.
 
 
+## 2026-11-11
+
+- [Shattered on self-hosted LLM and API costs](../surveys/llm-infrastructure/2026-shattered-self-hosted-llm-vs-api.md)
+- [Emergent on the Kimi K3.1 Pro weight release](../surveys/articles/2026-emergent-kimi-k31-pro.md)
+- [AlphaProof Code and machine-checked guarantees for libsignal](../surveys/coding-agents/2026-google-alphaproof-code.md)
+- [Evan X. Merz on AI-assisted codebase fragility](../surveys/coding-agents/2026-merz-ai-codebase-fragility.md)
+- [NVIDIA OpenShell and Kubernetes agent infrastructure](../surveys/security-governance/2026-nvidia-openshell-infrastructure.md)
+
 ## 2026-11-10
 
 - [AI discovery of formally verified quantum programs](../surveys/coding-agents/2026-formally-verified-quantum-discovery.md)

@@ -5,6 +5,11 @@
 Benchmarks and industrial studies of AI coding assistants, automated repair, and automated review.
 
 
+## Added 2026-11-11
+
+- [AlphaProof Code and machine-checked guarantees for libsignal](2026-google-alphaproof-code.md) — Announcement and selected technical-report sections checked.
+- [Evan X. Merz on AI-assisted codebase fragility](2026-merz-ai-codebase-fragility.md) — Practitioner essay, with no controlled measurement.
+
 ## Added 2026-11-10
 
 - [AI discovery of formally verified quantum programs](2026-formally-verified-quantum-discovery.md) — Preprint v2; frozen-specification verification and resource metrics partially checked; not reproduced.
