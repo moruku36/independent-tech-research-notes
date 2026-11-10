@@ -7,6 +7,9 @@ Newest first. Earlier entries use dates recorded as additions in the reading lis
 
 ## 2026-11-11
 
+- [CWE-bench and evaluation of defensive repository repair](../surveys/coding-agents/2026-cwe-bench-defensive-repair.md)
+- [Avatar Intelligence and oversight of persistent personal agents](../surveys/human-ai-collaboration/2026-avatar-intelligence-personal-agents.md)
+- [BEACON and asynchronous cloud anomaly detection](../surveys/cloud-resilience/2026-beacon-cloud-anomaly-detection.md)
 - [Shattered on self-hosted LLM and API costs](../surveys/llm-infrastructure/2026-shattered-self-hosted-llm-vs-api.md)
 - [Emergent on the Kimi K3.1 Pro weight release](../surveys/articles/2026-emergent-kimi-k31-pro.md)
 - [AlphaProof Code and machine-checked guarantees for libsignal](../surveys/coding-agents/2026-google-alphaproof-code.md)

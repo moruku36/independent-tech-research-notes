@@ -9,6 +9,9 @@
 
 ## 2026-11-11追加：推論費用・モデル公開・形式検証・エージェント基盤
 
+- [CWE-benchによるリポジトリの防御的な修正評価](../surveys/coding-agents/2026-cwe-bench-defensive-repair.ja.md) — ベンチマークのプレプリントv2。修正の判定条件と表3を確認。
+- [Avatar Intelligenceによる継続型個人エージェントの委任と監督](../surveys/human-ai-collaboration/2026-avatar-intelligence-personal-agents.ja.md) — 構想論文v1。委任の段階、AOI、リハーサルを確認。
+- [BEACONによる時差を考慮したクラウド異常検知](../surveys/cloud-resilience/2026-beacon-cloud-anomaly-detection.ja.md) — プレプリントv1。手法と区間単位の評価を確認。
 - [ShatteredによるLLM自前運用とAPIの費用比較](../surveys/llm-infrastructure/2026-shattered-self-hosted-llm-vs-api.ja.md) — 編集記事。仮定を置いた費用試算。
 - [EmergentによるKimi K3.1 Proの重み公開報道](../surveys/articles/2026-emergent-kimi-k31-pro.ja.md) — 公開報道を開発元のモデルカードと照合。
 - [AlphaProof Codeによるlibsignalの機械検証](../surveys/coding-agents/2026-google-alphaproof-code.ja.md) — 発表記事と技術論文の該当箇所を確認。

@@ -9,6 +9,9 @@
 
 ## Added 2026-11-11: inference costs, model release, verification and agent infrastructure
 
+- [CWE-bench and evaluation of defensive repository repair](../surveys/coding-agents/2026-cwe-bench-defensive-repair.md) — Benchmark preprint v2. Repair criteria and Table 3 checked.
+- [Avatar Intelligence and oversight of persistent personal agents](../surveys/human-ai-collaboration/2026-avatar-intelligence-personal-agents.md) — Position paper v1. Roadmap, AOI and rehearsal design checked.
+- [BEACON and asynchronous cloud anomaly detection](../surveys/cloud-resilience/2026-beacon-cloud-anomaly-detection.md) — Preprint v1. Method and segment-level evaluation checked.
 - [Shattered on self-hosted LLM and API costs](../surveys/llm-infrastructure/2026-shattered-self-hosted-llm-vs-api.md) — Editorial comparison with illustrative cost estimates.
 - [Emergent on the Kimi K3.1 Pro weight release](../surveys/articles/2026-emergent-kimi-k31-pro.md) — Release coverage checked against the vendor model card.
 - [AlphaProof Code and machine-checked guarantees for libsignal](../surveys/coding-agents/2026-google-alphaproof-code.md) — Announcement and selected technical-report sections checked.

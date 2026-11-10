@@ -7,6 +7,7 @@ Benchmarks and industrial studies of AI coding assistants, automated repair, and
 
 ## Added 2026-11-11
 
+- [CWE-bench and evaluation of defensive repository repair](2026-cwe-bench-defensive-repair.md) — Benchmark preprint v2. Repair criteria and Table 3 checked.
 - [AlphaProof Code and machine-checked guarantees for libsignal](2026-google-alphaproof-code.md) — Announcement and selected technical-report sections checked.
 - [Evan X. Merz on AI-assisted codebase fragility](2026-merz-ai-codebase-fragility.md) — Practitioner essay, with no controlled measurement.
 
