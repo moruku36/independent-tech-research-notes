@@ -7,8 +7,15 @@
 
 
 
-## Added 2026-11-12: Anthropic Japanese prospectus
+## Added 2026-11-12: disclosures, usage policy, models and research
 
+- [Anthropic Usage Policy effective November 12, 2026](../surveys/security-governance/2026-anthropic-usage-policy-nov12.md) — Provider policy. PDF and current page checked.
+- [Maya lidar agents and the correction to a discovery claim](../surveys/articles/2026-maya-lidar-agent-rediscovery.md) — Practitioner report. November 11 correction included.
+- [Qwen4-Max-Preview access and output-budget semantics](../surveys/articles/2026-qwen4-max-preview.md) — Vendor documentation updated November 11.
+- [EC2-Bench and edge–cloud agent collaboration](../surveys/llm-infrastructure/2026-ec2-bench-edge-cloud-agents.md) — Preprint v2. Task curation and exposure metric checked.
+- [The Agentic Scientist and evidence-based research orchestration](../surveys/coding-agents/2026-sakana-agentic-scientist.md) — Preprint v1. Workflow and limitations checked.
+- [HARP preference inference — withdrawn preprint](../surveys/llm-infrastructure/2026-harp-preference-inference-withdrawn.md) — Withdrawn v2. Earlier v1 inspected as historical material.
+- [RIVET routing — v2 rechecked](../surveys/llm-infrastructure/2026-rivet-multiturn-llm-routing.md) — Existing note rechecked, with no new paper entry.
 - [Anthropic’s Japanese prospectus amended November 11](../economics/2026-anthropic-japan-prospectus-nov11.md) — Corporate disclosure. Selected sections of the November 11 version checked.
 
 ## Added 2026-11-11: inference costs, model release, verification and agent infrastructure

@@ -7,6 +7,13 @@
 
 ## 2026-11-12
 
+- [Anthropic利用ポリシー・2026年11月12日施行版](../surveys/security-governance/2026-anthropic-usage-policy-nov12.ja.md)
+- [Maya遺跡のLiDAR解析と新発見主張の訂正](../surveys/articles/2026-maya-lidar-agent-rediscovery.ja.md)
+- [Qwen4-Max-Previewの提供条件と出力予算](../surveys/articles/2026-qwen4-max-preview.ja.md)
+- [EC2-Benchによる端末・クラウド協調エージェントの評価](../surveys/llm-infrastructure/2026-ec2-bench-edge-cloud-agents.ja.md)
+- [The Agentic Scientistによる研究の並列実行と証拠管理](../surveys/coding-agents/2026-sakana-agentic-scientist.ja.md)
+- [HARPの選好推定・撤回済みプレプリント](../surveys/llm-infrastructure/2026-harp-preference-inference-withdrawn.ja.md)
+- [RIVETルーティング・v2再確認](../surveys/llm-infrastructure/2026-rivet-multiturn-llm-routing.ja.md)
 - [Anthropicの新株式発行届出目論見書・11月11日訂正版](../economics/2026-anthropic-japan-prospectus-nov11.ja.md)
 
 ## 2026-11-11

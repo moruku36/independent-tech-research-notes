@@ -7,8 +7,15 @@
 
 
 
-## 2026-11-12追加：Anthropicの日本語目論見書
+## 2026-11-12追加：企業開示・利用規程・モデルと研究
 
+- [Anthropic利用ポリシー・2026年11月12日施行版](../surveys/security-governance/2026-anthropic-usage-policy-nov12.ja.md) — 提供者の利用規程。PDFと現行ページを照合。
+- [Maya遺跡のLiDAR解析と新発見主張の訂正](../surveys/articles/2026-maya-lidar-agent-rediscovery.ja.md) — 個人の実践報告。11月11日の訂正を反映。
+- [Qwen4-Max-Previewの提供条件と出力予算](../surveys/articles/2026-qwen4-max-preview.ja.md) — 11月11日更新の提供元資料。
+- [EC2-Benchによる端末・クラウド協調エージェントの評価](../surveys/llm-infrastructure/2026-ec2-bench-edge-cloud-agents.ja.md) — プレプリントv2。課題の選定と露出指標を確認。
+- [The Agentic Scientistによる研究の並列実行と証拠管理](../surveys/coding-agents/2026-sakana-agentic-scientist.ja.md) — プレプリントv1。手順と限界を確認。
+- [HARPの選好推定・撤回済みプレプリント](../surveys/llm-infrastructure/2026-harp-preference-inference-withdrawn.ja.md) — v2で撤回。旧v1を履歴資料として確認。
+- [RIVETルーティング・v2再確認](../surveys/llm-infrastructure/2026-rivet-multiturn-llm-routing.ja.md) — 既存ノートを再確認。新規論文としての重複登録なし。
 - [Anthropicの新株式発行届出目論見書・11月11日訂正版](../economics/2026-anthropic-japan-prospectus-nov11.ja.md) — 企業開示。11月11日訂正版の主要部分を確認。
 
 ## 2026-11-11追加：推論費用・モデル公開・形式検証・エージェント基盤

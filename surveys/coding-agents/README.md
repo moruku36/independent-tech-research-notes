@@ -5,6 +5,10 @@
 Benchmarks and industrial studies of AI coding assistants, automated repair, and automated review.
 
 
+## Added and rechecked 2026-11-12
+
+- [The Agentic Scientist and evidence-based research orchestration](2026-sakana-agentic-scientist.md) — Preprint v1. Workflow and limitations checked.
+
 ## Added 2026-11-11
 
 - [CWE-bench and evaluation of defensive repository repair](2026-cwe-bench-defensive-repair.md) — Benchmark preprint v2. Repair criteria and Table 3 checked.
