@@ -5,6 +5,11 @@
 Vendor reports, conference recaps and company articles appear alongside a work/labor academic paper. The paper is labeled and counted separately from articles.
 
 
+## Added and rechecked 2026-11-12
+
+- [Maya lidar agents and the correction to a discovery claim](2026-maya-lidar-agent-rediscovery.md) — Practitioner report. November 11 correction included.
+- [Qwen4-Max-Preview access and output-budget semantics](2026-qwen4-max-preview.md) — Vendor documentation updated November 11.
+
 ## Added 2026-11-11
 
 - [Emergent on the Kimi K3.1 Pro weight release](2026-emergent-kimi-k31-pro.md) — Release coverage checked against the vendor model card.

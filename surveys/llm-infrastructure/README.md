@@ -5,6 +5,12 @@
 Hardware choices, scheduling, KV cache control, and long-term memory retrieval.
 
 
+## Added and rechecked 2026-11-12
+
+- [EC2-Bench and edge–cloud agent collaboration](2026-ec2-bench-edge-cloud-agents.md) — Preprint v2. Task curation and exposure metric checked.
+- [HARP preference inference — withdrawn preprint](2026-harp-preference-inference-withdrawn.md) — Withdrawn v2. Earlier v1 inspected as historical material.
+- [RIVET routing — v2 rechecked](2026-rivet-multiturn-llm-routing.md) — Existing note rechecked, with no new paper entry.
+
 ## Added 2026-11-11
 
 - [Shattered on self-hosted LLM and API costs](2026-shattered-self-hosted-llm-vs-api.md) — Editorial comparison with illustrative cost estimates.

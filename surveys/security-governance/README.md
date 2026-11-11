@@ -4,6 +4,10 @@
 
 Organizational security questions around GenAI, cryptographic migration, and multi-cloud control consistency.
 
+## Added and rechecked 2026-11-12
+
+- [Anthropic Usage Policy effective November 12, 2026](2026-anthropic-usage-policy-nov12.md) — Provider policy. PDF and current page checked.
+
 ## Added 2026-11-11
 
 - [NVIDIA OpenShell and Kubernetes agent infrastructure](2026-nvidia-openshell-infrastructure.md) — Vendor and CNCF announcements checked.

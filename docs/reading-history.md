@@ -7,6 +7,13 @@ Newest first. Earlier entries use dates recorded as additions in the reading lis
 
 ## 2026-11-12
 
+- [Anthropic Usage Policy effective November 12, 2026](../surveys/security-governance/2026-anthropic-usage-policy-nov12.md)
+- [Maya lidar agents and the correction to a discovery claim](../surveys/articles/2026-maya-lidar-agent-rediscovery.md)
+- [Qwen4-Max-Preview access and output-budget semantics](../surveys/articles/2026-qwen4-max-preview.md)
+- [EC2-Bench and edge–cloud agent collaboration](../surveys/llm-infrastructure/2026-ec2-bench-edge-cloud-agents.md)
+- [The Agentic Scientist and evidence-based research orchestration](../surveys/coding-agents/2026-sakana-agentic-scientist.md)
+- [HARP preference inference — withdrawn preprint](../surveys/llm-infrastructure/2026-harp-preference-inference-withdrawn.md)
+- [RIVET routing — v2 rechecked](../surveys/llm-infrastructure/2026-rivet-multiturn-llm-routing.md)
 - [Anthropic’s Japanese prospectus amended November 11](../economics/2026-anthropic-japan-prospectus-nov11.md)
 
 ## 2026-11-11

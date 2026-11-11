@@ -38,6 +38,10 @@ Compare with existing LLM infrastructure notes on cost-efficiency measurement.
 
 Proposed, not performed: compare a fixed model with turn-level selection on a small public multi-turn task set, recording success, cost, and latency.
 
+## Rechecked November 12, 2026
+
+The submitted arXiv:2610.23239 is the same v2 recorded here. Rechecked Table 1: RIVET Online has 87.94% MINT Test-141 accuracy and relative cost 0.199, versus MTRouter’s 85.11% and 0.788. The qualification in §6 about causal attribution remains. The newly added [EC2-Bench](2026-ec2-bench-edge-cloud-agents.md) offers a comparison that also measures exposure over execution traces. No reproduction was performed.
+
 ## Primary source
 
 - [Specified primary source](https://arxiv.org/html/2610.23239v2)

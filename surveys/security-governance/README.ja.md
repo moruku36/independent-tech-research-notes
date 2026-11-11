@@ -4,6 +4,10 @@
 
 GenAI利用・暗号移行・マルチクラウド統制の一貫性をめぐる、組織面のセキュリティの問い。
 
+## 2026-11-12追加・再確認
+
+- [Anthropic利用ポリシー・2026年11月12日施行版](2026-anthropic-usage-policy-nov12.ja.md) — 提供者の利用規程。PDFと現行ページを照合。
+
 ## 2026-11-11追加
 
 - [NVIDIA OpenShellとKubernetes上のエージェント基盤](2026-nvidia-openshell-infrastructure.ja.md) — NVIDIAとCNCFの発表を照合。

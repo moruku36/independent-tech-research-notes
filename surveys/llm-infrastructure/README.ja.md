@@ -5,6 +5,12 @@
 LLM推論のハードウェア選択、スケジューリング、KVキャッシュ制御、長期記憶検索。
 
 
+## 2026-11-12追加・再確認
+
+- [EC2-Benchによる端末・クラウド協調エージェントの評価](2026-ec2-bench-edge-cloud-agents.ja.md) — プレプリントv2。課題の選定と露出指標を確認。
+- [HARPの選好推定・撤回済みプレプリント](2026-harp-preference-inference-withdrawn.ja.md) — v2で撤回。旧v1を履歴資料として確認。
+- [RIVETルーティング・v2再確認](2026-rivet-multiturn-llm-routing.ja.md) — 既存ノートを再確認。新規論文としての重複登録なし。
+
 ## 2026-11-11追加
 
 - [ShatteredによるLLM自前運用とAPIの費用比較](2026-shattered-self-hosted-llm-vs-api.ja.md) — 編集記事。仮定を置いた費用試算。
