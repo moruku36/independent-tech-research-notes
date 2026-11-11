@@ -7,6 +7,10 @@
 
 
 
+## Added 2026-11-12: Anthropic Japanese prospectus
+
+- [Anthropic’s Japanese prospectus amended November 11](../economics/2026-anthropic-japan-prospectus-nov11.md) — Corporate disclosure. Selected sections of the November 11 version checked.
+
 ## Added 2026-11-11: inference costs, model release, verification and agent infrastructure
 
 - [CWE-bench and evaluation of defensive repository repair](../surveys/coding-agents/2026-cwe-bench-defensive-repair.md) — Benchmark preprint v2. Repair criteria and Table 3 checked.

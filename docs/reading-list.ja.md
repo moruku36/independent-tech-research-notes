@@ -7,6 +7,10 @@
 
 
 
+## 2026-11-12追加：Anthropicの日本語目論見書
+
+- [Anthropicの新株式発行届出目論見書・11月11日訂正版](../economics/2026-anthropic-japan-prospectus-nov11.ja.md) — 企業開示。11月11日訂正版の主要部分を確認。
+
 ## 2026-11-11追加：推論費用・モデル公開・形式検証・エージェント基盤
 
 - [CWE-benchによるリポジトリの防御的な修正評価](../surveys/coding-agents/2026-cwe-bench-defensive-repair.ja.md) — ベンチマークのプレプリントv2。修正の判定条件と表3を確認。

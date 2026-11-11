@@ -5,6 +5,10 @@
 新しい日付順。過去分は既存の読書一覧に記された追加日を使用し、本人の読了日を保証するものではありません。日付が特定できない資料は省いています。
 
 
+## 2026-11-12
+
+- [Anthropicの新株式発行届出目論見書・11月11日訂正版](../economics/2026-anthropic-japan-prospectus-nov11.ja.md)
+
 ## 2026-11-11
 
 - [CWE-benchによるリポジトリの防御的な修正評価](../surveys/coding-agents/2026-cwe-bench-defensive-repair.ja.md)

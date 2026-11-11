@@ -5,6 +5,10 @@
 Newest first. Earlier entries use dates recorded as additions in the reading list; these do not establish the user's actual reading dates. Undated entries are omitted.
 
 
+## 2026-11-12
+
+- [Anthropic’s Japanese prospectus amended November 11](../economics/2026-anthropic-japan-prospectus-nov11.md)
+
 ## 2026-11-11
 
 - [CWE-bench and evaluation of defensive repository repair](../surveys/coding-agents/2026-cwe-bench-defensive-repair.md)
