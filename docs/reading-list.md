@@ -9,6 +9,10 @@
 
 ## Added 2026-11-13
 
+- [DLite and history-free speculative decoding](../surveys/llm-infrastructure/2026-dlite-history-free-speculation.md) — Preprint v1. Architecture and inference metrics checked.
+- [Greengrass inference for predictive maintenance](../surveys/cloud-resilience/2026-greengrass-edge-predictive-maintenance.md) — Preprint v1. Measurement boundaries and numeric discrepancy recorded.
+- [Evidence for AI-discovered cloud threats](../surveys/security-governance/2026-ai-cloud-threat-validation.md) — Preprint v1. Outcome categories and denominator checked.
+- [EB-MAS and auditable belief updates](../surveys/agent-safety/2026-eb-mas-auditable-beliefs.md) — Preprint v1. Design and preliminary evaluations checked.
 - [Gemini 4 Hydrogen for everyday agent workloads](../surveys/articles/2026-google-gemini-4-hydrogen.md) — Vendor launch article. Selected claims checked.
 - [Anthropic Form S-1/A Amendment No. 1, November 2](../economics/2026-anthropic-s1-amendment1.md) — Historical filing. Cover and selected financial entries checked.
 - [Why Writing Correct Software Is Hard](../surveys/coding-agents/2016-correctness-and-complexity.md) — 2016 technical essay. Selected arguments checked.

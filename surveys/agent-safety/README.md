@@ -4,6 +4,10 @@
 
 Whether AI agents act outside their authorization, and how they can be attacked in real workflows.
 
+## Added 2026-11-13
+
+- [EB-MAS and auditable belief updates](2026-eb-mas-auditable-beliefs.md) — Preprint v1. Design and preliminary evaluations checked.
+
 ## Added 2026-11-08
 
 - [Trojan Horse: Automated Repository Poisoning against Coding Agents](2026-trojanforge-repository-poisoning.md) — Preprint v1; setup and success-conditioned corpus checked; attacks not executed.

@@ -6,6 +6,7 @@
 
 ## 2026-11-13追加
 
+- [Greengrassによる予知保全のエッジ推論](2026-greengrass-edge-predictive-maintenance.ja.md) — プレプリントv1。測定範囲と数値の不一致を記録。
 - [AWS Emulatorによるアプリケーションのローカル試験](2026-aws-emulator-local-testing.ja.md) — AWS発表記事。対応範囲と制約を確認。
 
 ## 2026-11-11追加
