@@ -7,6 +7,7 @@
 
 ## 2026-11-12
 
+- [CloudflareのGLM-5.3 KVキャッシュ露出と修正](../surveys/security-governance/2026-cloudflare-kv-cache-exposure.ja.md)
 - [Goldman SachsのコーディングAI利用制限に関する報道](../surveys/security-governance/2026-goldman-ai-coding-access-controls.ja.md)
 - [GitHubのエージェント規模向けGit基盤](../surveys/coding-agents/2026-github-git-infrastructure-agent-scale.ja.md)
 - [Anthropic利用ポリシー・2026年11月12日施行版](../surveys/security-governance/2026-anthropic-usage-policy-nov12.ja.md)

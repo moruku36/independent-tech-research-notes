@@ -9,6 +9,7 @@
 
 ## Added 2026-11-12: disclosures, usage policy, models and research
 
+- [Cloudflare’s GLM-5.3 KV-cache incident and remediation](../surveys/security-governance/2026-cloudflare-kv-cache-exposure.md) — Provider incident report. Scope and remediation stages partially checked.
 - [Goldman Sachs’ reported restrictions on AI coding-tool access](../surveys/security-governance/2026-goldman-ai-coding-access-controls.md) — Bloomberg reporting. Scope and exceptions checked; internal guidance unexamined.
 - [GitHub’s Git infrastructure for agent-scale development](../surveys/coding-agents/2026-github-git-infrastructure-agent-scale.md) — Engineering article. Architecture and internal benchmark scope checked.
 - [Anthropic Usage Policy effective November 12, 2026](../surveys/security-governance/2026-anthropic-usage-policy-nov12.md) — Provider policy. PDF and current page checked.

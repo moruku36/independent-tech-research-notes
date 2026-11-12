@@ -6,6 +6,7 @@ GenAI利用・暗号移行・マルチクラウド統制の一貫性をめぐる
 
 ## 2026-11-12追加・再確認
 
+- [CloudflareのGLM-5.3 KVキャッシュ露出と修正](2026-cloudflare-kv-cache-exposure.ja.md) — 提供者の障害・修正報告。影響範囲と対策の段階を部分確認。
 - [Goldman SachsのコーディングAI利用制限に関する報道](2026-goldman-ai-coding-access-controls.ja.md) — Bloomberg報道。適用範囲・例外を確認、内部指針は未確認。
 - [Anthropic利用ポリシー・2026年11月12日施行版](2026-anthropic-usage-policy-nov12.ja.md) — 提供者の利用規程。PDFと現行ページを照合。
 

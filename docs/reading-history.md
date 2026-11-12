@@ -7,6 +7,7 @@ Newest first. Earlier entries use dates recorded as additions in the reading lis
 
 ## 2026-11-12
 
+- [Cloudflare’s GLM-5.3 KV-cache incident and remediation](../surveys/security-governance/2026-cloudflare-kv-cache-exposure.md)
 - [Goldman Sachs’ reported restrictions on AI coding-tool access](../surveys/security-governance/2026-goldman-ai-coding-access-controls.md)
 - [GitHub’s Git infrastructure for agent-scale development](../surveys/coding-agents/2026-github-git-infrastructure-agent-scale.md)
 - [Anthropic Usage Policy effective November 12, 2026](../surveys/security-governance/2026-anthropic-usage-policy-nov12.md)
