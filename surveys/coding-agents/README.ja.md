@@ -7,6 +7,7 @@ AIコーディング支援・自動修復・自動レビューのベンチマー
 
 ## 2026-11-12追加・再確認
 
+- [GitHubのエージェント規模向けGit基盤](2026-github-git-infrastructure-agent-scale.ja.md) — 企業技術記事。基盤設計と内部測定の範囲を確認。
 - [The Agentic Scientistによる研究の並列実行と証拠管理](2026-sakana-agentic-scientist.ja.md) — プレプリントv1。手順と限界を確認。
 
 ## 2026-11-11追加

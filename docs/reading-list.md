@@ -9,6 +9,7 @@
 
 ## Added 2026-11-12: disclosures, usage policy, models and research
 
+- [GitHub’s Git infrastructure for agent-scale development](../surveys/coding-agents/2026-github-git-infrastructure-agent-scale.md) — Engineering article. Architecture and internal benchmark scope checked.
 - [Anthropic Usage Policy effective November 12, 2026](../surveys/security-governance/2026-anthropic-usage-policy-nov12.md) — Provider policy. PDF and current page checked.
 - [Maya lidar agents and the correction to a discovery claim](../surveys/articles/2026-maya-lidar-agent-rediscovery.md) — Practitioner report. November 11 correction included.
 - [Qwen4-Max-Preview access and output-budget semantics](../surveys/articles/2026-qwen4-max-preview.md) — Vendor documentation updated November 11.

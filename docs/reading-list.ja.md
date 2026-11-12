@@ -9,6 +9,7 @@
 
 ## 2026-11-12追加：企業開示・利用規程・モデルと研究
 
+- [GitHubのエージェント規模向けGit基盤](../surveys/coding-agents/2026-github-git-infrastructure-agent-scale.ja.md) — 企業技術記事。基盤設計と内部測定の範囲を確認。
 - [Anthropic利用ポリシー・2026年11月12日施行版](../surveys/security-governance/2026-anthropic-usage-policy-nov12.ja.md) — 提供者の利用規程。PDFと現行ページを照合。
 - [Maya遺跡のLiDAR解析と新発見主張の訂正](../surveys/articles/2026-maya-lidar-agent-rediscovery.ja.md) — 個人の実践報告。11月11日の訂正を反映。
 - [Qwen4-Max-Previewの提供条件と出力予算](../surveys/articles/2026-qwen4-max-preview.ja.md) — 11月11日更新の提供元資料。
