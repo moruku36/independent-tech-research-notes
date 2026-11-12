@@ -9,6 +9,7 @@
 
 ## 2026-11-12追加：企業開示・利用規程・モデルと研究
 
+- [CloudflareのGLM-5.3 KVキャッシュ露出と修正](../surveys/security-governance/2026-cloudflare-kv-cache-exposure.ja.md) — 提供者の障害・修正報告。影響範囲と対策の段階を部分確認。
 - [Goldman SachsのコーディングAI利用制限に関する報道](../surveys/security-governance/2026-goldman-ai-coding-access-controls.ja.md) — Bloomberg報道。適用範囲・例外を確認、内部指針は未確認。
 - [GitHubのエージェント規模向けGit基盤](../surveys/coding-agents/2026-github-git-infrastructure-agent-scale.ja.md) — 企業技術記事。基盤設計と内部測定の範囲を確認。
 - [Anthropic利用ポリシー・2026年11月12日施行版](../surveys/security-governance/2026-anthropic-usage-policy-nov12.ja.md) — 提供者の利用規程。PDFと現行ページを照合。

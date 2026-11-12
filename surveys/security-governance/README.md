@@ -6,6 +6,7 @@ Organizational security questions around GenAI, cryptographic migration, and mul
 
 ## Added and rechecked 2026-11-12
 
+- [Cloudflare’s GLM-5.3 KV-cache incident and remediation](2026-cloudflare-kv-cache-exposure.md) — Provider incident report. Scope and remediation stages partially checked.
 - [Goldman Sachs’ reported restrictions on AI coding-tool access](2026-goldman-ai-coding-access-controls.md) — Bloomberg reporting. Scope and exceptions checked; internal guidance unexamined.
 - [Anthropic Usage Policy effective November 12, 2026](2026-anthropic-usage-policy-nov12.md) — Provider policy. PDF and current page checked.
 
