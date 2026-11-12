@@ -4,6 +4,10 @@
 
 Organizational security questions around GenAI, cryptographic migration, and multi-cloud control consistency.
 
+## Added 2026-11-13
+
+- [Evidence for AI-discovered cloud threats](2026-ai-cloud-threat-validation.md) — Preprint v1. Outcome categories and denominator checked.
+
 ## Added and rechecked 2026-11-12
 
 - [Cloudflare’s GLM-5.3 KV-cache incident and remediation](2026-cloudflare-kv-cache-exposure.md) — Provider incident report. Scope and remediation stages partially checked.

@@ -7,6 +7,10 @@
 
 ## 2026-11-13
 
+- [DLiteによる履歴を持たない投機的デコーディング](../surveys/llm-infrastructure/2026-dlite-history-free-speculation.ja.md)
+- [Greengrassによる予知保全のエッジ推論](../surveys/cloud-resilience/2026-greengrass-edge-predictive-maintenance.ja.md)
+- [AIが挙げたクラウド脅威の検証と証拠](../surveys/security-governance/2026-ai-cloud-threat-validation.ja.md)
+- [EB-MASによる判断根拠の更新と監査](../surveys/agent-safety/2026-eb-mas-auditable-beliefs.ja.md)
 - [Gemini 4 Hydrogenの日常的なエージェント処理](../surveys/articles/2026-google-gemini-4-hydrogen.ja.md)
 - [Anthropic Form S-1/A第1次訂正・11月2日版](../economics/2026-anthropic-s1-amendment1.ja.md)
 - [正しいソフトウェアを書く難しさと計算量](../surveys/coding-agents/2016-correctness-and-complexity.ja.md)

@@ -5,6 +5,10 @@
 Hardware choices, scheduling, KV cache control, and long-term memory retrieval.
 
 
+## Added 2026-11-13
+
+- [DLite and history-free speculative decoding](2026-dlite-history-free-speculation.md) — Preprint v1. Architecture and inference metrics checked.
+
 ## Added and rechecked 2026-11-12
 
 - [EC2-Bench and edge–cloud agent collaboration](2026-ec2-bench-edge-cloud-agents.md) — Preprint v2. Task curation and exposure metric checked.

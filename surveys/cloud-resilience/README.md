@@ -6,6 +6,7 @@ Papers on fault injection, recovery decisions, safety and experiment coordinatio
 
 ## Added 2026-11-13
 
+- [Greengrass inference for predictive maintenance](2026-greengrass-edge-predictive-maintenance.md) — Preprint v1. Measurement boundaries and numeric discrepancy recorded.
 - [AWS Emulator for local application testing](2026-aws-emulator-local-testing.md) — AWS launch article. Scope and limitations checked.
 
 ## Added 2026-11-11

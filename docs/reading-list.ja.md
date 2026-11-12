@@ -9,6 +9,10 @@
 
 ## 2026-11-13追加
 
+- [DLiteによる履歴を持たない投機的デコーディング](../surveys/llm-infrastructure/2026-dlite-history-free-speculation.ja.md) — プレプリントv1。構成と推論指標を確認。
+- [Greengrassによる予知保全のエッジ推論](../surveys/cloud-resilience/2026-greengrass-edge-predictive-maintenance.ja.md) — プレプリントv1。測定範囲と数値の不一致を記録。
+- [AIが挙げたクラウド脅威の検証と証拠](../surveys/security-governance/2026-ai-cloud-threat-validation.ja.md) — プレプリントv1。判定区分と分母を確認。
+- [EB-MASによる判断根拠の更新と監査](../surveys/agent-safety/2026-eb-mas-auditable-beliefs.ja.md) — プレプリントv1。設計と予備評価を確認。
 - [Gemini 4 Hydrogenの日常的なエージェント処理](../surveys/articles/2026-google-gemini-4-hydrogen.ja.md) — 提供元の発表記事。主要記述を確認。
 - [Anthropic Form S-1/A第1次訂正・11月2日版](../economics/2026-anthropic-s1-amendment1.ja.md) — 過去版の開示。表紙と財務の主要項目を確認。
 - [正しいソフトウェアを書く難しさと計算量](../surveys/coding-agents/2016-correctness-and-complexity.ja.md) — 2016年の技術論考。主要な議論を確認。
