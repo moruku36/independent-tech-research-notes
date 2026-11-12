@@ -4,6 +4,10 @@
 
 AIの同僚への期待、待ち時間・注意の扱い、AI利用による業務活動と学習機会の変化。
 
+## 2026-11-13追加
+
+- [Jane StreetのSocratic Tutorスキル設計](2026-janestreet-socratic-tutor.ja.md) — 公開リポジトリの指示ファイル。版を固定。
+
 ## 2026-11-11追加
 
 - [Avatar Intelligenceによる継続型個人エージェントの委任と監督](2026-avatar-intelligence-personal-agents.ja.md) — 構想論文v1。委任の段階、AOI、リハーサルを確認。

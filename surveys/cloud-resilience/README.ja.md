@@ -4,6 +4,10 @@
 
 障害注入、復旧判定、実験の安全・協調を扱う論文。
 
+## 2026-11-13追加
+
+- [AWS Emulatorによるアプリケーションのローカル試験](2026-aws-emulator-local-testing.ja.md) — AWS発表記事。対応範囲と制約を確認。
+
 ## 2026-11-11追加
 
 - [BEACONによる時差を考慮したクラウド異常検知](2026-beacon-cloud-anomaly-detection.ja.md) — プレプリントv1。手法と区間単位の評価を確認。

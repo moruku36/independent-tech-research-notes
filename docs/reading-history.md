@@ -5,6 +5,16 @@
 Newest first. Earlier entries use dates recorded as additions in the reading list; these do not establish the user's actual reading dates. Undated entries are omitted.
 
 
+## 2026-11-13
+
+- [Gemini 4 Hydrogen for everyday agent workloads](../surveys/articles/2026-google-gemini-4-hydrogen.md)
+- [Anthropic Form S-1/A Amendment No. 1, November 2](../economics/2026-anthropic-s1-amendment1.md)
+- [Why Writing Correct Software Is Hard](../surveys/coding-agents/2016-correctness-and-complexity.md)
+- [Jane Street’s Socratic Tutor skill design](../surveys/human-ai-collaboration/2026-janestreet-socratic-tutor.md)
+- [AWS Emulator for local application testing](../surveys/cloud-resilience/2026-aws-emulator-local-testing.md)
+- [Hydrogen and Orchestrator in Google Antigravity](../surveys/coding-agents/2026-antigravity-hydrogen-orchestrator.md)
+- [A Reddit user’s Swarm development trial](../surveys/coding-agents/2026-antigravity-swarm-reddit-report.md)
+
 ## 2026-11-12
 
 - [Cloudflare’s GLM-5.3 KV-cache incident and remediation](../surveys/security-governance/2026-cloudflare-kv-cache-exposure.md)

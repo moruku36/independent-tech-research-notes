@@ -7,6 +7,16 @@
 
 
 
+## Added 2026-11-13
+
+- [Gemini 4 Hydrogen for everyday agent workloads](../surveys/articles/2026-google-gemini-4-hydrogen.md) — Vendor launch article. Selected claims checked.
+- [Anthropic Form S-1/A Amendment No. 1, November 2](../economics/2026-anthropic-s1-amendment1.md) — Historical filing. Cover and selected financial entries checked.
+- [Why Writing Correct Software Is Hard](../surveys/coding-agents/2016-correctness-and-complexity.md) — 2016 technical essay. Selected arguments checked.
+- [Jane Street’s Socratic Tutor skill design](../surveys/human-ai-collaboration/2026-janestreet-socratic-tutor.md) — Repository instruction file. Revision pinned.
+- [AWS Emulator for local application testing](../surveys/cloud-resilience/2026-aws-emulator-local-testing.md) — AWS launch article. Scope and limitations checked.
+- [Hydrogen and Orchestrator in Google Antigravity](../surveys/coding-agents/2026-antigravity-hydrogen-orchestrator.md) — Official product article. Browser text checked.
+- [A Reddit user’s Swarm development trial](../surveys/coding-agents/2026-antigravity-swarm-reddit-report.md) — Community account. Official workflow cross-checked.
+
 ## Added 2026-11-12: disclosures, usage policy, models and research
 
 - [Cloudflare’s GLM-5.3 KV-cache incident and remediation](../surveys/security-governance/2026-cloudflare-kv-cache-exposure.md) — Provider incident report. Scope and remediation stages partially checked.

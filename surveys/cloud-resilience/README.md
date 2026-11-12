@@ -4,6 +4,10 @@
 
 Papers on fault injection, recovery decisions, safety and experiment coordination.
 
+## Added 2026-11-13
+
+- [AWS Emulator for local application testing](2026-aws-emulator-local-testing.md) — AWS launch article. Scope and limitations checked.
+
 ## Added 2026-11-11
 
 - [BEACON and asynchronous cloud anomaly detection](2026-beacon-cloud-anomaly-detection.md) — Preprint v1. Method and segment-level evaluation checked.

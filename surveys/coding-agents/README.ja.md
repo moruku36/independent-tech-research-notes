@@ -5,6 +5,12 @@
 AIコーディング支援・自動修復・自動レビューのベンチマークと企業での実証研究。
 
 
+## 2026-11-13追加
+
+- [正しいソフトウェアを書く難しさと計算量](2016-correctness-and-complexity.ja.md) — 2016年の技術論考。主要な議論を確認。
+- [Google AntigravityのHydrogenとOrchestrator](2026-antigravity-hydrogen-orchestrator.ja.md) — 公式製品記事。ブラウザ本文で確認。
+- [Reddit利用者によるSwarm開発試行](2026-antigravity-swarm-reddit-report.ja.md) — コミュニティ報告。公式の手順説明と照合。
+
 ## 2026-11-12追加・再確認
 
 - [GitHubのエージェント規模向けGit基盤](2026-github-git-infrastructure-agent-scale.ja.md) — 企業技術記事。基盤設計と内部測定の範囲を確認。

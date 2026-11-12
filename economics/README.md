@@ -4,6 +4,7 @@
 
 Reading notes for filings, prospectuses, and company financial disclosures. Counted separately from academic papers; distinguish issuer statements, verified facts, and interpretation.
 
+- [Anthropic Form S-1/A Amendment No. 1, November 2](2026-anthropic-s1-amendment1.md) — Historical filing. Cover and selected financial entries checked.
 - [Anthropic’s Japanese prospectus amended November 11](2026-anthropic-japan-prospectus-nov11.md) — November 11 amendment. Selected sections checked against linked SEC entries.
 - [Anthropic Form S-1](2026-anthropic-s1.md) — 2026-10-26 filing; index/cover checked, financial body unverified.
 

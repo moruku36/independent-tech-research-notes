@@ -7,6 +7,16 @@
 
 
 
+## 2026-11-13追加
+
+- [Gemini 4 Hydrogenの日常的なエージェント処理](../surveys/articles/2026-google-gemini-4-hydrogen.ja.md) — 提供元の発表記事。主要記述を確認。
+- [Anthropic Form S-1/A第1次訂正・11月2日版](../economics/2026-anthropic-s1-amendment1.ja.md) — 過去版の開示。表紙と財務の主要項目を確認。
+- [正しいソフトウェアを書く難しさと計算量](../surveys/coding-agents/2016-correctness-and-complexity.ja.md) — 2016年の技術論考。主要な議論を確認。
+- [Jane StreetのSocratic Tutorスキル設計](../surveys/human-ai-collaboration/2026-janestreet-socratic-tutor.ja.md) — 公開リポジトリの指示ファイル。版を固定。
+- [AWS Emulatorによるアプリケーションのローカル試験](../surveys/cloud-resilience/2026-aws-emulator-local-testing.ja.md) — AWS発表記事。対応範囲と制約を確認。
+- [Google AntigravityのHydrogenとOrchestrator](../surveys/coding-agents/2026-antigravity-hydrogen-orchestrator.ja.md) — 公式製品記事。ブラウザ本文で確認。
+- [Reddit利用者によるSwarm開発試行](../surveys/coding-agents/2026-antigravity-swarm-reddit-report.ja.md) — コミュニティ報告。公式の手順説明と照合。
+
 ## 2026-11-12追加：企業開示・利用規程・モデルと研究
 
 - [CloudflareのGLM-5.3 KVキャッシュ露出と修正](../surveys/security-governance/2026-cloudflare-kv-cache-exposure.ja.md) — 提供者の障害・修正報告。影響範囲と対策の段階を部分確認。
