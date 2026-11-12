@@ -5,6 +5,10 @@
 Vendor reports, conference recaps and company articles appear alongside a work/labor academic paper. The paper is labeled and counted separately from articles.
 
 
+## Added 2026-11-13
+
+- [Gemini 4 Hydrogen for everyday agent workloads](2026-google-gemini-4-hydrogen.md) — Vendor launch article. Selected claims checked.
+
 ## Added and rechecked 2026-11-12
 
 - [Maya lidar agents and the correction to a discovery claim](2026-maya-lidar-agent-rediscovery.md) — Practitioner report. November 11 correction included.

@@ -5,6 +5,16 @@
 新しい日付順。過去分は既存の読書一覧に記された追加日を使用し、本人の読了日を保証するものではありません。日付が特定できない資料は省いています。
 
 
+## 2026-11-13
+
+- [Gemini 4 Hydrogenの日常的なエージェント処理](../surveys/articles/2026-google-gemini-4-hydrogen.ja.md)
+- [Anthropic Form S-1/A第1次訂正・11月2日版](../economics/2026-anthropic-s1-amendment1.ja.md)
+- [正しいソフトウェアを書く難しさと計算量](../surveys/coding-agents/2016-correctness-and-complexity.ja.md)
+- [Jane StreetのSocratic Tutorスキル設計](../surveys/human-ai-collaboration/2026-janestreet-socratic-tutor.ja.md)
+- [AWS Emulatorによるアプリケーションのローカル試験](../surveys/cloud-resilience/2026-aws-emulator-local-testing.ja.md)
+- [Google AntigravityのHydrogenとOrchestrator](../surveys/coding-agents/2026-antigravity-hydrogen-orchestrator.ja.md)
+- [Reddit利用者によるSwarm開発試行](../surveys/coding-agents/2026-antigravity-swarm-reddit-report.ja.md)
+
 ## 2026-11-12
 
 - [CloudflareのGLM-5.3 KVキャッシュ露出と修正](../surveys/security-governance/2026-cloudflare-kv-cache-exposure.ja.md)

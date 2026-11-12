@@ -5,6 +5,12 @@
 Benchmarks and industrial studies of AI coding assistants, automated repair, and automated review.
 
 
+## Added 2026-11-13
+
+- [Why Writing Correct Software Is Hard](2016-correctness-and-complexity.md) — 2016 technical essay. Selected arguments checked.
+- [Hydrogen and Orchestrator in Google Antigravity](2026-antigravity-hydrogen-orchestrator.md) — Official product article. Browser text checked.
+- [A Reddit user’s Swarm development trial](2026-antigravity-swarm-reddit-report.md) — Community account. Official workflow cross-checked.
+
 ## Added and rechecked 2026-11-12
 
 - [GitHub’s Git infrastructure for agent-scale development](2026-github-git-infrastructure-agent-scale.md) — Engineering article. Architecture and internal benchmark scope checked.

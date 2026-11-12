@@ -4,6 +4,7 @@
 
 企業の法定開示、目論見書、決算資料などの読書ノート。学術論文とは別集計し、発行者の主張・確認済み事実・本ノートの考察を区別する。
 
+- [Anthropic Form S-1/A第1次訂正・11月2日版](2026-anthropic-s1-amendment1.ja.md) — 過去版の開示。表紙と財務の主要項目を確認。
 - [Anthropicの新株式発行届出目論見書・11月11日訂正版](2026-anthropic-japan-prospectus-nov11.ja.md) — 11月11日訂正版。主要部分確認、米国S-1/Aの該当項目と照合。
 - [Anthropic Form S-1](2026-anthropic-s1.ja.md) — 2026-10-26 提出。索引・表紙のみ確認、財務本文未確認。
 

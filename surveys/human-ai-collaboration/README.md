@@ -4,6 +4,10 @@
 
 What people expect from AI co-workers, how tools treat waiting time and attention, and how AI use changes work activity and learning opportunities.
 
+## Added 2026-11-13
+
+- [Jane Street’s Socratic Tutor skill design](2026-janestreet-socratic-tutor.md) — Repository instruction file. Revision pinned.
+
 ## Added 2026-11-11
 
 - [Avatar Intelligence and oversight of persistent personal agents](2026-avatar-intelligence-personal-agents.md) — Position paper v1. Roadmap, AOI and rehearsal design checked.
