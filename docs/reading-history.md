@@ -7,6 +7,7 @@ Newest first. Earlier entries use dates recorded as additions in the reading lis
 
 ## 2026-11-13
 
+- [Scaling agent systems through task–architecture alignment](../surveys/llm-infrastructure/2025-scaling-agent-systems.md)
 - [DLite and history-free speculative decoding](../surveys/llm-infrastructure/2026-dlite-history-free-speculation.md)
 - [Greengrass inference for predictive maintenance](../surveys/cloud-resilience/2026-greengrass-edge-predictive-maintenance.md)
 - [Evidence for AI-discovered cloud threats](../surveys/security-governance/2026-ai-cloud-threat-validation.md)

@@ -9,6 +9,7 @@
 
 ## Added 2026-11-13
 
+- [Scaling agent systems through task–architecture alignment](../surveys/llm-infrastructure/2025-scaling-agent-systems.md) — Preprint v3. Coordination results and evaluation limits checked.
 - [DLite and history-free speculative decoding](../surveys/llm-infrastructure/2026-dlite-history-free-speculation.md) — Preprint v1. Architecture and inference metrics checked.
 - [Greengrass inference for predictive maintenance](../surveys/cloud-resilience/2026-greengrass-edge-predictive-maintenance.md) — Preprint v1. Measurement boundaries and numeric discrepancy recorded.
 - [Evidence for AI-discovered cloud threats](../surveys/security-governance/2026-ai-cloud-threat-validation.md) — Preprint v1. Outcome categories and denominator checked.

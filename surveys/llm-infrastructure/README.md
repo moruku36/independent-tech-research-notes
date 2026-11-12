@@ -7,6 +7,7 @@ Hardware choices, scheduling, KV cache control, and long-term memory retrieval.
 
 ## Added 2026-11-13
 
+- [Scaling agent systems through task–architecture alignment](2025-scaling-agent-systems.md) — Preprint v3. Coordination results and evaluation limits checked.
 - [DLite and history-free speculative decoding](2026-dlite-history-free-speculation.md) — Preprint v1. Architecture and inference metrics checked.
 
 ## Added and rechecked 2026-11-12

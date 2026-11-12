@@ -9,6 +9,7 @@
 
 ## 2026-11-13追加
 
+- [エージェントの協調構成とタスクの適合](../surveys/llm-infrastructure/2025-scaling-agent-systems.ja.md) — プレプリントv3。協調構成の結果と評価範囲を確認。
 - [DLiteによる履歴を持たない投機的デコーディング](../surveys/llm-infrastructure/2026-dlite-history-free-speculation.ja.md) — プレプリントv1。構成と推論指標を確認。
 - [Greengrassによる予知保全のエッジ推論](../surveys/cloud-resilience/2026-greengrass-edge-predictive-maintenance.ja.md) — プレプリントv1。測定範囲と数値の不一致を記録。
 - [AIが挙げたクラウド脅威の検証と証拠](../surveys/security-governance/2026-ai-cloud-threat-validation.ja.md) — プレプリントv1。判定区分と分母を確認。
