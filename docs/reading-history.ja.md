@@ -7,6 +7,7 @@
 
 ## 2026-11-12
 
+- [GitHubのエージェント規模向けGit基盤](../surveys/coding-agents/2026-github-git-infrastructure-agent-scale.ja.md)
 - [Anthropic利用ポリシー・2026年11月12日施行版](../surveys/security-governance/2026-anthropic-usage-policy-nov12.ja.md)
 - [Maya遺跡のLiDAR解析と新発見主張の訂正](../surveys/articles/2026-maya-lidar-agent-rediscovery.ja.md)
 - [Qwen4-Max-Previewの提供条件と出力予算](../surveys/articles/2026-qwen4-max-preview.ja.md)

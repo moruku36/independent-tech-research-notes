@@ -7,6 +7,7 @@ Benchmarks and industrial studies of AI coding assistants, automated repair, and
 
 ## Added and rechecked 2026-11-12
 
+- [GitHub’s Git infrastructure for agent-scale development](2026-github-git-infrastructure-agent-scale.md) — Engineering article. Architecture and internal benchmark scope checked.
 - [The Agentic Scientist and evidence-based research orchestration](2026-sakana-agentic-scientist.md) — Preprint v1. Workflow and limitations checked.
 
 ## Added 2026-11-11
