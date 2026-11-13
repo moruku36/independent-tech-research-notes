@@ -5,6 +5,12 @@
 Benchmarks and industrial studies of AI coding assistants, automated repair, and automated review.
 
 
+## Added 2026-11-14
+
+- [Rust 1.100: language, allocation and Cargo changes](2026-rust-1-100-release.md) — Official release article. Selected compatibility and Cargo changes checked.
+- [CAMP-II: learning file-based memory across context boundaries](2026-camp-ii-file-memory-distillation.md) — Preprint v2. Training method and gain denominator checked.
+- [ParallACT: coordinating independent requests in shared code](2026-parallact-shared-code-coordination.md) — Preprint v1. Joint correctness and comparison conditions checked.
+
 ## Added 2026-11-13
 
 - [Why Writing Correct Software Is Hard](2016-correctness-and-complexity.md) — 2016 technical essay. Selected arguments checked.

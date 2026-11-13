@@ -7,6 +7,15 @@
 
 
 
+## 2026-11-14追加
+
+- [Rust 1.100：言語・メモリ管理・Cargoの変更](../surveys/coding-agents/2026-rust-1-100-release.ja.md) — 公式リリース記事。互換性とCargoの主要変更を確認。
+- [FaceStealer：映像によるなりすましと保守者への攻撃](../surveys/security-governance/2026-facestealer-video-social-engineering.ja.md) — 報道記事。FBI・司法省の一次発表と照合。
+- [CAMP-II：文脈をまたぐファイル記憶の学習](../surveys/coding-agents/2026-camp-ii-file-memory-distillation.ja.md) — プレプリントv2。学習方法と改善倍率の分母を確認。
+- [長いタスクの失敗：起点・証拠・復旧を追う](../surveys/agent-safety/2026-long-horizon-trajectory-faults.ja.md) — プレプリントv1。注釈と対策効果の推定範囲を確認。
+- [ParallACT：共有コードで独立した依頼を調整する](../surveys/coding-agents/2026-parallact-shared-code-coordination.ja.md) — プレプリントv1。統合後の正しさと比較条件を確認。
+- [共謀監視：指示への接触・判断・検出時点](../surveys/agent-safety/2026-collusion-probe-evaluation-pitfalls.ja.md) — プレプリントv1。難しい負例・検出時点・内部状態への依存を確認。
+
 ## 2026-11-13追加
 
 - [エージェントの協調構成とタスクの適合](../surveys/llm-infrastructure/2025-scaling-agent-systems.ja.md) — プレプリントv3。協調構成の結果と評価範囲を確認。

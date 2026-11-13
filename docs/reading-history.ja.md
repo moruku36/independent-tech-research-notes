@@ -5,6 +5,15 @@
 新しい日付順。過去分は既存の読書一覧に記された追加日を使用し、本人の読了日を保証するものではありません。日付が特定できない資料は省いています。
 
 
+## 2026-11-14
+
+- [Rust 1.100：言語・メモリ管理・Cargoの変更](../surveys/coding-agents/2026-rust-1-100-release.ja.md)
+- [FaceStealer：映像によるなりすましと保守者への攻撃](../surveys/security-governance/2026-facestealer-video-social-engineering.ja.md)
+- [CAMP-II：文脈をまたぐファイル記憶の学習](../surveys/coding-agents/2026-camp-ii-file-memory-distillation.ja.md)
+- [長いタスクの失敗：起点・証拠・復旧を追う](../surveys/agent-safety/2026-long-horizon-trajectory-faults.ja.md)
+- [ParallACT：共有コードで独立した依頼を調整する](../surveys/coding-agents/2026-parallact-shared-code-coordination.ja.md)
+- [共謀監視：指示への接触・判断・検出時点](../surveys/agent-safety/2026-collusion-probe-evaluation-pitfalls.ja.md)
+
 ## 2026-11-13
 
 - [エージェントの協調構成とタスクの適合](../surveys/llm-infrastructure/2025-scaling-agent-systems.ja.md)

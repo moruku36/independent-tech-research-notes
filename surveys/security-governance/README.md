@@ -4,6 +4,10 @@
 
 Organizational security questions around GenAI, cryptographic migration, and multi-cloud control consistency.
 
+## Added 2026-11-14
+
+- [FaceStealer: video impersonation and maintainer compromise](2026-facestealer-video-social-engineering.md) — News report. FBI and DOJ statements cross-checked.
+
 ## Added 2026-11-13
 
 - [Evidence for AI-discovered cloud threats](2026-ai-cloud-threat-validation.md) — Preprint v1. Outcome categories and denominator checked.

@@ -5,6 +5,12 @@
 AIコーディング支援・自動修復・自動レビューのベンチマークと企業での実証研究。
 
 
+## 2026-11-14追加
+
+- [Rust 1.100：言語・メモリ管理・Cargoの変更](2026-rust-1-100-release.ja.md) — 公式リリース記事。互換性とCargoの主要変更を確認。
+- [CAMP-II：文脈をまたぐファイル記憶の学習](2026-camp-ii-file-memory-distillation.ja.md) — プレプリントv2。学習方法と改善倍率の分母を確認。
+- [ParallACT：共有コードで独立した依頼を調整する](2026-parallact-shared-code-coordination.ja.md) — プレプリントv1。統合後の正しさと比較条件を確認。
+
 ## 2026-11-13追加
 
 - [正しいソフトウェアを書く難しさと計算量](2016-correctness-and-complexity.ja.md) — 2016年の技術論考。主要な議論を確認。

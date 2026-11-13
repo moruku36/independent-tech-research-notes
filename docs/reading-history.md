@@ -5,6 +5,15 @@
 Newest first. Earlier entries use dates recorded as additions in the reading list; these do not establish the user's actual reading dates. Undated entries are omitted.
 
 
+## 2026-11-14
+
+- [Rust 1.100: language, allocation and Cargo changes](../surveys/coding-agents/2026-rust-1-100-release.md)
+- [FaceStealer: video impersonation and maintainer compromise](../surveys/security-governance/2026-facestealer-video-social-engineering.md)
+- [CAMP-II: learning file-based memory across context boundaries](../surveys/coding-agents/2026-camp-ii-file-memory-distillation.md)
+- [Long-horizon failures: tracing origins, evidence and recovery](../surveys/agent-safety/2026-long-horizon-trajectory-faults.md)
+- [ParallACT: coordinating independent requests in shared code](../surveys/coding-agents/2026-parallact-shared-code-coordination.md)
+- [Collusion monitors: instruction exposure, decisions and timing](../surveys/agent-safety/2026-collusion-probe-evaluation-pitfalls.md)
+
 ## 2026-11-13
 
 - [Scaling agent systems through task–architecture alignment](../surveys/llm-infrastructure/2025-scaling-agent-systems.md)
