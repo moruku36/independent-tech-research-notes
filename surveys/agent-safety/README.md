@@ -4,6 +4,11 @@
 
 Whether AI agents act outside their authorization, and how they can be attacked in real workflows.
 
+## Added 2026-11-14
+
+- [Long-horizon failures: tracing origins, evidence and recovery](2026-long-horizon-trajectory-faults.md) — Preprint v1. Annotation and counterfactual-control limits checked.
+- [Collusion monitors: instruction exposure, decisions and timing](2026-collusion-probe-evaluation-pitfalls.md) — Preprint v1. Hard negatives, timing and white-box limits checked.
+
 ## Added 2026-11-13
 
 - [EB-MAS and auditable belief updates](2026-eb-mas-auditable-beliefs.md) — Preprint v1. Design and preliminary evaluations checked.

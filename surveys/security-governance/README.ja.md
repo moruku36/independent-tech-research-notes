@@ -4,6 +4,10 @@
 
 GenAI利用・暗号移行・マルチクラウド統制の一貫性をめぐる、組織面のセキュリティの問い。
 
+## 2026-11-14追加
+
+- [FaceStealer：映像によるなりすましと保守者への攻撃](2026-facestealer-video-social-engineering.ja.md) — 報道記事。FBI・司法省の一次発表と照合。
+
 ## 2026-11-13追加
 
 - [AIが挙げたクラウド脅威の検証と証拠](2026-ai-cloud-threat-validation.ja.md) — プレプリントv1。判定区分と分母を確認。
