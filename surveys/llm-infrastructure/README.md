@@ -5,6 +5,11 @@
 Hardware choices, scheduling, KV cache control, and long-term memory retrieval.
 
 
+## Added 2026-11-15
+
+- [Unsloth Qwen3.8: quantization and local serving](2026-unsloth-qwen38-local-inference.md) — Vendor guide. 27B scope and memory units checked.
+- [GLM-5.3 across two DGX Stations: capacity and concurrency](2026-glm53-two-dgx-stations.md) — Vendor tutorial. Aggregate throughput and latency checked.
+
 ## Added 2026-11-13
 
 - [Scaling agent systems through task–architecture alignment](2025-scaling-agent-systems.md) — Preprint v3. Coordination results and evaluation limits checked.

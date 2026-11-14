@@ -7,6 +7,14 @@
 
 
 
+## 2026-11-15追加
+
+- [Unsloth Qwen3.8：量子化とローカル実行](../surveys/llm-infrastructure/2026-unsloth-qwen38-local-inference.ja.md) — 提供元ガイド。27Bの範囲とメモリ単位を確認。
+- [DGX Station 2台でのGLM-5.3：容量と同時実行](../surveys/llm-infrastructure/2026-glm53-two-dgx-stations.ja.md) — 提供元手順記事。全体スループットと遅延を確認。
+- [Oracle AI World 2026：日本語技術記事の索引](../surveys/articles/2026-oracle-ai-world-japanese-article-index.ja.md) — 公式の編集索引。リンク先すべての精読は未実施。
+- [AgentCap：ツール境界での実行時認可](../surveys/agent-safety/2026-agentcap-runtime-authorization.ja.md) — プレプリントv1。強制機構と有用性の代償を確認。
+- [重み固定の自己改善：失敗記録の追加効果](../surveys/coding-agents/2026-frozen-weight-failure-trace-lessons.ja.md) — プレプリントv2。対応する対照条件と転移の限界を確認。
+
 ## 2026-11-14追加
 
 - [Cairn悪用事例：自律的な侵入と認可の境界](../surveys/security-governance/2026-cairn-autonomous-intrusion-report.ja.md) — ベンダー調査。成果の集計単位と帰属の確度を確認。

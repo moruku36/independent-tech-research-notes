@@ -5,6 +5,14 @@
 Newest first. Earlier entries use dates recorded as additions in the reading list; these do not establish the user's actual reading dates. Undated entries are omitted.
 
 
+## 2026-11-15
+
+- [Unsloth Qwen3.8: quantization and local serving](../surveys/llm-infrastructure/2026-unsloth-qwen38-local-inference.md)
+- [GLM-5.3 across two DGX Stations: capacity and concurrency](../surveys/llm-infrastructure/2026-glm53-two-dgx-stations.md)
+- [Oracle AI World 2026: a Japanese technical-reading index](../surveys/articles/2026-oracle-ai-world-japanese-article-index.md)
+- [AgentCap: runtime authorization at the tool boundary](../surveys/agent-safety/2026-agentcap-runtime-authorization.md)
+- [Frozen-weight self-improvement: what failure traces add](../surveys/coding-agents/2026-frozen-weight-failure-trace-lessons.md)
+
 ## 2026-11-14
 
 - [Cairn misuse: autonomous intrusion and authorization boundaries](../surveys/security-governance/2026-cairn-autonomous-intrusion-report.md)

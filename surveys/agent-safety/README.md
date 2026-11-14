@@ -4,6 +4,10 @@
 
 Whether AI agents act outside their authorization, and how they can be attacked in real workflows.
 
+## Added 2026-11-15
+
+- [AgentCap: runtime authorization at the tool boundary](2026-agentcap-runtime-authorization.md) — Preprint v1. Enforcement and utility trade-offs checked.
+
 ## Added 2026-11-14
 
 - [Long-horizon failures: tracing origins, evidence and recovery](2026-long-horizon-trajectory-faults.md) — Preprint v1. Annotation and counterfactual-control limits checked.

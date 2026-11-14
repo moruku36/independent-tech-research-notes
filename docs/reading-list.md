@@ -7,6 +7,14 @@
 
 
 
+## Added 2026-11-15
+
+- [Unsloth Qwen3.8: quantization and local serving](../surveys/llm-infrastructure/2026-unsloth-qwen38-local-inference.md) — Vendor guide. 27B scope and memory units checked.
+- [GLM-5.3 across two DGX Stations: capacity and concurrency](../surveys/llm-infrastructure/2026-glm53-two-dgx-stations.md) — Vendor tutorial. Aggregate throughput and latency checked.
+- [Oracle AI World 2026: a Japanese technical-reading index](../surveys/articles/2026-oracle-ai-world-japanese-article-index.md) — Official curated index. Linked articles not fully reviewed.
+- [AgentCap: runtime authorization at the tool boundary](../surveys/agent-safety/2026-agentcap-runtime-authorization.md) — Preprint v1. Enforcement and utility trade-offs checked.
+- [Frozen-weight self-improvement: what failure traces add](../surveys/coding-agents/2026-frozen-weight-failure-trace-lessons.md) — Preprint v2. Matched controls and transfer limits checked.
+
 ## Added 2026-11-14
 
 - [Cairn misuse: autonomous intrusion and authorization boundaries](../surveys/security-governance/2026-cairn-autonomous-intrusion-report.md) — Vendor investigation. Outcome units and attribution checked.

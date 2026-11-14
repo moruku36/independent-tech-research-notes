@@ -5,6 +5,10 @@
 企業レポート・学会イベント記事・会社の調査記事に加え、仕事・労働研究の学術論文を収録する。学術論文は記事件数に含めず、種別を明記する。
 
 
+## 2026-11-15追加
+
+- [Oracle AI World 2026：日本語技術記事の索引](2026-oracle-ai-world-japanese-article-index.ja.md) — 公式の編集索引。リンク先すべての精読は未実施。
+
 ## 2026-11-14追加
 
 - [ChatGPT Wallet：購入承認と決済トークン](2026-chatgpt-wallet-agentic-payments.ja.md) — 公式製品発表。承認・提供範囲・将来構想を区別。

@@ -5,6 +5,14 @@
 新しい日付順。過去分は既存の読書一覧に記された追加日を使用し、本人の読了日を保証するものではありません。日付が特定できない資料は省いています。
 
 
+## 2026-11-15
+
+- [Unsloth Qwen3.8：量子化とローカル実行](../surveys/llm-infrastructure/2026-unsloth-qwen38-local-inference.ja.md)
+- [DGX Station 2台でのGLM-5.3：容量と同時実行](../surveys/llm-infrastructure/2026-glm53-two-dgx-stations.ja.md)
+- [Oracle AI World 2026：日本語技術記事の索引](../surveys/articles/2026-oracle-ai-world-japanese-article-index.ja.md)
+- [AgentCap：ツール境界での実行時認可](../surveys/agent-safety/2026-agentcap-runtime-authorization.ja.md)
+- [重み固定の自己改善：失敗記録の追加効果](../surveys/coding-agents/2026-frozen-weight-failure-trace-lessons.ja.md)
+
 ## 2026-11-14
 
 - [Cairn悪用事例：自律的な侵入と認可の境界](../surveys/security-governance/2026-cairn-autonomous-intrusion-report.ja.md)
