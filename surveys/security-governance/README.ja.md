@@ -6,6 +6,7 @@ GenAI利用・暗号移行・マルチクラウド統制の一貫性をめぐる
 
 ## 2026-11-14追加
 
+- [Cairn悪用事例：自律的な侵入と認可の境界](2026-cairn-autonomous-intrusion-report.ja.md) — ベンダー調査。成果の集計単位と帰属の確度を確認。
 - [FaceStealer：映像によるなりすましと保守者への攻撃](2026-facestealer-video-social-engineering.ja.md) — 報道記事。FBI・司法省の一次発表と照合。
 
 ## 2026-11-13追加

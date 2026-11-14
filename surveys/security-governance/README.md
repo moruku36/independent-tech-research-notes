@@ -6,6 +6,7 @@ Organizational security questions around GenAI, cryptographic migration, and mul
 
 ## Added 2026-11-14
 
+- [Cairn misuse: autonomous intrusion and authorization boundaries](2026-cairn-autonomous-intrusion-report.md) — Vendor investigation. Outcome units and attribution checked.
 - [FaceStealer: video impersonation and maintainer compromise](2026-facestealer-video-social-engineering.md) — News report. FBI and DOJ statements cross-checked.
 
 ## Added 2026-11-13

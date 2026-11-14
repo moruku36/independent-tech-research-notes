@@ -5,6 +5,10 @@
 Vendor reports, conference recaps and company articles appear alongside a work/labor academic paper. The paper is labeled and counted separately from articles.
 
 
+## Added 2026-11-14
+
+- [ChatGPT Wallet: purchase approval and payment tokens](2026-chatgpt-wallet-agentic-payments.md) — Official product announcement. Approval, rollout and future plans separated.
+
 ## Added 2026-11-13
 
 - [Gemini 4 Hydrogen for everyday agent workloads](2026-google-gemini-4-hydrogen.md) — Vendor launch article. Selected claims checked.

@@ -9,6 +9,8 @@
 
 ## 2026-11-14追加
 
+- [Cairn悪用事例：自律的な侵入と認可の境界](../surveys/security-governance/2026-cairn-autonomous-intrusion-report.ja.md) — ベンダー調査。成果の集計単位と帰属の確度を確認。
+- [ChatGPT Wallet：購入承認と決済トークン](../surveys/articles/2026-chatgpt-wallet-agentic-payments.ja.md) — 公式製品発表。承認・提供範囲・将来構想を区別。
 - [Rust 1.100：言語・メモリ管理・Cargoの変更](../surveys/coding-agents/2026-rust-1-100-release.ja.md) — 公式リリース記事。互換性とCargoの主要変更を確認。
 - [FaceStealer：映像によるなりすましと保守者への攻撃](../surveys/security-governance/2026-facestealer-video-social-engineering.ja.md) — 報道記事。FBI・司法省の一次発表と照合。
 - [CAMP-II：文脈をまたぐファイル記憶の学習](../surveys/coding-agents/2026-camp-ii-file-memory-distillation.ja.md) — プレプリントv2。学習方法と改善倍率の分母を確認。
