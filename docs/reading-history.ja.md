@@ -7,6 +7,8 @@
 
 ## 2026-11-14
 
+- [Cairn悪用事例：自律的な侵入と認可の境界](../surveys/security-governance/2026-cairn-autonomous-intrusion-report.ja.md)
+- [ChatGPT Wallet：購入承認と決済トークン](../surveys/articles/2026-chatgpt-wallet-agentic-payments.ja.md)
 - [Rust 1.100：言語・メモリ管理・Cargoの変更](../surveys/coding-agents/2026-rust-1-100-release.ja.md)
 - [FaceStealer：映像によるなりすましと保守者への攻撃](../surveys/security-governance/2026-facestealer-video-social-engineering.ja.md)
 - [CAMP-II：文脈をまたぐファイル記憶の学習](../surveys/coding-agents/2026-camp-ii-file-memory-distillation.ja.md)

@@ -7,6 +7,8 @@ Newest first. Earlier entries use dates recorded as additions in the reading lis
 
 ## 2026-11-14
 
+- [Cairn misuse: autonomous intrusion and authorization boundaries](../surveys/security-governance/2026-cairn-autonomous-intrusion-report.md)
+- [ChatGPT Wallet: purchase approval and payment tokens](../surveys/articles/2026-chatgpt-wallet-agentic-payments.md)
 - [Rust 1.100: language, allocation and Cargo changes](../surveys/coding-agents/2026-rust-1-100-release.md)
 - [FaceStealer: video impersonation and maintainer compromise](../surveys/security-governance/2026-facestealer-video-social-engineering.md)
 - [CAMP-II: learning file-based memory across context boundaries](../surveys/coding-agents/2026-camp-ii-file-memory-distillation.md)

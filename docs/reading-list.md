@@ -9,6 +9,8 @@
 
 ## Added 2026-11-14
 
+- [Cairn misuse: autonomous intrusion and authorization boundaries](../surveys/security-governance/2026-cairn-autonomous-intrusion-report.md) — Vendor investigation. Outcome units and attribution checked.
+- [ChatGPT Wallet: purchase approval and payment tokens](../surveys/articles/2026-chatgpt-wallet-agentic-payments.md) — Official product announcement. Approval, rollout and future plans separated.
 - [Rust 1.100: language, allocation and Cargo changes](../surveys/coding-agents/2026-rust-1-100-release.md) — Official release article. Selected compatibility and Cargo changes checked.
 - [FaceStealer: video impersonation and maintainer compromise](../surveys/security-governance/2026-facestealer-video-social-engineering.md) — News report. FBI and DOJ statements cross-checked.
 - [CAMP-II: learning file-based memory across context boundaries](../surveys/coding-agents/2026-camp-ii-file-memory-distillation.md) — Preprint v2. Training method and gain denominator checked.
