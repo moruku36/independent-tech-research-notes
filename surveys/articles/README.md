@@ -5,6 +5,10 @@
 Vendor reports, conference recaps and company articles appear alongside a work/labor academic paper. The paper is labeled and counted separately from articles.
 
 
+## Added 2026-11-15
+
+- [Oracle AI World 2026: a Japanese technical-reading index](2026-oracle-ai-world-japanese-article-index.md) — Official curated index. Linked articles not fully reviewed.
+
 ## Added 2026-11-14
 
 - [ChatGPT Wallet: purchase approval and payment tokens](2026-chatgpt-wallet-agentic-payments.md) — Official product announcement. Approval, rollout and future plans separated.

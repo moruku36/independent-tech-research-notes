@@ -5,6 +5,10 @@
 Benchmarks and industrial studies of AI coding assistants, automated repair, and automated review.
 
 
+## Added 2026-11-15
+
+- [Frozen-weight self-improvement: what failure traces add](2026-frozen-weight-failure-trace-lessons.md) — Preprint v2. Matched controls and transfer limits checked.
+
 ## Added 2026-11-14
 
 - [Rust 1.100: language, allocation and Cargo changes](2026-rust-1-100-release.md) — Official release article. Selected compatibility and Cargo changes checked.
