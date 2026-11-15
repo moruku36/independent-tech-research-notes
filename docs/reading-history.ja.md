@@ -7,6 +7,7 @@
 
 ## 2026-11-15
 
+- [Cursor侵害：委託先キー・エージェント記録・拡張配信](../surveys/security-governance/2026-cursor-fireworks-key-trace-exposure.ja.md)
 - [TRINITY：モデルと役割の選択を学ぶ](../surveys/llm-infrastructure/2025-trinity-evolved-coordinator.ja.md)
 - [Conductor：自然言語による協調の学習](../surveys/llm-infrastructure/2025-conductor-natural-language-orchestration.ja.md)
 - [Fugu：製品報告と基礎研究の照合](../surveys/llm-infrastructure/2026-fugu-orchestration-report-review.ja.md)

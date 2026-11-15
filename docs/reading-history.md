@@ -7,6 +7,7 @@ Newest first. Earlier entries use dates recorded as additions in the reading lis
 
 ## 2026-11-15
 
+- [Cursor incident: vendor access, agent traces and extension distribution](../surveys/security-governance/2026-cursor-fireworks-key-trace-exposure.md)
 - [TRINITY: learned model and role selection](../surveys/llm-infrastructure/2025-trinity-evolved-coordinator.md)
 - [Conductor: learning natural-language coordination](../surveys/llm-infrastructure/2025-conductor-natural-language-orchestration.md)
 - [Fugu: reviewing the product report against its foundations](../surveys/llm-infrastructure/2026-fugu-orchestration-report-review.md)
