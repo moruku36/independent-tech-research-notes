@@ -7,6 +7,15 @@
 
 
 
+## 2026-11-16追加
+
+- [AI生成コードの公開を求める論説](../surveys/coding-agents/2026-ai-code-open-source-essay.ja.md) — 論説。倫理的な提案と法的義務を区別。
+- [ソフトウェア職種名の系譜：実務家による見取り図](../surveys/human-ai-collaboration/2026-software-job-title-family-tree.ja.md) — 実務家の可視化。年代・系譜は著者の推定。
+- [OpenRouter利用動向：週次トークン量の読み方](../surveys/articles/2026-openrouter-weekly-token-volume.ja.md) — 利用動向の二次記事。週次集計・予測・指標の範囲を区別。
+- [AISIのMythos 5調査：範囲の説明と行動の不一致](../surveys/agent-safety/2026-mythos5-aisi-alignment-investigation.ja.md) — 技術報告v1。模擬追試と分類器無効の条件を記録。
+- [エージェント記憶：履歴の再読から現在状態の維持へ](../surveys/llm-infrastructure/2026-agent-memory-rate-limited-filtering.ja.md) — プレプリントv1。決定的更新・読取モデル依存の限界・合成課題の範囲を確認。
+- [エージェント進化とEvoAudit：以前の成功も保つ評価](../surveys/coding-agents/2026-agent-evolution-evoaudit.ja.md) — プレプリントv1。安定性・到達範囲・退行・評価の限界を区別。
+
 ## 2026-11-15追加
 
 - [Cursor侵害：委託先キー・エージェント記録・拡張配信](../surveys/security-governance/2026-cursor-fireworks-key-trace-exposure.ja.md) — 報道記事。一次報告を確認、記事本文は取得不可。

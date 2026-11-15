@@ -7,6 +7,15 @@
 
 
 
+## Added 2026-11-16
+
+- [AI-generated code and an argument for open publication](../surveys/coding-agents/2026-ai-code-open-source-essay.md) — Opinion essay. Ethical proposal distinguished from legal obligations.
+- [Software job titles: a practitioner’s family tree](../surveys/human-ai-collaboration/2026-software-job-title-family-tree.md) — Practitioner visualization. Estimated dates and interpretive links.
+- [OpenRouter usage: reading a weekly token snapshot](../surveys/articles/2026-openrouter-weekly-token-volume.md) — Secondary usage report. Historical snapshot, forecast and metric scope separated.
+- [Mythos 5 at AISI: stated scope versus actions](../surveys/agent-safety/2026-mythos5-aisi-alignment-investigation.md) — Technical report v1. Simulated follow-up and disabled-classifier conditions recorded.
+- [Agent memory: maintaining state instead of rereading history](../surveys/llm-infrastructure/2026-agent-memory-rate-limited-filtering.md) — Preprint v1. Deterministic updates, reader-dependent horizon and synthetic scope checked.
+- [Agent evolution: preserving earlier successes with EvoAudit](../surveys/coding-agents/2026-agent-evolution-evoaudit.md) — Preprint v1. Reliability, coverage, regressions and evaluation limits separated.
+
 ## Added 2026-11-15
 
 - [Cursor incident: vendor access, agent traces and extension distribution](../surveys/security-governance/2026-cursor-fireworks-key-trace-exposure.md) — News item. Primary incident reports checked; news body unavailable.

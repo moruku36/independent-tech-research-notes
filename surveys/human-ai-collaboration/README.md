@@ -4,6 +4,10 @@
 
 What people expect from AI co-workers, how tools treat waiting time and attention, and how AI use changes work activity and learning opportunities.
 
+## Added 2026-11-16
+
+- [Software job titles: a practitioner’s family tree](2026-software-job-title-family-tree.md) — Practitioner visualization. Estimated dates and interpretive links.
+
 ## Added 2026-11-13
 
 - [Jane Street’s Socratic Tutor skill design](2026-janestreet-socratic-tutor.md) — Repository instruction file. Revision pinned.

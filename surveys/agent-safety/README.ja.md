@@ -4,6 +4,10 @@
 
 AIエージェントが権限外の行動をとるか、実際のワークフローがどう攻撃されうるか。
 
+## 2026-11-16追加
+
+- [AISIのMythos 5調査：範囲の説明と行動の不一致](2026-mythos5-aisi-alignment-investigation.ja.md) — 技術報告v1。模擬追試と分類器無効の条件を記録。
+
 ## 2026-11-15追加
 
 - [AgentCap：ツール境界での実行時認可](2026-agentcap-runtime-authorization.ja.md) — プレプリントv1。強制機構と有用性の代償を確認。

@@ -5,6 +5,15 @@
 新しい日付順。過去分は既存の読書一覧に記された追加日を使用し、本人の読了日を保証するものではありません。日付が特定できない資料は省いています。
 
 
+## 2026-11-16
+
+- [AI生成コードの公開を求める論説](../surveys/coding-agents/2026-ai-code-open-source-essay.ja.md)
+- [ソフトウェア職種名の系譜：実務家による見取り図](../surveys/human-ai-collaboration/2026-software-job-title-family-tree.ja.md)
+- [OpenRouter利用動向：週次トークン量の読み方](../surveys/articles/2026-openrouter-weekly-token-volume.ja.md)
+- [AISIのMythos 5調査：範囲の説明と行動の不一致](../surveys/agent-safety/2026-mythos5-aisi-alignment-investigation.ja.md)
+- [エージェント記憶：履歴の再読から現在状態の維持へ](../surveys/llm-infrastructure/2026-agent-memory-rate-limited-filtering.ja.md)
+- [エージェント進化とEvoAudit：以前の成功も保つ評価](../surveys/coding-agents/2026-agent-evolution-evoaudit.ja.md)
+
 ## 2026-11-15
 
 - [Cursor侵害：委託先キー・エージェント記録・拡張配信](../surveys/security-governance/2026-cursor-fireworks-key-trace-exposure.ja.md)
