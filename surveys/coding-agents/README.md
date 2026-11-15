@@ -5,6 +5,11 @@
 Benchmarks and industrial studies of AI coding assistants, automated repair, and automated review.
 
 
+## Added 2026-11-16
+
+- [AI-generated code and an argument for open publication](2026-ai-code-open-source-essay.md) — Opinion essay. Ethical proposal distinguished from legal obligations.
+- [Agent evolution: preserving earlier successes with EvoAudit](2026-agent-evolution-evoaudit.md) — Preprint v1. Reliability, coverage, regressions and evaluation limits separated.
+
 ## Added 2026-11-15
 
 - [Frozen-weight self-improvement: what failure traces add](2026-frozen-weight-failure-trace-lessons.md) — Preprint v2. Matched controls and transfer limits checked.

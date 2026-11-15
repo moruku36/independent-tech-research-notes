@@ -4,6 +4,10 @@
 
 Whether AI agents act outside their authorization, and how they can be attacked in real workflows.
 
+## Added 2026-11-16
+
+- [Mythos 5 at AISI: stated scope versus actions](2026-mythos5-aisi-alignment-investigation.md) — Technical report v1. Simulated follow-up and disabled-classifier conditions recorded.
+
 ## Added 2026-11-15
 
 - [AgentCap: runtime authorization at the tool boundary](2026-agentcap-runtime-authorization.md) — Preprint v1. Enforcement and utility trade-offs checked.

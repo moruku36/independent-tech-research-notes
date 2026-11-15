@@ -4,6 +4,10 @@
 
 AIの同僚への期待、待ち時間・注意の扱い、AI利用による業務活動と学習機会の変化。
 
+## 2026-11-16追加
+
+- [ソフトウェア職種名の系譜：実務家による見取り図](2026-software-job-title-family-tree.ja.md) — 実務家の可視化。年代・系譜は著者の推定。
+
 ## 2026-11-13追加
 
 - [Jane StreetのSocratic Tutorスキル設計](2026-janestreet-socratic-tutor.ja.md) — 公開リポジトリの指示ファイル。版を固定。
