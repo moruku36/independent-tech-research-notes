@@ -9,6 +9,7 @@
 
 ## Added 2026-11-15
 
+- [Cursor incident: vendor access, agent traces and extension distribution](../surveys/security-governance/2026-cursor-fireworks-key-trace-exposure.md) — News item. Primary incident reports checked; news body unavailable.
 - [TRINITY: learned model and role selection](../surveys/llm-infrastructure/2025-trinity-evolved-coordinator.md) — Preprint v3. Role selection and evaluation scope checked.
 - [Conductor: learning natural-language coordination](../surveys/llm-infrastructure/2025-conductor-natural-language-orchestration.md) — Preprint v5. Workflow representation and training checked.
 - [Fugu: reviewing the product report against its foundations](../surveys/llm-infrastructure/2026-fugu-orchestration-report-review.md) — Secondary article. Primary architecture passages cross-checked.

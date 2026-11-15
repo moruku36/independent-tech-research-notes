@@ -9,6 +9,7 @@
 
 ## 2026-11-15追加
 
+- [Cursor侵害：委託先キー・エージェント記録・拡張配信](../surveys/security-governance/2026-cursor-fireworks-key-trace-exposure.ja.md) — 報道記事。一次報告を確認、記事本文は取得不可。
 - [TRINITY：モデルと役割の選択を学ぶ](../surveys/llm-infrastructure/2025-trinity-evolved-coordinator.ja.md) — プレプリントv3。役割選択と評価範囲を確認。
 - [Conductor：自然言語による協調の学習](../surveys/llm-infrastructure/2025-conductor-natural-language-orchestration.ja.md) — プレプリントv5。手順表現と学習方法を確認。
 - [Fugu：製品報告と基礎研究の照合](../surveys/llm-infrastructure/2026-fugu-orchestration-report-review.ja.md) — 二次記事。構成を一次報告と照合。

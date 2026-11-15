@@ -4,6 +4,10 @@
 
 Organizational security questions around GenAI, cryptographic migration, and multi-cloud control consistency.
 
+## Added 2026-11-15
+
+- [Cursor incident: vendor access, agent traces and extension distribution](2026-cursor-fireworks-key-trace-exposure.md) — News item. Primary incident reports checked; news body unavailable.
+
 ## Added 2026-11-14
 
 - [Cairn misuse: autonomous intrusion and authorization boundaries](2026-cairn-autonomous-intrusion-report.md) — Vendor investigation. Outcome units and attribution checked.
