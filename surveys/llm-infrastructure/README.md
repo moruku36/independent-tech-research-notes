@@ -7,6 +7,9 @@ Hardware choices, scheduling, KV cache control, and long-term memory retrieval.
 
 ## Added 2026-11-15
 
+- [TRINITY: learned model and role selection](2025-trinity-evolved-coordinator.md) — Preprint v3. Role selection and evaluation scope checked.
+- [Conductor: learning natural-language coordination](2025-conductor-natural-language-orchestration.md) — Preprint v5. Workflow representation and training checked.
+- [Fugu: reviewing the product report against its foundations](2026-fugu-orchestration-report-review.md) — Secondary article. Primary architecture passages cross-checked.
 - [Unsloth Qwen3.8: quantization and local serving](2026-unsloth-qwen38-local-inference.md) — Vendor guide. 27B scope and memory units checked.
 - [GLM-5.3 across two DGX Stations: capacity and concurrency](2026-glm53-two-dgx-stations.md) — Vendor tutorial. Aggregate throughput and latency checked.
 

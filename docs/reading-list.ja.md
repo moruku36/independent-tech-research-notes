@@ -9,6 +9,9 @@
 
 ## 2026-11-15追加
 
+- [TRINITY：モデルと役割の選択を学ぶ](../surveys/llm-infrastructure/2025-trinity-evolved-coordinator.ja.md) — プレプリントv3。役割選択と評価範囲を確認。
+- [Conductor：自然言語による協調の学習](../surveys/llm-infrastructure/2025-conductor-natural-language-orchestration.ja.md) — プレプリントv5。手順表現と学習方法を確認。
+- [Fugu：製品報告と基礎研究の照合](../surveys/llm-infrastructure/2026-fugu-orchestration-report-review.ja.md) — 二次記事。構成を一次報告と照合。
 - [Unsloth Qwen3.8：量子化とローカル実行](../surveys/llm-infrastructure/2026-unsloth-qwen38-local-inference.ja.md) — 提供元ガイド。27Bの範囲とメモリ単位を確認。
 - [DGX Station 2台でのGLM-5.3：容量と同時実行](../surveys/llm-infrastructure/2026-glm53-two-dgx-stations.ja.md) — 提供元手順記事。全体スループットと遅延を確認。
 - [Oracle AI World 2026：日本語技術記事の索引](../surveys/articles/2026-oracle-ai-world-japanese-article-index.ja.md) — 公式の編集索引。リンク先すべての精読は未実施。

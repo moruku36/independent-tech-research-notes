@@ -7,6 +7,9 @@ Newest first. Earlier entries use dates recorded as additions in the reading lis
 
 ## 2026-11-15
 
+- [TRINITY: learned model and role selection](../surveys/llm-infrastructure/2025-trinity-evolved-coordinator.md)
+- [Conductor: learning natural-language coordination](../surveys/llm-infrastructure/2025-conductor-natural-language-orchestration.md)
+- [Fugu: reviewing the product report against its foundations](../surveys/llm-infrastructure/2026-fugu-orchestration-report-review.md)
 - [Unsloth Qwen3.8: quantization and local serving](../surveys/llm-infrastructure/2026-unsloth-qwen38-local-inference.md)
 - [GLM-5.3 across two DGX Stations: capacity and concurrency](../surveys/llm-infrastructure/2026-glm53-two-dgx-stations.md)
 - [Oracle AI World 2026: a Japanese technical-reading index](../surveys/articles/2026-oracle-ai-world-japanese-article-index.md)
