@@ -7,6 +7,8 @@
 
 ## 2026-11-17
 
+- [undefined](../surveys/coding-agents/2026-lauren-tan-agent-code-quality-verification.ja.md)
+
 - [Step Zero：入力を読める前に必要な安全境界](../surveys/agent-safety/2026-step-zero-before-observability.ja.md)
 - [RANの重要度を考慮した配置：依存関係と障害の影響](../surveys/cloud-resilience/2026-criticality-aware-ran-placement.ja.md)
 - [AIチームの整合性：統合システムの安全に責任を持つ](../surveys/agent-safety/2026-aligning-ai-teams-responsibility.ja.md)
