@@ -7,6 +7,7 @@ Newest first. Earlier entries use dates recorded as additions in the reading lis
 
 ## 2026-11-16
 
+- [WorkflowArena: evaluating how agents organize executable work](../surveys/llm-infrastructure/2026-workflowarena-executable-orchestration.md)
 - [Refusal as a model-specific direction: evidence and limits](../surveys/agent-safety/2024-refusal-single-direction.md)
 - [AI-generated code and an argument for open publication](../surveys/coding-agents/2026-ai-code-open-source-essay.md)
 - [Software job titles: a practitioner’s family tree](../surveys/human-ai-collaboration/2026-software-job-title-family-tree.md)

@@ -7,6 +7,7 @@ LLM推論のハードウェア選択、スケジューリング、KVキャッシ
 
 ## 2026-11-16追加
 
+- [WorkflowArena：エージェントが作る実行手順の評価](2026-workflowarena-executable-orchestration.ja.md) — プレプリントv1。統合成果物の受入・領域平均・移植の統制条件と限界を確認。
 - [エージェント記憶：履歴の再読から現在状態の維持へ](2026-agent-memory-rate-limited-filtering.ja.md) — プレプリントv1。決定的更新・読取モデル依存の限界・合成課題の範囲を確認。
 
 ## 2026-11-15追加

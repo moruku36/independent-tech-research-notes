@@ -9,6 +9,7 @@
 
 ## 2026-11-16追加
 
+- [WorkflowArena：エージェントが作る実行手順の評価](../surveys/llm-infrastructure/2026-workflowarena-executable-orchestration.ja.md) — プレプリントv1。統合成果物の受入・領域平均・移植の統制条件と限界を確認。
 - [モデルごとの「拒否方向」：証拠と一般化の限界](../surveys/agent-safety/2024-refusal-single-direction.ja.md) — 研究論文v3（2024）。モデルごとの方向・評価指標の区別・一般化の限界を確認。
 - [AI生成コードの公開を求める論説](../surveys/coding-agents/2026-ai-code-open-source-essay.ja.md) — 論説。倫理的な提案と法的義務を区別。
 - [ソフトウェア職種名の系譜：実務家による見取り図](../surveys/human-ai-collaboration/2026-software-job-title-family-tree.ja.md) — 実務家の可視化。年代・系譜は著者の推定。

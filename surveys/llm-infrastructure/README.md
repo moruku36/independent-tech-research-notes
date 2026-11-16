@@ -7,6 +7,7 @@ Hardware choices, scheduling, KV cache control, and long-term memory retrieval.
 
 ## Added 2026-11-16
 
+- [WorkflowArena: evaluating how agents organize executable work](2026-workflowarena-executable-orchestration.md) — Preprint v1. Integrated acceptance, macro-averaging, transfer controls and limitations checked.
 - [Agent memory: maintaining state instead of rereading history](2026-agent-memory-rate-limited-filtering.md) — Preprint v1. Deterministic updates, reader-dependent horizon and synthetic scope checked.
 
 ## Added 2026-11-15
