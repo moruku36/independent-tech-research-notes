@@ -7,6 +7,7 @@
 
 ## 2026-11-16
 
+- [モデルごとの「拒否方向」：証拠と一般化の限界](../surveys/agent-safety/2024-refusal-single-direction.ja.md)
 - [AI生成コードの公開を求める論説](../surveys/coding-agents/2026-ai-code-open-source-essay.ja.md)
 - [ソフトウェア職種名の系譜：実務家による見取り図](../surveys/human-ai-collaboration/2026-software-job-title-family-tree.ja.md)
 - [OpenRouter利用動向：週次トークン量の読み方](../surveys/articles/2026-openrouter-weekly-token-volume.ja.md)

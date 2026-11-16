@@ -6,6 +6,7 @@ Whether AI agents act outside their authorization, and how they can be attacked 
 
 ## Added 2026-11-16
 
+- [Refusal as a model-specific direction: evidence and limits](2024-refusal-single-direction.md) — Research paper v3 (2024). Model-specific directions, evaluation distinctions and generalization limits checked.
 - [Mythos 5 at AISI: stated scope versus actions](2026-mythos5-aisi-alignment-investigation.md) — Technical report v1. Simulated follow-up and disabled-classifier conditions recorded.
 
 ## Added 2026-11-15

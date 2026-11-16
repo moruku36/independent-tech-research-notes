@@ -9,6 +9,7 @@
 
 ## Added 2026-11-16
 
+- [Refusal as a model-specific direction: evidence and limits](../surveys/agent-safety/2024-refusal-single-direction.md) — Research paper v3 (2024). Model-specific directions, evaluation distinctions and generalization limits checked.
 - [AI-generated code and an argument for open publication](../surveys/coding-agents/2026-ai-code-open-source-essay.md) — Opinion essay. Ethical proposal distinguished from legal obligations.
 - [Software job titles: a practitioner’s family tree](../surveys/human-ai-collaboration/2026-software-job-title-family-tree.md) — Practitioner visualization. Estimated dates and interpretive links.
 - [OpenRouter usage: reading a weekly token snapshot](../surveys/articles/2026-openrouter-weekly-token-volume.md) — Secondary usage report. Historical snapshot, forecast and metric scope separated.
