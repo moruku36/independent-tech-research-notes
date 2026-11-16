@@ -4,6 +4,11 @@
 
 Whether AI agents act outside their authorization, and how they can be attacked in real workflows.
 
+## Added 2026-11-17
+
+- [Step Zero: safety before an agent can inspect an input](2026-step-zero-before-observability.md) — Preprint v1. First-processing effects, gate coverage and cumulative-budget limits checked.
+- [Aligning AI teams: responsibility for the integrated system](2026-aligning-ai-teams-responsibility.md) — Preprint v1. Responsibility, compound interventions and remaining model/task gaps checked.
+
 ## Added 2026-11-16
 
 - [Refusal as a model-specific direction: evidence and limits](2024-refusal-single-direction.md) — Research paper v3 (2024). Model-specific directions, evaluation distinctions and generalization limits checked.

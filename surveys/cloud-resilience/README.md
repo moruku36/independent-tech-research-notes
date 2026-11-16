@@ -4,6 +4,10 @@
 
 Papers on fault injection, recovery decisions, safety and experiment coordination.
 
+## Added 2026-11-17
+
+- [Criticality-aware RAN placement: dependencies and failure impact](2026-criticality-aware-ran-placement.md) — Preprint v1. Simulated disruption gains and inconsistent active-site cost statements recorded.
+
 ## Added 2026-11-13
 
 - [Greengrass inference for predictive maintenance](2026-greengrass-edge-predictive-maintenance.md) — Preprint v1. Measurement boundaries and numeric discrepancy recorded.

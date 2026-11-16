@@ -9,6 +9,11 @@
 
 ## 2026-11-17追加
 
+- [Step Zero：入力を読める前に必要な安全境界](../surveys/agent-safety/2026-step-zero-before-observability.ja.md) — プレプリントv1。最初の処理の副作用・ゲートの適用範囲・累積予算の限界を確認。
+- [RANの重要度を考慮した配置：依存関係と障害の影響](../surveys/cloud-resilience/2026-criticality-aware-ran-placement.ja.md) — プレプリントv1。模擬障害での改善と、稼働拠点コストの記述不整合を記録。
+- [AIチームの整合性：統合システムの安全に責任を持つ](../surveys/agent-safety/2026-aligning-ai-teams-responsibility.ja.md) — プレプリントv1。責任分担・複合介入・残るモデル別／課題別の差を確認。
+- [複数AIによるログ解析：証拠確認と信頼度スコアを分ける](../surveys/security-governance/2026-multi-agent-system-log-anomaly-framework.ja.md) — 論文v1。根拠の確認と未校正の信頼度・未測定の正答率を区別。
+
 - [Qwen4-Max正式発表：エージェントの成果物と評価の読み方](../surveys/articles/2026-qwen4-max-release.ja.md) — 提供元の正式発表。Previewと区別し、事例の根拠と公開範囲を確認。
 - [MIT HTMAA 2026：ものづくり教材とエージェント工学](../surveys/articles/2026-mit-htmaa-agentic-engineering-resources.ja.md) — 講義資料集。工学エージェントの選択資料を確認し、教育用デモと区別。
 - [コーヒーハウスと科学：歴史的ロンドンの知識へのアクセス](../economics/2026-coffeehouses-rise-science.ja.md) — 経済史ワーキングペーパー。イベント研究・相関・モデルの反実仮想を区別。
