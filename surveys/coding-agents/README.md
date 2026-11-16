@@ -7,6 +7,8 @@ Benchmarks and industrial studies of AI coding assistants, automated repair, and
 
 ## Added 2026-11-17
 
+- [undefined](2026-lauren-tan-agent-code-quality-verification.md) — Practitioner talk. Organizer transcript and selected tool READMEs checked; reported outcomes separated from proposals.
+
 - [Software systemic decay: an argument about coherence and control](2026-software-systemic-decay-essay.md) — Opinion essay. System-coherence argument separated from unverified incident causality.
 
 ## Added 2026-11-16

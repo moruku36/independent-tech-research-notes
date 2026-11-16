@@ -9,6 +9,8 @@
 
 ## Added 2026-11-17
 
+- [undefined](../surveys/coding-agents/2026-lauren-tan-agent-code-quality-verification.md) — Practitioner talk. Organizer transcript and selected tool READMEs checked; reported outcomes separated from proposals.
+
 - [Step Zero: safety before an agent can inspect an input](../surveys/agent-safety/2026-step-zero-before-observability.md) — Preprint v1. First-processing effects, gate coverage and cumulative-budget limits checked.
 - [Criticality-aware RAN placement: dependencies and failure impact](../surveys/cloud-resilience/2026-criticality-aware-ran-placement.md) — Preprint v1. Simulated disruption gains and inconsistent active-site cost statements recorded.
 - [Aligning AI teams: responsibility for the integrated system](../surveys/agent-safety/2026-aligning-ai-teams-responsibility.md) — Preprint v1. Responsibility, compound interventions and remaining model/task gaps checked.

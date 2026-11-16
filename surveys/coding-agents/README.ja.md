@@ -7,6 +7,8 @@ AIコーディング支援・自動修復・自動レビューのベンチマー
 
 ## 2026-11-17追加
 
+- [undefined](2026-lauren-tan-agent-code-quality-verification.ja.md) — 実務講演。主催者の文字起こしと関連READMEを確認し、自己報告と提案を区別。
+
 - [ソフトウェアのシステム的劣化：整合性と制御を問う論説](2026-software-systemic-decay-essay.ja.md) — 論説。全体の整合性を問う主張と、未検証の事件の因果を区別。
 
 ## 2026-11-16追加
