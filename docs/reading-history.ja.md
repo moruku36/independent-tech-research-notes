@@ -5,6 +5,15 @@
 新しい日付順。過去分は既存の読書一覧に記された追加日を使用し、本人の読了日を保証するものではありません。日付が特定できない資料は省いています。
 
 
+## 2026-11-17
+
+- [Qwen4-Max正式発表：エージェントの成果物と評価の読み方](../surveys/articles/2026-qwen4-max-release.ja.md)
+- [MIT HTMAA 2026：ものづくり教材とエージェント工学](../surveys/articles/2026-mit-htmaa-agentic-engineering-resources.ja.md)
+- [コーヒーハウスと科学：歴史的ロンドンの知識へのアクセス](../economics/2026-coffeehouses-rise-science.ja.md)
+- [ソフトウェアのシステム的劣化：整合性と制御を問う論説](../surveys/coding-agents/2026-software-systemic-decay-essay.ja.md)
+- [Nemotron for Science：専門化・データ・ツールによる検証](../surveys/articles/2026-nemotron-for-science-release.ja.md)
+- [GTIG：エージェント型侵入・資源悪用の観測と限界](../surveys/security-governance/2026-gtig-agentic-threat-threshold.ja.md)
+
 ## 2026-11-16
 
 - [WorkflowArena：エージェントが作る実行手順の評価](../surveys/llm-infrastructure/2026-workflowarena-executable-orchestration.ja.md)

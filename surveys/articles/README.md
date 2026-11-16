@@ -5,6 +5,12 @@
 Vendor reports, conference recaps and company articles appear alongside a work/labor academic paper. The paper is labeled and counted separately from articles.
 
 
+## Added 2026-11-17
+
+- [Qwen4-Max: release claims, agent workflows and evidence](2026-qwen4-max-release.md) — Vendor release. Distinct from Preview; selected evidence and open-release scope checked.
+- [MIT HTMAA 2026: fabrication resources and agentic engineering](2026-mit-htmaa-agentic-engineering-resources.md) — Course resources. Selected agent-engineering slides checked; teaching demos labeled.
+- [Nemotron for Science: specialized models, datasets and tool feedback](2026-nemotron-for-science-release.md) — Vendor announcement. Training/evaluation resources and tool-checked repair claims separated.
+
 ## Added 2026-11-16
 
 - [OpenRouter usage: reading a weekly token snapshot](2026-openrouter-weekly-token-volume.md) — Secondary usage report. Historical snapshot, forecast and metric scope separated.

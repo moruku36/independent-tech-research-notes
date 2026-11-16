@@ -4,6 +4,10 @@
 
 Organizational security questions around GenAI, cryptographic migration, and multi-cloud control consistency.
 
+## Added 2026-11-17
+
+- [GTIG: observed agentic intrusions, resource abuse and limits](2026-gtig-agentic-threat-threshold.md) — Threat-intelligence report. Observations, attribution, projections and defensive proposals separated.
+
 ## Added 2026-11-15
 
 - [Cursor incident: vendor access, agent traces and extension distribution](2026-cursor-fireworks-key-trace-exposure.md) — News item. Primary incident reports checked; news body unavailable.

@@ -5,6 +5,10 @@
 Benchmarks and industrial studies of AI coding assistants, automated repair, and automated review.
 
 
+## Added 2026-11-17
+
+- [Software systemic decay: an argument about coherence and control](2026-software-systemic-decay-essay.md) — Opinion essay. System-coherence argument separated from unverified incident causality.
+
 ## Added 2026-11-16
 
 - [AI-generated code and an argument for open publication](2026-ai-code-open-source-essay.md) — Opinion essay. Ethical proposal distinguished from legal obligations.

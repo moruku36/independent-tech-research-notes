@@ -5,6 +5,12 @@
 企業レポート・学会イベント記事・会社の調査記事に加え、仕事・労働研究の学術論文を収録する。学術論文は記事件数に含めず、種別を明記する。
 
 
+## 2026-11-17追加
+
+- [Qwen4-Max正式発表：エージェントの成果物と評価の読み方](2026-qwen4-max-release.ja.md) — 提供元の正式発表。Previewと区別し、事例の根拠と公開範囲を確認。
+- [MIT HTMAA 2026：ものづくり教材とエージェント工学](2026-mit-htmaa-agentic-engineering-resources.ja.md) — 講義資料集。工学エージェントの選択資料を確認し、教育用デモと区別。
+- [Nemotron for Science：専門化・データ・ツールによる検証](2026-nemotron-for-science-release.ja.md) — 提供元発表。学習・評価用の資源と、ツール検査付き修復の主張を区別。
+
 ## 2026-11-16追加
 
 - [OpenRouter利用動向：週次トークン量の読み方](2026-openrouter-weekly-token-volume.ja.md) — 利用動向の二次記事。週次集計・予測・指標の範囲を区別。

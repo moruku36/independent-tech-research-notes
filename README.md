@@ -20,7 +20,7 @@ Each theme index links to individual notes, their evidence and reading status, a
 | [Events, articles, and work research](surveys/articles/README.md) | Event reports, technology trends, and workplace research |
 | [Generative models and 3D environments](surveys/generative-modeling/README.md) | 3D generation, infilling, editing, datasets, and evaluation |
 | [Forecasting and benchmarks](surveys/forecasting/README.md) | Time-series forecasting, datasets and uncertainty |
-| [Economics and corporate disclosures](economics/README.md) | Public corporate materials, kept separate from papers |
+| [Economics and corporate disclosures](economics/README.md) | Economic research and public corporate materials, labeled separately |
 
 ## Reading and research
 
