@@ -5,6 +5,15 @@
 Newest first. Earlier entries use dates recorded as additions in the reading list; these do not establish the user's actual reading dates. Undated entries are omitted.
 
 
+## 2026-11-17
+
+- [Qwen4-Max: release claims, agent workflows and evidence](../surveys/articles/2026-qwen4-max-release.md)
+- [MIT HTMAA 2026: fabrication resources and agentic engineering](../surveys/articles/2026-mit-htmaa-agentic-engineering-resources.md)
+- [Coffeehouses and science: access to knowledge in historical London](../economics/2026-coffeehouses-rise-science.md)
+- [Software systemic decay: an argument about coherence and control](../surveys/coding-agents/2026-software-systemic-decay-essay.md)
+- [Nemotron for Science: specialized models, datasets and tool feedback](../surveys/articles/2026-nemotron-for-science-release.md)
+- [GTIG: observed agentic intrusions, resource abuse and limits](../surveys/security-governance/2026-gtig-agentic-threat-threshold.md)
+
 ## 2026-11-16
 
 - [WorkflowArena: evaluating how agents organize executable work](../surveys/llm-infrastructure/2026-workflowarena-executable-orchestration.md)

@@ -7,6 +7,15 @@
 
 
 
+## 2026-11-17追加
+
+- [Qwen4-Max正式発表：エージェントの成果物と評価の読み方](../surveys/articles/2026-qwen4-max-release.ja.md) — 提供元の正式発表。Previewと区別し、事例の根拠と公開範囲を確認。
+- [MIT HTMAA 2026：ものづくり教材とエージェント工学](../surveys/articles/2026-mit-htmaa-agentic-engineering-resources.ja.md) — 講義資料集。工学エージェントの選択資料を確認し、教育用デモと区別。
+- [コーヒーハウスと科学：歴史的ロンドンの知識へのアクセス](../economics/2026-coffeehouses-rise-science.ja.md) — 経済史ワーキングペーパー。イベント研究・相関・モデルの反実仮想を区別。
+- [ソフトウェアのシステム的劣化：整合性と制御を問う論説](../surveys/coding-agents/2026-software-systemic-decay-essay.ja.md) — 論説。全体の整合性を問う主張と、未検証の事件の因果を区別。
+- [Nemotron for Science：専門化・データ・ツールによる検証](../surveys/articles/2026-nemotron-for-science-release.ja.md) — 提供元発表。学習・評価用の資源と、ツール検査付き修復の主張を区別。
+- [GTIG：エージェント型侵入・資源悪用の観測と限界](../surveys/security-governance/2026-gtig-agentic-threat-threshold.ja.md) — 脅威調査。観測・帰属・予測・防御の提案を区別。
+
 ## 2026-11-16追加
 
 - [WorkflowArena：エージェントが作る実行手順の評価](../surveys/llm-infrastructure/2026-workflowarena-executable-orchestration.ja.md) — プレプリントv1。統合成果物の受入・領域平均・移植の統制条件と限界を確認。

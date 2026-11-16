@@ -7,6 +7,15 @@
 
 
 
+## Added 2026-11-17
+
+- [Qwen4-Max: release claims, agent workflows and evidence](../surveys/articles/2026-qwen4-max-release.md) — Vendor release. Distinct from Preview; selected evidence and open-release scope checked.
+- [MIT HTMAA 2026: fabrication resources and agentic engineering](../surveys/articles/2026-mit-htmaa-agentic-engineering-resources.md) — Course resources. Selected agent-engineering slides checked; teaching demos labeled.
+- [Coffeehouses and science: access to knowledge in historical London](../economics/2026-coffeehouses-rise-science.md) — Economic-history working paper. Event study, correlation and model counterfactual separated.
+- [Software systemic decay: an argument about coherence and control](../surveys/coding-agents/2026-software-systemic-decay-essay.md) — Opinion essay. System-coherence argument separated from unverified incident causality.
+- [Nemotron for Science: specialized models, datasets and tool feedback](../surveys/articles/2026-nemotron-for-science-release.md) — Vendor announcement. Training/evaluation resources and tool-checked repair claims separated.
+- [GTIG: observed agentic intrusions, resource abuse and limits](../surveys/security-governance/2026-gtig-agentic-threat-threshold.md) — Threat-intelligence report. Observations, attribution, projections and defensive proposals separated.
+
 ## Added 2026-11-16
 
 - [WorkflowArena: evaluating how agents organize executable work](../surveys/llm-infrastructure/2026-workflowarena-executable-orchestration.md) — Preprint v1. Integrated acceptance, macro-averaging, transfer controls and limitations checked.
