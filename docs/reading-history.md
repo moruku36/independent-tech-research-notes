@@ -7,7 +7,7 @@ Newest first. Earlier entries use dates recorded as additions in the reading lis
 
 ## 2026-11-17
 
-- [undefined](../surveys/coding-agents/2026-lauren-tan-agent-code-quality-verification.md)
+- [All Code Is Slop: executable constraints and verification for coding agents](../surveys/coding-agents/2026-lauren-tan-agent-code-quality-verification.md)
 
 - [Step Zero: safety before an agent can inspect an input](../surveys/agent-safety/2026-step-zero-before-observability.md)
 - [Criticality-aware RAN placement: dependencies and failure impact](../surveys/cloud-resilience/2026-criticality-aware-ran-placement.md)
