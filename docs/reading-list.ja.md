@@ -9,7 +9,7 @@
 
 ## 2026-11-17追加
 
-- [undefined](../surveys/coding-agents/2026-lauren-tan-agent-code-quality-verification.ja.md) — 実務講演。主催者の文字起こしと関連READMEを確認し、自己報告と提案を区別。
+- [All Code Is Slop：コーディングAIを支える制約と検証](../surveys/coding-agents/2026-lauren-tan-agent-code-quality-verification.ja.md) — 実務講演。主催者の文字起こしと関連READMEを確認し、自己報告と提案を区別。
 
 - [Step Zero：入力を読める前に必要な安全境界](../surveys/agent-safety/2026-step-zero-before-observability.ja.md) — プレプリントv1。最初の処理の副作用・ゲートの適用範囲・累積予算の限界を確認。
 - [RANの重要度を考慮した配置：依存関係と障害の影響](../surveys/cloud-resilience/2026-criticality-aware-ran-placement.ja.md) — プレプリントv1。模擬障害での改善と、稼働拠点コストの記述不整合を記録。
