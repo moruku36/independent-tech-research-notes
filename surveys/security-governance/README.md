@@ -6,6 +6,8 @@ Organizational security questions around GenAI, cryptographic migration, and mul
 
 ## Added 2026-11-17
 
+- [Multi-agent log analysis: evidence checks versus confidence scores](2026-multi-agent-system-log-anomaly-framework.md) — Paper v1. Workflow evidence checks separated from uncalibrated confidence and unmeasured accuracy.
+
 - [GTIG: observed agentic intrusions, resource abuse and limits](2026-gtig-agentic-threat-threshold.md) — Threat-intelligence report. Observations, attribution, projections and defensive proposals separated.
 
 ## Added 2026-11-15

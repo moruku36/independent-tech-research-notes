@@ -4,6 +4,10 @@
 
 障害注入、復旧判定、実験の安全・協調を扱う論文。
 
+## 2026-11-17追加
+
+- [RANの重要度を考慮した配置：依存関係と障害の影響](2026-criticality-aware-ran-placement.ja.md) — プレプリントv1。模擬障害での改善と、稼働拠点コストの記述不整合を記録。
+
 ## 2026-11-13追加
 
 - [Greengrassによる予知保全のエッジ推論](2026-greengrass-edge-predictive-maintenance.ja.md) — プレプリントv1。測定範囲と数値の不一致を記録。

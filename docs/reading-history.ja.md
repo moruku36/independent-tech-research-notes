@@ -7,6 +7,11 @@
 
 ## 2026-11-17
 
+- [Step Zero：入力を読める前に必要な安全境界](../surveys/agent-safety/2026-step-zero-before-observability.ja.md)
+- [RANの重要度を考慮した配置：依存関係と障害の影響](../surveys/cloud-resilience/2026-criticality-aware-ran-placement.ja.md)
+- [AIチームの整合性：統合システムの安全に責任を持つ](../surveys/agent-safety/2026-aligning-ai-teams-responsibility.ja.md)
+- [複数AIによるログ解析：証拠確認と信頼度スコアを分ける](../surveys/security-governance/2026-multi-agent-system-log-anomaly-framework.ja.md)
+
 - [Qwen4-Max正式発表：エージェントの成果物と評価の読み方](../surveys/articles/2026-qwen4-max-release.ja.md)
 - [MIT HTMAA 2026：ものづくり教材とエージェント工学](../surveys/articles/2026-mit-htmaa-agentic-engineering-resources.ja.md)
 - [コーヒーハウスと科学：歴史的ロンドンの知識へのアクセス](../economics/2026-coffeehouses-rise-science.ja.md)

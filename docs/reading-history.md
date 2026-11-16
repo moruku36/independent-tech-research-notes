@@ -7,6 +7,11 @@ Newest first. Earlier entries use dates recorded as additions in the reading lis
 
 ## 2026-11-17
 
+- [Step Zero: safety before an agent can inspect an input](../surveys/agent-safety/2026-step-zero-before-observability.md)
+- [Criticality-aware RAN placement: dependencies and failure impact](../surveys/cloud-resilience/2026-criticality-aware-ran-placement.md)
+- [Aligning AI teams: responsibility for the integrated system](../surveys/agent-safety/2026-aligning-ai-teams-responsibility.md)
+- [Multi-agent log analysis: evidence checks versus confidence scores](../surveys/security-governance/2026-multi-agent-system-log-anomaly-framework.md)
+
 - [Qwen4-Max: release claims, agent workflows and evidence](../surveys/articles/2026-qwen4-max-release.md)
 - [MIT HTMAA 2026: fabrication resources and agentic engineering](../surveys/articles/2026-mit-htmaa-agentic-engineering-resources.md)
 - [Coffeehouses and science: access to knowledge in historical London](../economics/2026-coffeehouses-rise-science.md)

@@ -9,6 +9,11 @@
 
 ## Added 2026-11-17
 
+- [Step Zero: safety before an agent can inspect an input](../surveys/agent-safety/2026-step-zero-before-observability.md) — Preprint v1. First-processing effects, gate coverage and cumulative-budget limits checked.
+- [Criticality-aware RAN placement: dependencies and failure impact](../surveys/cloud-resilience/2026-criticality-aware-ran-placement.md) — Preprint v1. Simulated disruption gains and inconsistent active-site cost statements recorded.
+- [Aligning AI teams: responsibility for the integrated system](../surveys/agent-safety/2026-aligning-ai-teams-responsibility.md) — Preprint v1. Responsibility, compound interventions and remaining model/task gaps checked.
+- [Multi-agent log analysis: evidence checks versus confidence scores](../surveys/security-governance/2026-multi-agent-system-log-anomaly-framework.md) — Paper v1. Workflow evidence checks separated from uncalibrated confidence and unmeasured accuracy.
+
 - [Qwen4-Max: release claims, agent workflows and evidence](../surveys/articles/2026-qwen4-max-release.md) — Vendor release. Distinct from Preview; selected evidence and open-release scope checked.
 - [MIT HTMAA 2026: fabrication resources and agentic engineering](../surveys/articles/2026-mit-htmaa-agentic-engineering-resources.md) — Course resources. Selected agent-engineering slides checked; teaching demos labeled.
 - [Coffeehouses and science: access to knowledge in historical London](../economics/2026-coffeehouses-rise-science.md) — Economic-history working paper. Event study, correlation and model counterfactual separated.
