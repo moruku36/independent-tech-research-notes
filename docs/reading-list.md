@@ -9,6 +9,7 @@
 
 ## Added 2026-11-18
 
+- [Self-Improvement Memory: carrying harness improvement evidence forward](../surveys/coding-agents/2026-self-improvement-memory-continual-rsi.md) — Preprint v1. Improvement-ledger transfer, paired evidence, budget and generation-transfer limits checked.
 - [Ignite 2026: context, governance, models, and enterprise agents](../surveys/articles/2026-microsoft-ignite-frontier-ecosystem.md) — Official edited keynote; architecture and feature-level preview boundaries checked.
 - [Microsoft Perception: agentic security and evidence boundaries](../surveys/security-governance/2026-microsoft-perception-ignite.md) — Official product article. Coverage, partner benchmark attribution, and preview scope separated.
 - [Claude Code verification: trustworthy checks and execution evidence](../surveys/coding-agents/2026-claude-code-verification-practices.md) — Engineering article. Protected check sources, verification evidence, and gate exceptions checked.

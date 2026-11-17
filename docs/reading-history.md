@@ -7,6 +7,7 @@ Newest first. Earlier entries use dates recorded as additions in the reading lis
 
 ## 2026-11-18
 
+- [Self-Improvement Memory: carrying harness improvement evidence forward](../surveys/coding-agents/2026-self-improvement-memory-continual-rsi.md)
 - [Ignite 2026: context, governance, models, and enterprise agents](../surveys/articles/2026-microsoft-ignite-frontier-ecosystem.md)
 - [Microsoft Perception: agentic security and evidence boundaries](../surveys/security-governance/2026-microsoft-perception-ignite.md)
 - [Claude Code verification: trustworthy checks and execution evidence](../surveys/coding-agents/2026-claude-code-verification-practices.md)
