@@ -1,23 +1,39 @@
-**English** | [日本語](README.ja.md)
-
 # Survey notes
 
-Reading records for computer science and AI-security papers and research articles. Each note follows the [survey record template](template.md) and keeps **primary source checked / text read closely / reproduced** apart. Pick a theme:
+**English** | [日本語](README.ja.md)
 
-- [AI agent safety and out-of-scope behavior](agent-safety/README.md) (4 papers + 1 research article): Whether AI agents act outside their authorization, and how they can be attacked in real workflows. [Agentic Uncertainty Reveals Agentic Overconfidence](agent-safety/2026-agentic-overconfidence.md)。
-- [Decoys, deception, and LLM system defense](deception-defense/README.md) (2): Using fake evidence and decoy models to steer or isolate malicious agents and requests.
-- [Coding agents, code review, and software engineering](coding-agents/README.md) (papers, technical articles, and presentations): Benchmarks and industrial studies of AI coding assistants, automated repair, and automated review. [Redesigning source control at Anthropic](coding-agents/2026-anthropic-scion-source-control.md) (report/article).
-- [Human-AI collaboration at work](human-ai-collaboration/README.md): What people expect from AI co-workers, how tools treat waiting time and attention, and how AI use changes work activity and learning opportunities. [Goals as First-Class Abstractions in Human-AI Collaboration](human-ai-collaboration/2026-goals-first-class-abstractions.md)。
-- [Security governance: privacy, policy, crypto-agility, and cloud controls](security-governance/README.md) (papers, articles, and presentations): Organizational security questions around GenAI, cryptographic migration, and multi-cloud control consistency. [Agentic Inequality](security-governance/2025-agentic-inequality.md)。 [Shadow AI and PII article review](security-governance/2026-shadow-ai-ban-pii-governance.md).
-- [LLM serving infrastructure and cost-efficiency](llm-infrastructure/README.md) (3): Hardware choices, scheduling, KV cache control, and long-term memory retrieval.
-- [Cloud resilience and SRE](cloud-resilience/README.md): AWS cross-account fault experiments and recovery decisions; measured results and reproduction unverified. [SequenceFI: Non-intrusive Temporal Fault Injection for Microservice Systems](cloud-resilience/2026-sequencefi.md)。 [Cloud Computing & DevOps: Research Insights 2025–2026](cloud-resilience/2026-cloud-devops-research-insights.md) (report/article).
-- [Events, technical articles, and work/labor research](articles/README.md) (5 articles/reports + 1 academic paper): A CHI paper is kept distinct from the articles. [Recursive self-improvement: evidence review](articles/2026-rsi-evidence-review.md)。
+Reading notes on research papers, technical articles, and presentations. Choose a theme below to find the individual notes.
 
+[New additions](../docs/reading-history.md) · [Full reading and application list](../docs/reading-list.md) · [Repository overview](../README.md)
 
-- [Generative models and 3D environments](generative-modeling/README.md): Structured environment generation, infilling, extension, and quality evaluation.
-- [Forecasting and benchmarks](forecasting/README.md): Time-series forecasts and evaluation datasets.
+## Themes
 
-Research articles follow the same record fields but are counted separately from academic papers and preprints.
+### AI agents and software development
+
+| Theme | What you will find |
+| --- | --- |
+| [Coding agents and software engineering](coding-agents/README.md) | Code generation, review, repair, and verification |
+| [Human-AI collaboration](human-ai-collaboration/README.md) | AI at work, learning, attention, and shared goals |
+| [AI agent safety](agent-safety/README.md) | Authorization, attacks, misalignment, and reward hacking |
+| [Deception and LLM defense](deception-defense/README.md) | Decoys and deceptive information for defense |
+
+### Infrastructure, operations, and security
+
+| Theme | What you will find |
+| --- | --- |
+| [LLM infrastructure](llm-infrastructure/README.md) | Serving, memory, caching, cost, and orchestration |
+| [Cloud resilience and SRE](cloud-resilience/README.md) | Fault injection, recovery, cloud, and DevOps |
+| [Security governance](security-governance/README.md) | Privacy, credentials, organizational controls, and cloud security |
+
+### Models, industry, and economics
+
+| Theme | What you will find |
+| --- | --- |
+| [Generative models and 3D environments](generative-modeling/README.md) | Generation, editing, datasets, and evaluation |
+| [Forecasting and benchmarks](forecasting/README.md) | Time-series forecasting, datasets, and uncertainty |
+| [Events, articles, and work research](articles/README.md) | Releases, technical reports, events, and workplace research |
+
+Related collection: [economics and corporate disclosures](../economics/README.md), kept outside `surveys/`.
 
 ## Principles for research notes
 
@@ -27,8 +43,17 @@ Research articles follow the same record fields but are counted separately from 
 - Every note has a Japanese counterpart (`*.ja.md`).
 - Every note opens with a three-line **Overview** (what it is / what it says / caveat), placed right after the title.
 
+Academic papers/preprints, research articles, practitioner reports, and corporate materials retain their source-type labels. The theme indexes and reading list hold the individual entries.
+
 ## Where files live
 
-`surveys/<theme>/<year>-<slug>.md` for papers, plus `<slug>.ja.md` for the Japanese version. Each theme folder has its own README listing its notes. Plans, checklists, and the full reading list are in [docs/](../docs/reading-list.md).
+| Path | Contents |
+| --- | --- |
+| `surveys/<theme>/<year>-<slug>.md` | English note |
+| `surveys/<theme>/<year>-<slug>.ja.md` | Japanese counterpart |
+| `surveys/<theme>/README.md` / `README.ja.md` | Notes in that theme |
+| [docs/](../docs/reading-list.md) | Cross-theme reading lists, research plans, and checklists |
 
-[Repository README](../README.md) | [Reading list](../docs/reading-list.md)
+Use the [note template](template.md) for the source URL, verification status, summary, limitations, and practical ideas.
+
+[Repository README](../README.md) · [Reading history](../docs/reading-history.md) · [Reading list](../docs/reading-list.md)
