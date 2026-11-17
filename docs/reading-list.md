@@ -9,6 +9,8 @@
 
 ## Added 2026-11-17
 
+- [QD-Rec: evolving diverse reasons for recommendations](../surveys/llm-infrastructure/2026-sakana-qd-rec-open-ended-recommendation.md) — Preprint v2 and official technical article. Recommendation archives, judge reuse, non-uniform gains, and code/model differences checked.
+
 - [All Code Is Slop: executable constraints and verification for coding agents](../surveys/coding-agents/2026-lauren-tan-agent-code-quality-verification.md) — Practitioner talk. Organizer transcript and selected tool READMEs checked; reported outcomes separated from proposals.
 
 - [Step Zero: safety before an agent can inspect an input](../surveys/agent-safety/2026-step-zero-before-observability.md) — Preprint v1. First-processing effects, gate coverage and cumulative-budget limits checked.

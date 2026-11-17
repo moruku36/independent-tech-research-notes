@@ -5,6 +5,10 @@
 Hardware choices, scheduling, KV cache control, and long-term memory retrieval.
 
 
+## Added 2026-11-17
+
+- [QD-Rec: evolving diverse reasons for recommendations](2026-sakana-qd-rec-open-ended-recommendation.md) — Preprint v2 and official technical article. Recommendation archives, judge reuse, non-uniform gains, and code/model differences checked.
+
 ## Added 2026-11-16
 
 - [WorkflowArena: evaluating how agents organize executable work](2026-workflowarena-executable-orchestration.md) — Preprint v1. Integrated acceptance, macro-averaging, transfer controls and limitations checked.
