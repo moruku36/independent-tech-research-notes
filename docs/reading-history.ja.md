@@ -7,6 +7,8 @@
 
 ## 2026-11-17
 
+- [QD-Rec：推薦の理由を進化させ、多様な選択肢を残す](../surveys/llm-infrastructure/2026-sakana-qd-rec-open-ended-recommendation.ja.md)
+
 - [All Code Is Slop：コーディングAIを支える制約と検証](../surveys/coding-agents/2026-lauren-tan-agent-code-quality-verification.ja.md)
 
 - [Step Zero：入力を読める前に必要な安全境界](../surveys/agent-safety/2026-step-zero-before-observability.ja.md)

@@ -9,6 +9,8 @@
 
 ## 2026-11-17追加
 
+- [QD-Rec：推薦の理由を進化させ、多様な選択肢を残す](../surveys/llm-infrastructure/2026-sakana-qd-rec-open-ended-recommendation.ja.md) — プレプリントv2・公式技術解説。推薦アーカイブ、採点の再利用、条件ごとの違い、公開コードのモデル差を確認。
+
 - [All Code Is Slop：コーディングAIを支える制約と検証](../surveys/coding-agents/2026-lauren-tan-agent-code-quality-verification.ja.md) — 実務講演。主催者の文字起こしと関連READMEを確認し、自己報告と提案を区別。
 
 - [Step Zero：入力を読める前に必要な安全境界](../surveys/agent-safety/2026-step-zero-before-observability.ja.md) — プレプリントv1。最初の処理の副作用・ゲートの適用範囲・累積予算の限界を確認。

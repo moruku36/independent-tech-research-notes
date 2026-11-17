@@ -7,6 +7,8 @@ Newest first. Earlier entries use dates recorded as additions in the reading lis
 
 ## 2026-11-17
 
+- [QD-Rec: evolving diverse reasons for recommendations](../surveys/llm-infrastructure/2026-sakana-qd-rec-open-ended-recommendation.md)
+
 - [All Code Is Slop: executable constraints and verification for coding agents](../surveys/coding-agents/2026-lauren-tan-agent-code-quality-verification.md)
 
 - [Step Zero: safety before an agent can inspect an input](../surveys/agent-safety/2026-step-zero-before-observability.md)
