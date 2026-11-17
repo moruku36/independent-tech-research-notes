@@ -7,6 +7,7 @@ AIコーディング支援・自動修復・自動レビューのベンチマー
 
 ## 2026-11-18追加
 
+- [Self-Improvement Memory：ハーネス改善の根拠を引き継ぐ](2026-self-improvement-memory-continual-rsi.ja.md) — プレプリントv1。改善台帳の引継ぎ、対応比較、実行予算と世代移行の限界を確認。
 - [Claude Codeの検証：チェックの信頼性と実行の証拠](2026-claude-code-verification-practices.ja.md) — 開発実践記事。判定規則の取得元、検証証拠、ゲートの例外を確認。
 - [FrontierHarness v1.1：モデルとハーネスの相性・費用の測り方](2026-frontierharness-eval-v1-1.ja.md) — 提供元ベンチマーク。構成数、成功率・費用の分母、モデル・提供元の限界を確認。
 

@@ -7,6 +7,7 @@
 
 ## 2026-11-18
 
+- [Self-Improvement Memory：ハーネス改善の根拠を引き継ぐ](../surveys/coding-agents/2026-self-improvement-memory-continual-rsi.ja.md)
 - [Ignite 2026：企業エージェントを支える文脈・統制・モデル](../surveys/articles/2026-microsoft-ignite-frontier-ecosystem.ja.md)
 - [Microsoft Perception：エージェント型セキュリティと検証の範囲](../surveys/security-governance/2026-microsoft-perception-ignite.ja.md)
 - [Claude Codeの検証：チェックの信頼性と実行の証拠](../surveys/coding-agents/2026-claude-code-verification-practices.ja.md)
