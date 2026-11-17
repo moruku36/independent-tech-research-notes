@@ -7,6 +7,15 @@
 
 
 
+## 2026-11-18追加
+
+- [Ignite 2026：企業エージェントを支える文脈・統制・モデル](../surveys/articles/2026-microsoft-ignite-frontier-ecosystem.ja.md) — 公式基調講演の編集版。構成と個別機能のプレビュー条件を確認。
+- [Microsoft Perception：エージェント型セキュリティと検証の範囲](../surveys/security-governance/2026-microsoft-perception-ignite.ja.md) — 公式製品記事。対象範囲、パートナー評価の引用、プレビュー範囲を区別。
+- [Claude Codeの検証：チェックの信頼性と実行の証拠](../surveys/coding-agents/2026-claude-code-verification-practices.ja.md) — 開発実践記事。判定規則の取得元、検証証拠、ゲートの例外を確認。
+- [FrontierHarness v1.1：モデルとハーネスの相性・費用の測り方](../surveys/coding-agents/2026-frontierharness-eval-v1-1.ja.md) — 提供元ベンチマーク。構成数、成功率・費用の分母、モデル・提供元の限界を確認。
+- [企業手順を実行するエージェント：費用対成功率と記述の不整合](../surveys/llm-infrastructure/2026-enterprise-sop-agent-architecture-cost.ja.md) — プレプリントv1。模擬ツールでの比較と、本文・結論・採点の不整合を記録。
+- [署名付き引継ぎ：抽出後の完全性と、抽出前の正しさを分ける](../surveys/agent-safety/2026-signed-requirement-manifest-handoffs.ja.md) — プレプリントv1。転送時の完全性、署名前の抽出失敗、見送りの限界を区別。
+
 ## 2026-11-17追加
 
 - [QD-Rec：推薦の理由を進化させ、多様な選択肢を残す](../surveys/llm-infrastructure/2026-sakana-qd-rec-open-ended-recommendation.ja.md) — プレプリントv2・公式技術解説。推薦アーカイブ、採点の再利用、条件ごとの違い、公開コードのモデル差を確認。

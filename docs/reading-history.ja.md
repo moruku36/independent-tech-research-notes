@@ -5,6 +5,15 @@
 新しい日付順。過去分は既存の読書一覧に記された追加日を使用し、本人の読了日を保証するものではありません。日付が特定できない資料は省いています。
 
 
+## 2026-11-18
+
+- [Ignite 2026：企業エージェントを支える文脈・統制・モデル](../surveys/articles/2026-microsoft-ignite-frontier-ecosystem.ja.md)
+- [Microsoft Perception：エージェント型セキュリティと検証の範囲](../surveys/security-governance/2026-microsoft-perception-ignite.ja.md)
+- [Claude Codeの検証：チェックの信頼性と実行の証拠](../surveys/coding-agents/2026-claude-code-verification-practices.ja.md)
+- [FrontierHarness v1.1：モデルとハーネスの相性・費用の測り方](../surveys/coding-agents/2026-frontierharness-eval-v1-1.ja.md)
+- [企業手順を実行するエージェント：費用対成功率と記述の不整合](../surveys/llm-infrastructure/2026-enterprise-sop-agent-architecture-cost.ja.md)
+- [署名付き引継ぎ：抽出後の完全性と、抽出前の正しさを分ける](../surveys/agent-safety/2026-signed-requirement-manifest-handoffs.ja.md)
+
 ## 2026-11-17
 
 - [QD-Rec：推薦の理由を進化させ、多様な選択肢を残す](../surveys/llm-infrastructure/2026-sakana-qd-rec-open-ended-recommendation.ja.md)

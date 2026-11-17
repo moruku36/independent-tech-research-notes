@@ -5,6 +5,11 @@
 Benchmarks and industrial studies of AI coding assistants, automated repair, and automated review.
 
 
+## Added 2026-11-18
+
+- [Claude Code verification: trustworthy checks and execution evidence](2026-claude-code-verification-practices.md) — Engineering article. Protected check sources, verification evidence, and gate exceptions checked.
+- [FrontierHarness v1.1: model–harness fit and cost measurement](2026-frontierharness-eval-v1-1.md) — Vendor benchmark. Configuration counts, scoring/cost denominators, and model/provider limits checked.
+
 ## Added 2026-11-17
 
 - [All Code Is Slop: executable constraints and verification for coding agents](2026-lauren-tan-agent-code-quality-verification.md) — Practitioner talk. Organizer transcript and selected tool READMEs checked; reported outcomes separated from proposals.

@@ -4,6 +4,10 @@
 
 Organizational security questions around GenAI, cryptographic migration, and multi-cloud control consistency.
 
+## Added 2026-11-18
+
+- [Microsoft Perception: agentic security and evidence boundaries](2026-microsoft-perception-ignite.md) — Official product article. Coverage, partner benchmark attribution, and preview scope separated.
+
 ## Added 2026-11-17
 
 - [Multi-agent log analysis: evidence checks versus confidence scores](2026-multi-agent-system-log-anomaly-framework.md) — Paper v1. Workflow evidence checks separated from uncalibrated confidence and unmeasured accuracy.

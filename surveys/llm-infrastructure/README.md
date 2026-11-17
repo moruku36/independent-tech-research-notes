@@ -5,6 +5,10 @@
 Hardware choices, scheduling, KV cache control, and long-term memory retrieval.
 
 
+## Added 2026-11-18
+
+- [Enterprise SOP agents: cost–success trade-offs and inconsistent reporting](2026-enterprise-sop-agent-architecture-cost.md) — Preprint v1. Mock-tool comparisons and body/conclusion/scoring inconsistencies recorded.
+
 ## Added 2026-11-17
 
 - [QD-Rec: evolving diverse reasons for recommendations](2026-sakana-qd-rec-open-ended-recommendation.md) — Preprint v2 and official technical article. Recommendation archives, judge reuse, non-uniform gains, and code/model differences checked.

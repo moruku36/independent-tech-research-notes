@@ -4,6 +4,10 @@
 
 Whether AI agents act outside their authorization, and how they can be attacked in real workflows.
 
+## Added 2026-11-18
+
+- [Signed handoffs: integrity after extraction, not correctness before it](2026-signed-requirement-manifest-handoffs.md) — Preprint v1. Transit integrity, pre-signing extraction failures, and abstention limits separated.
+
 ## Added 2026-11-17
 
 - [Step Zero: safety before an agent can inspect an input](2026-step-zero-before-observability.md) — Preprint v1. First-processing effects, gate coverage and cumulative-budget limits checked.
