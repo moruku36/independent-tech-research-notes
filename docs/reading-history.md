@@ -5,6 +5,15 @@
 Newest first. Earlier entries use dates recorded as additions in the reading list; these do not establish the user's actual reading dates. Undated entries are omitted.
 
 
+## 2026-11-18
+
+- [Ignite 2026: context, governance, models, and enterprise agents](../surveys/articles/2026-microsoft-ignite-frontier-ecosystem.md)
+- [Microsoft Perception: agentic security and evidence boundaries](../surveys/security-governance/2026-microsoft-perception-ignite.md)
+- [Claude Code verification: trustworthy checks and execution evidence](../surveys/coding-agents/2026-claude-code-verification-practices.md)
+- [FrontierHarness v1.1: model–harness fit and cost measurement](../surveys/coding-agents/2026-frontierharness-eval-v1-1.md)
+- [Enterprise SOP agents: cost–success trade-offs and inconsistent reporting](../surveys/llm-infrastructure/2026-enterprise-sop-agent-architecture-cost.md)
+- [Signed handoffs: integrity after extraction, not correctness before it](../surveys/agent-safety/2026-signed-requirement-manifest-handoffs.md)
+
 ## 2026-11-17
 
 - [QD-Rec: evolving diverse reasons for recommendations](../surveys/llm-infrastructure/2026-sakana-qd-rec-open-ended-recommendation.md)

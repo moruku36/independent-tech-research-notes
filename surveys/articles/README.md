@@ -5,6 +5,10 @@
 Vendor reports, conference recaps and company articles appear alongside a work/labor academic paper. The paper is labeled and counted separately from articles.
 
 
+## Added 2026-11-18
+
+- [Ignite 2026: context, governance, models, and enterprise agents](2026-microsoft-ignite-frontier-ecosystem.md) — Official edited keynote; architecture and feature-level preview boundaries checked.
+
 ## Added 2026-11-17
 
 - [Qwen4-Max: release claims, agent workflows and evidence](2026-qwen4-max-release.md) — Vendor release. Distinct from Preview; selected evidence and open-release scope checked.

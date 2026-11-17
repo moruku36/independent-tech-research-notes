@@ -5,6 +5,11 @@
 AIコーディング支援・自動修復・自動レビューのベンチマークと企業での実証研究。
 
 
+## 2026-11-18追加
+
+- [Claude Codeの検証：チェックの信頼性と実行の証拠](2026-claude-code-verification-practices.ja.md) — 開発実践記事。判定規則の取得元、検証証拠、ゲートの例外を確認。
+- [FrontierHarness v1.1：モデルとハーネスの相性・費用の測り方](2026-frontierharness-eval-v1-1.ja.md) — 提供元ベンチマーク。構成数、成功率・費用の分母、モデル・提供元の限界を確認。
+
 ## 2026-11-17追加
 
 - [All Code Is Slop：コーディングAIを支える制約と検証](2026-lauren-tan-agent-code-quality-verification.ja.md) — 実務講演。主催者の文字起こしと関連READMEを確認し、自己報告と提案を区別。

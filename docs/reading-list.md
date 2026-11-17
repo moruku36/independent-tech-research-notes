@@ -7,6 +7,15 @@
 
 
 
+## Added 2026-11-18
+
+- [Ignite 2026: context, governance, models, and enterprise agents](../surveys/articles/2026-microsoft-ignite-frontier-ecosystem.md) — Official edited keynote; architecture and feature-level preview boundaries checked.
+- [Microsoft Perception: agentic security and evidence boundaries](../surveys/security-governance/2026-microsoft-perception-ignite.md) — Official product article. Coverage, partner benchmark attribution, and preview scope separated.
+- [Claude Code verification: trustworthy checks and execution evidence](../surveys/coding-agents/2026-claude-code-verification-practices.md) — Engineering article. Protected check sources, verification evidence, and gate exceptions checked.
+- [FrontierHarness v1.1: model–harness fit and cost measurement](../surveys/coding-agents/2026-frontierharness-eval-v1-1.md) — Vendor benchmark. Configuration counts, scoring/cost denominators, and model/provider limits checked.
+- [Enterprise SOP agents: cost–success trade-offs and inconsistent reporting](../surveys/llm-infrastructure/2026-enterprise-sop-agent-architecture-cost.md) — Preprint v1. Mock-tool comparisons and body/conclusion/scoring inconsistencies recorded.
+- [Signed handoffs: integrity after extraction, not correctness before it](../surveys/agent-safety/2026-signed-requirement-manifest-handoffs.md) — Preprint v1. Transit integrity, pre-signing extraction failures, and abstention limits separated.
+
 ## Added 2026-11-17
 
 - [QD-Rec: evolving diverse reasons for recommendations](../surveys/llm-infrastructure/2026-sakana-qd-rec-open-ended-recommendation.md) — Preprint v2 and official technical article. Recommendation archives, judge reuse, non-uniform gains, and code/model differences checked.
