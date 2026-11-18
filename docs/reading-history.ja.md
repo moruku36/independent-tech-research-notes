@@ -7,6 +7,7 @@
 
 ## 2026-11-19
 
+- [Nemotron-Labs-Sigmaの連続拡散とデコード速度](../surveys/llm-infrastructure/2026-nemotron-labs-sigma-continuous-diffusion.ja.md)
 - [NVIDIA Kumo Tabularの表形式予測と推論コスト](../surveys/forecasting/2026-nvidia-kumo-tabular.ja.md)
 
 ## 2026-11-18

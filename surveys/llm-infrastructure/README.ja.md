@@ -5,6 +5,10 @@
 LLM推論のハードウェア選択、スケジューリング、KVキャッシュ制御、長期記憶検索。
 
 
+## 2026-11-19追加
+
+- [Nemotron-Labs-Sigmaの連続拡散とデコード速度](2026-nemotron-labs-sigma-continuous-diffusion.ja.md) — プレプリントv2。少ステップ蒸留、GB200での実測スループット、比較条件を確認。
+
 ## 2026-11-18追加
 
 - [企業手順を実行するエージェント：費用対成功率と記述の不整合](2026-enterprise-sop-agent-architecture-cost.ja.md) — プレプリントv1。模擬ツールでの比較と、本文・結論・採点の不整合を記録。

@@ -5,6 +5,10 @@
 Hardware choices, scheduling, KV cache control, and long-term memory retrieval.
 
 
+## Added 2026-11-19
+
+- [Nemotron-Labs-Sigma: continuous diffusion and decoding throughput](2026-nemotron-labs-sigma-continuous-diffusion.md) — Preprint v2. Few-step distillation, measured GB200 throughput, and comparison limits checked.
+
 ## Added 2026-11-18
 
 - [Enterprise SOP agents: cost–success trade-offs and inconsistent reporting](2026-enterprise-sop-agent-architecture-cost.md) — Preprint v1. Mock-tool comparisons and body/conclusion/scoring inconsistencies recorded.

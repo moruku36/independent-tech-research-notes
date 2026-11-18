@@ -9,6 +9,7 @@
 
 ## Added 2026-11-19
 
+- [Nemotron-Labs-Sigma: continuous diffusion and decoding throughput](../surveys/llm-infrastructure/2026-nemotron-labs-sigma-continuous-diffusion.md) — Preprint v2. Few-step distillation, measured GB200 throughput, and comparison limits checked.
 - [NVIDIA Kumo Tabular: accuracy and inference cost for tabular prediction](../surveys/forecasting/2026-nvidia-kumo-tabular.md) — Preprint v1. Benchmark uncertainty, matched-GPU timing, and grouped-split limits checked.
 
 ## Added 2026-11-18
