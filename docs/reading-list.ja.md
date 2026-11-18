@@ -7,6 +7,10 @@
 
 
 
+## 2026-11-19追加
+
+- [NVIDIA Kumo Tabularの表形式予測と推論コスト](../surveys/forecasting/2026-nvidia-kumo-tabular.ja.md) — プレプリントv1。順位の不確かさ、同一GPUでの予測時間、グループ分割での限界を確認。
+
 ## 2026-11-18追加
 
 - [Self-Improvement Memory：ハーネス改善の根拠を引き継ぐ](../surveys/coding-agents/2026-self-improvement-memory-continual-rsi.ja.md) — プレプリントv1。改善台帳の引継ぎ、対応比較、実行予算と世代移行の限界を確認。

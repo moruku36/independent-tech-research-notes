@@ -5,6 +5,10 @@
 Newest first. Earlier entries use dates recorded as additions in the reading list; these do not establish the user's actual reading dates. Undated entries are omitted.
 
 
+## 2026-11-19
+
+- [NVIDIA Kumo Tabular: accuracy and inference cost for tabular prediction](../surveys/forecasting/2026-nvidia-kumo-tabular.md)
+
 ## 2026-11-18
 
 - [Self-Improvement Memory: carrying harness improvement evidence forward](../surveys/coding-agents/2026-self-improvement-memory-continual-rsi.md)

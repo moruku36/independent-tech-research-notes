@@ -5,6 +5,10 @@
 新しい日付順。過去分は既存の読書一覧に記された追加日を使用し、本人の読了日を保証するものではありません。日付が特定できない資料は省いています。
 
 
+## 2026-11-19
+
+- [NVIDIA Kumo Tabularの表形式予測と推論コスト](../surveys/forecasting/2026-nvidia-kumo-tabular.ja.md)
+
 ## 2026-11-18
 
 - [Self-Improvement Memory：ハーネス改善の根拠を引き継ぐ](../surveys/coding-agents/2026-self-improvement-memory-continual-rsi.ja.md)
