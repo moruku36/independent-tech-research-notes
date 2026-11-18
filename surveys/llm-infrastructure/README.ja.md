@@ -7,6 +7,7 @@ LLM推論のハードウェア選択、スケジューリング、KVキャッシ
 
 ## 2026-11-19追加
 
+- [Azure Cobalt 200 VMのワークロード性能と提供範囲](2026-azure-cobalt-200-vm-workload-performance.ja.md) — 公式発表。提供リージョンとベンダーによるワークロード比較を確認。
 - [Nemotron-Labs-Sigmaの連続拡散とデコード速度](2026-nemotron-labs-sigma-continuous-diffusion.ja.md) — プレプリントv2。少ステップ蒸留、GB200での実測スループット、比較条件を確認。
 
 ## 2026-11-18追加

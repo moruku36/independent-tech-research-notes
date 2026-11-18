@@ -7,6 +7,10 @@ Newest first. Earlier entries use dates recorded as additions in the reading lis
 
 ## 2026-11-19
 
+- [AWS Emulator on WSL2: S3 and Lambda behavior](../surveys/cloud-resilience/2026-aws-emulator-wsl2-s3-lambda.md)
+- [AWS Well-Architected 2026: cloud foundations and workloads](../surveys/cloud-resilience/2026-aws-well-architected-foundations-workloads.md)
+- [Azure Cobalt 200 VMs: workload performance and availability](../surveys/llm-infrastructure/2026-azure-cobalt-200-vm-workload-performance.md)
+- [Self-organized agent improvement through gameplay and text context](../surveys/coding-agents/2026-self-organized-agent-improvement-gameplay.md)
 - [Nemotron-Labs-Sigma: continuous diffusion and decoding throughput](../surveys/llm-infrastructure/2026-nemotron-labs-sigma-continuous-diffusion.md)
 - [NVIDIA Kumo Tabular: accuracy and inference cost for tabular prediction](../surveys/forecasting/2026-nvidia-kumo-tabular.md)
 

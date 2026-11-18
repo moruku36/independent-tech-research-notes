@@ -7,6 +7,7 @@ Hardware choices, scheduling, KV cache control, and long-term memory retrieval.
 
 ## Added 2026-11-19
 
+- [Azure Cobalt 200 VMs: workload performance and availability](2026-azure-cobalt-200-vm-workload-performance.md) — Official launch announcement. Regional availability and vendor workload comparisons.
 - [Nemotron-Labs-Sigma: continuous diffusion and decoding throughput](2026-nemotron-labs-sigma-continuous-diffusion.md) — Preprint v2. Few-step distillation, measured GB200 throughput, and comparison limits checked.
 
 ## Added 2026-11-18
