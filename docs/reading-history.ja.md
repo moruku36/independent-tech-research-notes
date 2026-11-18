@@ -7,6 +7,10 @@
 
 ## 2026-11-19
 
+- [WSL2上のAWS Emulatorで確かめたS3とLambdaの挙動](../surveys/cloud-resilience/2026-aws-emulator-wsl2-s3-lambda.ja.md)
+- [AWS Well-Architected 2026のクラウド基盤とワークロード](../surveys/cloud-resilience/2026-aws-well-architected-foundations-workloads.ja.md)
+- [Azure Cobalt 200 VMのワークロード性能と提供範囲](../surveys/llm-infrastructure/2026-azure-cobalt-200-vm-workload-performance.ja.md)
+- [ゲーム経験とテキスト文脈によるエージェントの自己改善](../surveys/coding-agents/2026-self-organized-agent-improvement-gameplay.ja.md)
 - [Nemotron-Labs-Sigmaの連続拡散とデコード速度](../surveys/llm-infrastructure/2026-nemotron-labs-sigma-continuous-diffusion.ja.md)
 - [NVIDIA Kumo Tabularの表形式予測と推論コスト](../surveys/forecasting/2026-nvidia-kumo-tabular.ja.md)
 

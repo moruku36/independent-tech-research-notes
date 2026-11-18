@@ -5,6 +5,10 @@
 Benchmarks and industrial studies of AI coding assistants, automated repair, and automated review.
 
 
+## Added 2026-11-19
+
+- [Self-organized agent improvement through gameplay and text context](2026-self-organized-agent-improvement-gameplay.md) — Preprint v1. Frozen weights, held-out transfer, and short-horizon limits.
+
 ## Added 2026-11-18
 
 - [Self-Improvement Memory: carrying harness improvement evidence forward](2026-self-improvement-memory-continual-rsi.md) — Preprint v1. Improvement-ledger transfer, paired evidence, budget and generation-transfer limits checked.

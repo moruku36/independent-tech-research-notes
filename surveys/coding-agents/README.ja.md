@@ -5,6 +5,10 @@
 AIコーディング支援・自動修復・自動レビューのベンチマークと企業での実証研究。
 
 
+## 2026-11-19追加
+
+- [ゲーム経験とテキスト文脈によるエージェントの自己改善](2026-self-organized-agent-improvement-gameplay.ja.md) — プレプリントv1。重み固定、未見課題への転移、短期実験の制約を確認。
+
 ## 2026-11-18追加
 
 - [Self-Improvement Memory：ハーネス改善の根拠を引き継ぐ](2026-self-improvement-memory-continual-rsi.ja.md) — プレプリントv1。改善台帳の引継ぎ、対応比較、実行予算と世代移行の限界を確認。

@@ -9,6 +9,10 @@
 
 ## Added 2026-11-19
 
+- [AWS Emulator on WSL2: S3 and Lambda behavior](../surveys/cloud-resilience/2026-aws-emulator-wsl2-s3-lambda.md) — Practitioner report. Local S3 and Lambda behavior and IAM fidelity limits.
+- [AWS Well-Architected 2026: cloud foundations and workloads](../surveys/cloud-resilience/2026-aws-well-architected-foundations-workloads.md) — Official guidance update. Shared controls, workload scope, and practice counts.
+- [Azure Cobalt 200 VMs: workload performance and availability](../surveys/llm-infrastructure/2026-azure-cobalt-200-vm-workload-performance.md) — Official launch announcement. Regional availability and vendor workload comparisons.
+- [Self-organized agent improvement through gameplay and text context](../surveys/coding-agents/2026-self-organized-agent-improvement-gameplay.md) — Preprint v1. Frozen weights, held-out transfer, and short-horizon limits.
 - [Nemotron-Labs-Sigma: continuous diffusion and decoding throughput](../surveys/llm-infrastructure/2026-nemotron-labs-sigma-continuous-diffusion.md) — Preprint v2. Few-step distillation, measured GB200 throughput, and comparison limits checked.
 - [NVIDIA Kumo Tabular: accuracy and inference cost for tabular prediction](../surveys/forecasting/2026-nvidia-kumo-tabular.md) — Preprint v1. Benchmark uncertainty, matched-GPU timing, and grouped-split limits checked.
 

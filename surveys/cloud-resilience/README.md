@@ -4,6 +4,11 @@
 
 Papers on fault injection, recovery decisions, safety and experiment coordination.
 
+## Added 2026-11-19
+
+- [AWS Emulator on WSL2: S3 and Lambda behavior](2026-aws-emulator-wsl2-s3-lambda.md) — Practitioner report. Local S3 and Lambda behavior and IAM fidelity limits.
+- [AWS Well-Architected 2026: cloud foundations and workloads](2026-aws-well-architected-foundations-workloads.md) — Official guidance update. Shared controls, workload scope, and practice counts.
+
 ## Added 2026-11-17
 
 - [Criticality-aware RAN placement: dependencies and failure impact](2026-criticality-aware-ran-placement.md) — Preprint v1. Simulated disruption gains and inconsistent active-site cost statements recorded.

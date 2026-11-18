@@ -9,6 +9,10 @@
 
 ## 2026-11-19追加
 
+- [WSL2上のAWS Emulatorで確かめたS3とLambdaの挙動](../surveys/cloud-resilience/2026-aws-emulator-wsl2-s3-lambda.ja.md) — 実践記事。S3とLambdaのローカル動作、IAMの再現範囲を確認。
+- [AWS Well-Architected 2026のクラウド基盤とワークロード](../surveys/cloud-resilience/2026-aws-well-architected-foundations-workloads.ja.md) — 公式ガイダンスの更新。共通統制、ワークロードの範囲、項目数を確認。
+- [Azure Cobalt 200 VMのワークロード性能と提供範囲](../surveys/llm-infrastructure/2026-azure-cobalt-200-vm-workload-performance.ja.md) — 公式発表。提供リージョンとベンダーによるワークロード比較を確認。
+- [ゲーム経験とテキスト文脈によるエージェントの自己改善](../surveys/coding-agents/2026-self-organized-agent-improvement-gameplay.ja.md) — プレプリントv1。重み固定、未見課題への転移、短期実験の制約を確認。
 - [Nemotron-Labs-Sigmaの連続拡散とデコード速度](../surveys/llm-infrastructure/2026-nemotron-labs-sigma-continuous-diffusion.ja.md) — プレプリントv2。少ステップ蒸留、GB200での実測スループット、比較条件を確認。
 - [NVIDIA Kumo Tabularの表形式予測と推論コスト](../surveys/forecasting/2026-nvidia-kumo-tabular.ja.md) — プレプリントv1。順位の不確かさ、同一GPUでの予測時間、グループ分割での限界を確認。
 
