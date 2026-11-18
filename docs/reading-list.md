@@ -7,6 +7,10 @@
 
 
 
+## Added 2026-11-19
+
+- [NVIDIA Kumo Tabular: accuracy and inference cost for tabular prediction](../surveys/forecasting/2026-nvidia-kumo-tabular.md) — Preprint v1. Benchmark uncertainty, matched-GPU timing, and grouped-split limits checked.
+
 ## Added 2026-11-18
 
 - [Self-Improvement Memory: carrying harness improvement evidence forward](../surveys/coding-agents/2026-self-improvement-memory-continual-rsi.md) — Preprint v1. Improvement-ledger transfer, paired evidence, budget and generation-transfer limits checked.
