@@ -7,6 +7,7 @@ Newest first. Earlier entries use dates recorded as additions in the reading lis
 
 ## 2026-11-19
 
+- [Nemotron-Labs-Sigma: continuous diffusion and decoding throughput](../surveys/llm-infrastructure/2026-nemotron-labs-sigma-continuous-diffusion.md)
 - [NVIDIA Kumo Tabular: accuracy and inference cost for tabular prediction](../surveys/forecasting/2026-nvidia-kumo-tabular.md)
 
 ## 2026-11-18

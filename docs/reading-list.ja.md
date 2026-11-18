@@ -9,6 +9,7 @@
 
 ## 2026-11-19追加
 
+- [Nemotron-Labs-Sigmaの連続拡散とデコード速度](../surveys/llm-infrastructure/2026-nemotron-labs-sigma-continuous-diffusion.ja.md) — プレプリントv2。少ステップ蒸留、GB200での実測スループット、比較条件を確認。
 - [NVIDIA Kumo Tabularの表形式予測と推論コスト](../surveys/forecasting/2026-nvidia-kumo-tabular.ja.md) — プレプリントv1。順位の不確かさ、同一GPUでの予測時間、グループ分割での限界を確認。
 
 ## 2026-11-18追加
