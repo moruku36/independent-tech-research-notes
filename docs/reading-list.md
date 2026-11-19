@@ -9,6 +9,7 @@
 
 ## Added 2026-11-20
 
+- [GUARD: regression-aware harness updates with frozen models](../surveys/coding-agents/2026-guard-regret-guided-harness-improvement.md) — Preprint v1. Regression-aware harness edits, gate evidence, and inference cost limits.
 - [Ambiguous intent in LLM safety: filter evidence and legitimate use](../surveys/agent-safety/2026-llm-ambiguous-intent-safety-evaluation.md) — Preprint v1. Automated judgments, filter pass rates, and legitimate-use evidence limits.
 - [OpenAI’s frontier AI risk controls from training to deployment](../surveys/agent-safety/2026-openai-frontier-risk-model-lifecycle.md) — Company safety report. Stage-specific controls, intervention, and disclosure.
 - [Azure at Ignite 2026: deployment, operations, and data](../surveys/articles/2026-azure-ignite-platform-announcements.md) — Vendor announcement. Availability checked by feature at launch.
