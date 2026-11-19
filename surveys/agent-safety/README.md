@@ -4,6 +4,11 @@
 
 Whether AI agents act outside their authorization, and how they can be attacked in real workflows.
 
+## Added 2026-11-20
+
+- [Ambiguous intent in LLM safety: filter evidence and legitimate use](2026-llm-ambiguous-intent-safety-evaluation.md) — Preprint v1. Automated judgments, filter pass rates, and legitimate-use evidence limits.
+- [OpenAI’s frontier AI risk controls from training to deployment](2026-openai-frontier-risk-model-lifecycle.md) — Company safety report. Stage-specific controls, intervention, and disclosure.
+
 ## Added 2026-11-18
 
 - [Signed handoffs: integrity after extraction, not correctness before it](2026-signed-requirement-manifest-handoffs.md) — Preprint v1. Transit integrity, pre-signing extraction failures, and abstention limits separated.

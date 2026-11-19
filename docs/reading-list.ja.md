@@ -9,6 +9,8 @@
 
 ## 2026-11-20追加
 
+- [意図が曖昧な依頼に対するLLMの安全性評価](../surveys/agent-safety/2026-llm-ambiguous-intent-safety-evaluation.ja.md) — プレプリントv1。自動判定、フィルター通過率、正当な利用への影響の測定範囲。
+- [OpenAIのフロンティアAIリスク管理：訓練から公開まで](../surveys/agent-safety/2026-openai-frontier-risk-model-lifecycle.ja.md) — 企業の安全性報告。段階別の安全策、停止制御、インシデント開示。
 - [Ignite 2026のAzure発表：展開・運用・データ基盤](../surveys/articles/2026-azure-ignite-platform-announcements.ja.md) — 公式発表。発表時点の機能別の提供段階を確認。
 - [OpenAI Performance Factoryの性能劣化調査と復旧確認](../surveys/cloud-resilience/2026-openai-performance-factory-regression-workflow.ja.md) — 運用実践記事。性能劣化の調査、人による出荷判断、過去事例での評価。
 - [OpenAIの研究加速報告：エージェントの成功率はタスクで異なる](../surveys/articles/2026-openai-research-acceleration-jagged-frontier.ja.md) — 企業の調査報告。タスク成功率の推定、利用量の定価換算、研究活動の指標を確認。

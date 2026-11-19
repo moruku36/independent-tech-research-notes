@@ -7,6 +7,8 @@ Newest first. Earlier entries use dates recorded as additions in the reading lis
 
 ## 2026-11-20
 
+- [Ambiguous intent in LLM safety: filter evidence and legitimate use](../surveys/agent-safety/2026-llm-ambiguous-intent-safety-evaluation.md)
+- [OpenAI’s frontier AI risk controls from training to deployment](../surveys/agent-safety/2026-openai-frontier-risk-model-lifecycle.md)
 - [Azure at Ignite 2026: deployment, operations, and data](../surveys/articles/2026-azure-ignite-platform-announcements.md)
 - [OpenAI Performance Factory: investigating and verifying regressions](../surveys/cloud-resilience/2026-openai-performance-factory-regression-workflow.md)
 - [Research acceleration: The jagged frontier](../surveys/articles/2026-openai-research-acceleration-jagged-frontier.md)
