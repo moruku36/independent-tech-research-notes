@@ -7,6 +7,8 @@
 
 ## 2026-11-20
 
+- [Ignite 2026のAzure発表：展開・運用・データ基盤](../surveys/articles/2026-azure-ignite-platform-announcements.ja.md)
+- [OpenAI Performance Factoryの性能劣化調査と復旧確認](../surveys/cloud-resilience/2026-openai-performance-factory-regression-workflow.ja.md)
 - [OpenAIの研究加速報告：エージェントの成功率はタスクで異なる](../surveys/articles/2026-openai-research-acceleration-jagged-frontier.ja.md)
 - [ShinkaEvolve：LLMで候補プログラムを効率よく探索する](../surveys/coding-agents/2025-sakana-shinkaevolve.ja.md)
 

@@ -9,6 +9,8 @@
 
 ## Added 2026-11-20
 
+- [Azure at Ignite 2026: deployment, operations, and data](../surveys/articles/2026-azure-ignite-platform-announcements.md) — Vendor announcement. Availability checked by feature at launch.
+- [OpenAI Performance Factory: investigating and verifying regressions](../surveys/cloud-resilience/2026-openai-performance-factory-regression-workflow.md) — Engineering account. Incident workflow, human release review, and backtest scope.
 - [Research acceleration: The jagged frontier](../surveys/articles/2026-openai-research-acceleration-jagged-frontier.md) — Company research report. Estimated task success, usage valuation, and research output proxies.
 - [ShinkaEvolve: sample-efficient program search with LLMs](../surveys/coding-agents/2025-sakana-shinkaevolve.md) — Preprint v1. Evolutionary search, evaluation budgets, and transfer limits.
 
