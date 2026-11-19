@@ -7,6 +7,10 @@
 
 
 
+## Added 2026-11-20
+
+- [ShinkaEvolve: sample-efficient program search with LLMs](../surveys/coding-agents/2025-sakana-shinkaevolve.md) — Preprint v1. Evolutionary search, evaluation budgets, and transfer limits.
+
 ## Added 2026-11-19
 
 - [AWS Emulator on WSL2: S3 and Lambda behavior](../surveys/cloud-resilience/2026-aws-emulator-wsl2-s3-lambda.md) — Practitioner report. Local S3 and Lambda behavior and IAM fidelity limits.

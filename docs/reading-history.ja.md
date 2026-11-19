@@ -5,6 +5,10 @@
 新しい日付順。過去分は既存の読書一覧に記された追加日を使用し、本人の読了日を保証するものではありません。日付が特定できない資料は省いています。
 
 
+## 2026-11-20
+
+- [ShinkaEvolve：LLMで候補プログラムを効率よく探索する](../surveys/coding-agents/2025-sakana-shinkaevolve.ja.md)
+
 ## 2026-11-19
 
 - [WSL2上のAWS Emulatorで確かめたS3とLambdaの挙動](../surveys/cloud-resilience/2026-aws-emulator-wsl2-s3-lambda.ja.md)

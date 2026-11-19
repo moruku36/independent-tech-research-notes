@@ -5,6 +5,10 @@
 Benchmarks and industrial studies of AI coding assistants, automated repair, and automated review.
 
 
+## Added 2026-11-20
+
+- [ShinkaEvolve: sample-efficient program search with LLMs](2025-sakana-shinkaevolve.md) — Preprint v1. Evolutionary search, evaluation budgets, and transfer limits.
+
 ## Added 2026-11-19
 
 - [Self-organized agent improvement through gameplay and text context](2026-self-organized-agent-improvement-gameplay.md) — Preprint v1. Frozen weights, held-out transfer, and short-horizon limits.
