@@ -7,6 +7,7 @@ Newest first. Earlier entries use dates recorded as additions in the reading lis
 
 ## 2026-11-20
 
+- [Research acceleration: The jagged frontier](../surveys/articles/2026-openai-research-acceleration-jagged-frontier.md)
 - [ShinkaEvolve: sample-efficient program search with LLMs](../surveys/coding-agents/2025-sakana-shinkaevolve.md)
 
 ## 2026-11-19

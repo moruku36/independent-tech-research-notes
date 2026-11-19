@@ -5,6 +5,10 @@
 Vendor reports, conference recaps and company articles appear alongside a work/labor academic paper. The paper is labeled and counted separately from articles.
 
 
+## Added 2026-11-20
+
+- [Research acceleration: The jagged frontier](2026-openai-research-acceleration-jagged-frontier.md) — Company research report. Estimated task success, usage valuation, and research output proxies.
+
 ## Added 2026-11-18
 
 - [Ignite 2026: context, governance, models, and enterprise agents](2026-microsoft-ignite-frontier-ecosystem.md) — Official edited keynote; architecture and feature-level preview boundaries checked.

@@ -7,6 +7,7 @@
 
 ## 2026-11-20
 
+- [OpenAIの研究加速報告：エージェントの成功率はタスクで異なる](../surveys/articles/2026-openai-research-acceleration-jagged-frontier.ja.md)
 - [ShinkaEvolve：LLMで候補プログラムを効率よく探索する](../surveys/coding-agents/2025-sakana-shinkaevolve.ja.md)
 
 ## 2026-11-19
