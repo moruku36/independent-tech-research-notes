@@ -7,6 +7,7 @@
 
 ## 2026-11-20追加
 
+- [Ignite 2026のAzure発表：展開・運用・データ基盤](2026-azure-ignite-platform-announcements.ja.md) — 公式発表。発表時点の機能別の提供段階を確認。
 - [OpenAIの研究加速報告：エージェントの成功率はタスクで異なる](2026-openai-research-acceleration-jagged-frontier.ja.md) — 企業の調査報告。タスク成功率の推定、利用量の定価換算、研究活動の指標を確認。
 
 ## 2026-11-18追加

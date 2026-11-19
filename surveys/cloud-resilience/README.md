@@ -4,6 +4,10 @@
 
 Papers on fault injection, recovery decisions, safety and experiment coordination.
 
+## Added 2026-11-20
+
+- [OpenAI Performance Factory: investigating and verifying regressions](2026-openai-performance-factory-regression-workflow.md) — Engineering account. Incident workflow, human release review, and backtest scope.
+
 ## Added 2026-11-19
 
 - [AWS Emulator on WSL2: S3 and Lambda behavior](2026-aws-emulator-wsl2-s3-lambda.md) — Practitioner report. Local S3 and Lambda behavior and IAM fidelity limits.

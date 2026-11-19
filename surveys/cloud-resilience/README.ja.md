@@ -4,6 +4,10 @@
 
 障害注入、復旧判定、実験の安全・協調を扱う論文。
 
+## 2026-11-20追加
+
+- [OpenAI Performance Factoryの性能劣化調査と復旧確認](2026-openai-performance-factory-regression-workflow.ja.md) — 運用実践記事。性能劣化の調査、人による出荷判断、過去事例での評価。
+
 ## 2026-11-19追加
 
 - [WSL2上のAWS Emulatorで確かめたS3とLambdaの挙動](2026-aws-emulator-wsl2-s3-lambda.ja.md) — 実践記事。S3とLambdaのローカル動作、IAMの再現範囲を確認。

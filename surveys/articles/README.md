@@ -7,6 +7,7 @@ Vendor reports, conference recaps and company articles appear alongside a work/l
 
 ## Added 2026-11-20
 
+- [Azure at Ignite 2026: deployment, operations, and data](2026-azure-ignite-platform-announcements.md) — Vendor announcement. Availability checked by feature at launch.
 - [Research acceleration: The jagged frontier](2026-openai-research-acceleration-jagged-frontier.md) — Company research report. Estimated task success, usage valuation, and research output proxies.
 
 ## Added 2026-11-18
