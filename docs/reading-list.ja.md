@@ -9,6 +9,7 @@
 
 ## 2026-11-20追加
 
+- [OpenAIの研究加速報告：エージェントの成功率はタスクで異なる](../surveys/articles/2026-openai-research-acceleration-jagged-frontier.ja.md) — 企業の調査報告。タスク成功率の推定、利用量の定価換算、研究活動の指標を確認。
 - [ShinkaEvolve：LLMで候補プログラムを効率よく探索する](../surveys/coding-agents/2025-sakana-shinkaevolve.ja.md) — プレプリントv1。進化的探索、評価の予算、転移の範囲を確認。
 
 ## 2026-11-19追加

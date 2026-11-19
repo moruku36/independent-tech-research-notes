@@ -9,6 +9,7 @@
 
 ## Added 2026-11-20
 
+- [Research acceleration: The jagged frontier](../surveys/articles/2026-openai-research-acceleration-jagged-frontier.md) — Company research report. Estimated task success, usage valuation, and research output proxies.
 - [ShinkaEvolve: sample-efficient program search with LLMs](../surveys/coding-agents/2025-sakana-shinkaevolve.md) — Preprint v1. Evolutionary search, evaluation budgets, and transfer limits.
 
 ## Added 2026-11-19
