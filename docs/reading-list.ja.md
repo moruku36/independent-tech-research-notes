@@ -7,6 +7,10 @@
 
 
 
+## 2026-11-20追加
+
+- [ShinkaEvolve：LLMで候補プログラムを効率よく探索する](../surveys/coding-agents/2025-sakana-shinkaevolve.ja.md) — プレプリントv1。進化的探索、評価の予算、転移の範囲を確認。
+
 ## 2026-11-19追加
 
 - [WSL2上のAWS Emulatorで確かめたS3とLambdaの挙動](../surveys/cloud-resilience/2026-aws-emulator-wsl2-s3-lambda.ja.md) — 実践記事。S3とLambdaのローカル動作、IAMの再現範囲を確認。

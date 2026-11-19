@@ -5,6 +5,10 @@
 Newest first. Earlier entries use dates recorded as additions in the reading list; these do not establish the user's actual reading dates. Undated entries are omitted.
 
 
+## 2026-11-20
+
+- [ShinkaEvolve: sample-efficient program search with LLMs](../surveys/coding-agents/2025-sakana-shinkaevolve.md)
+
 ## 2026-11-19
 
 - [AWS Emulator on WSL2: S3 and Lambda behavior](../surveys/cloud-resilience/2026-aws-emulator-wsl2-s3-lambda.md)
