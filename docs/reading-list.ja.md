@@ -7,6 +7,11 @@
 
 
 
+## 2026-11-21追加
+
+- [MetaのAI for Scienceサミット：公開資源と確認できた範囲](../surveys/articles/2026-meta-open-source-ai-for-science-summit.ja.md) — 主催者の開催報告。収集目標、公開ツール、確認範囲を整理。
+- [欧州向けGoogle Cloud Sovereign AI：運用主体と統制の範囲](../surveys/security-governance/2026-google-cloud-sovereign-ai-europe.ja.md) — 提供元・パートナーの発表。運用形態、鍵の管理、認定範囲を確認。
+
 ## 2026-11-20追加
 
 - [A Society of AI Scientists：研究エージェントの協働と検証](../surveys/coding-agents/2026-society-of-ai-scientists.ja.md) — 技術報告。研究エージェントの協働、査読の根拠、公開データの範囲。

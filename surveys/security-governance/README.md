@@ -4,6 +4,10 @@
 
 Organizational security questions around GenAI, cryptographic migration, and multi-cloud control consistency.
 
+## Added 2026-11-21
+
+- [Google Cloud sovereign AI in Europe: deployment and control boundaries](2026-google-cloud-sovereign-ai-europe.md) — Vendor and partner announcements. Deployment, key controls, and qualification scope.
+
 ## Added 2026-11-18
 
 - [Microsoft Perception: agentic security and evidence boundaries](2026-microsoft-perception-ignite.md) — Official product article. Coverage, partner benchmark attribution, and preview scope separated.

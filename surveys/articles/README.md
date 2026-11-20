@@ -5,6 +5,10 @@
 Vendor reports, conference recaps and company articles appear alongside a work/labor academic paper. The paper is labeled and counted separately from articles.
 
 
+## Added 2026-11-21
+
+- [Meta’s Open Source AI for Science Summit: resources and evidence](2026-meta-open-source-ai-for-science-summit.md) — Organizer recap. Project targets, public tooling, and evidence scope.
+
 ## Added 2026-11-20
 
 - [Azure at Ignite 2026: deployment, operations, and data](2026-azure-ignite-platform-announcements.md) — Vendor announcement. Availability checked by feature at launch.
