@@ -9,6 +9,7 @@
 
 ## Added 2026-11-21
 
+- [Recursive language model harnesses and compositional generalization](../surveys/llm-infrastructure/2026-rlm-harness-compositional-generalization.md) — Preprint v1. Length and strategy transfer, surrogate training, and the token comparison in Tables 4–5.
 - [OpenAI’s adversarial distillation defenses and evaluation](../surveys/security-governance/2026-openai-adversarial-distillation-defenses.md) — Company safety report. Request protections, campaign enforcement, and evaluation scope.
 - [Meta’s Open Source AI for Science Summit: resources and evidence](../surveys/articles/2026-meta-open-source-ai-for-science-summit.md) — Organizer recap. Project targets, public tooling, and evidence scope.
 - [Google Cloud sovereign AI in Europe: deployment and control boundaries](../surveys/security-governance/2026-google-cloud-sovereign-ai-europe.md) — Vendor and partner announcements. Deployment, key controls, and qualification scope.
