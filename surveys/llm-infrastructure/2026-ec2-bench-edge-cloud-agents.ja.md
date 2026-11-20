@@ -38,5 +38,6 @@ Pengcheng Huang、Zhenghao Liu、Shixin Ren、Shi Yu、Sijia Yao、Yukun Yan、C
 
 - [arXiv record](https://arxiv.org/abs/2610.17816)
 - [Inspected v2](https://arxiv.org/html/2610.17816v2)
+- [ベンチマークのコードと評価環境](https://github.com/OpenBMB/EC2-Bench) · [公開タスク定義](https://huggingface.co/datasets/chengpingan/EC2-Bench/viewer/default/test)
 
 [テーマ索引](README.ja.md) | [読書一覧](../../docs/reading-list.ja.md)
