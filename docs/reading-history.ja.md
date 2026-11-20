@@ -7,6 +7,7 @@
 
 ## 2026-11-21
 
+- [OpenAIの敵対的蒸留対策と評価の読み方](../surveys/security-governance/2026-openai-adversarial-distillation-defenses.ja.md)
 - [MetaのAI for Scienceサミット：公開資源と確認できた範囲](../surveys/articles/2026-meta-open-source-ai-for-science-summit.ja.md)
 - [欧州向けGoogle Cloud Sovereign AI：運用主体と統制の範囲](../surveys/security-governance/2026-google-cloud-sovereign-ai-europe.ja.md)
 
