@@ -7,6 +7,7 @@ Benchmarks and industrial studies of AI coding assistants, automated repair, and
 
 ## Added 2026-11-20
 
+- [A Society of AI Scientists: collaboration, review, and evidence](2026-society-of-ai-scientists.md) — Technical report. Agent research, review evidence, and public dataset coverage.
 - [GUARD: regression-aware harness updates with frozen models](2026-guard-regret-guided-harness-improvement.md) — Preprint v1. Regression-aware harness edits, gate evidence, and inference cost limits.
 - [ShinkaEvolve: sample-efficient program search with LLMs](2025-sakana-shinkaevolve.md) — Preprint v1. Evolutionary search, evaluation budgets, and transfer limits.
 

@@ -7,6 +7,7 @@ AIコーディング支援・自動修復・自動レビューのベンチマー
 
 ## 2026-11-20追加
 
+- [A Society of AI Scientists：研究エージェントの協働と検証](2026-society-of-ai-scientists.ja.md) — 技術報告。研究エージェントの協働、査読の根拠、公開データの範囲。
 - [GUARD：モデルの重みを固定し、回帰を見ながらハーネスを更新する](2026-guard-regret-guided-harness-improvement.ja.md) — プレプリントv1。回帰を考慮したハーネス更新、採用判定の根拠、推論コスト比較の範囲。
 - [ShinkaEvolve：LLMで候補プログラムを効率よく探索する](2025-sakana-shinkaevolve.ja.md) — プレプリントv1。進化的探索、評価の予算、転移の範囲を確認。
 
