@@ -38,5 +38,6 @@ Proposed, untried. Label fictitious sensitive units in a small workspace and rec
 
 - [arXiv record](https://arxiv.org/abs/2610.17816)
 - [Inspected v2](https://arxiv.org/html/2610.17816v2)
+- [Benchmark code and evaluation harness](https://github.com/OpenBMB/EC2-Bench) · [Public task definitions](https://huggingface.co/datasets/chengpingan/EC2-Bench/viewer/default/test)
 
 [Theme index](README.md) | [Reading list](../../docs/reading-list.md)
