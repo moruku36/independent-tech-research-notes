@@ -9,6 +9,7 @@
 
 ## 2026-11-20追加
 
+- [A Society of AI Scientists：研究エージェントの協働と検証](../surveys/coding-agents/2026-society-of-ai-scientists.ja.md) — 技術報告。研究エージェントの協働、査読の根拠、公開データの範囲。
 - [Attention Is All You Need：Transformerの原著](../surveys/llm-infrastructure/2017-attention-is-all-you-need.ja.md) — NeurIPS 2017論文。注意機構、学習条件、英仏BLEUの記載差を確認。
 - [GUARD：モデルの重みを固定し、回帰を見ながらハーネスを更新する](../surveys/coding-agents/2026-guard-regret-guided-harness-improvement.ja.md) — プレプリントv1。回帰を考慮したハーネス更新、採用判定の根拠、推論コスト比較の範囲。
 - [意図が曖昧な依頼に対するLLMの安全性評価](../surveys/agent-safety/2026-llm-ambiguous-intent-safety-evaluation.ja.md) — プレプリントv1。自動判定、フィルター通過率、正当な利用への影響の測定範囲。
