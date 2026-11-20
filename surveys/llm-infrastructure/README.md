@@ -5,6 +5,10 @@
 Hardware choices, scheduling, KV cache control, and long-term memory retrieval.
 
 
+## Added 2026-11-21
+
+- [Recursive language model harnesses and compositional generalization](2026-rlm-harness-compositional-generalization.md) — Preprint v1. Length and strategy transfer, surrogate training, and the token comparison in Tables 4–5.
+
 ## Added 2026-11-20
 
 - [Attention Is All You Need: the original Transformer](2017-attention-is-all-you-need.md) — NeurIPS 2017. Attention architecture, training conditions, and English–French BLEU discrepancy.

@@ -5,6 +5,10 @@
 LLM推論のハードウェア選択、スケジューリング、KVキャッシュ制御、長期記憶検索。
 
 
+## 2026-11-21追加
+
+- [再帰型言語モデルのハーネスと合成的汎化](2026-rlm-harness-compositional-generalization.ja.md) — プレプリントv1。長さと解法の転移、代理環境での学習、表4・5の得点とトークン数を確認。
+
 ## 2026-11-20追加
 
 - [Attention Is All You Need：Transformerの原著](2017-attention-is-all-you-need.ja.md) — NeurIPS 2017論文。注意機構、学習条件、英仏BLEUの記載差を確認。
