@@ -4,6 +4,10 @@
 
 GenAI利用・暗号移行・マルチクラウド統制の一貫性をめぐる、組織面のセキュリティの問い。
 
+## 2026-11-21追加
+
+- [欧州向けGoogle Cloud Sovereign AI：運用主体と統制の範囲](2026-google-cloud-sovereign-ai-europe.ja.md) — 提供元・パートナーの発表。運用形態、鍵の管理、認定範囲を確認。
+
 ## 2026-11-18追加
 
 - [Microsoft Perception：エージェント型セキュリティと検証の範囲](2026-microsoft-perception-ignite.ja.md) — 公式製品記事。対象範囲、パートナー評価の引用、プレビュー範囲を区別。

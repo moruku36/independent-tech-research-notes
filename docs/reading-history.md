@@ -5,6 +5,11 @@
 Newest first. Earlier entries use dates recorded as additions in the reading list; these do not establish the user's actual reading dates. Undated entries are omitted.
 
 
+## 2026-11-21
+
+- [Meta’s Open Source AI for Science Summit: resources and evidence](../surveys/articles/2026-meta-open-source-ai-for-science-summit.md)
+- [Google Cloud sovereign AI in Europe: deployment and control boundaries](../surveys/security-governance/2026-google-cloud-sovereign-ai-europe.md)
+
 ## 2026-11-20
 
 - [A Society of AI Scientists: collaboration, review, and evidence](../surveys/coding-agents/2026-society-of-ai-scientists.md)

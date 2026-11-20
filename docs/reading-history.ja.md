@@ -5,6 +5,11 @@
 新しい日付順。過去分は既存の読書一覧に記された追加日を使用し、本人の読了日を保証するものではありません。日付が特定できない資料は省いています。
 
 
+## 2026-11-21
+
+- [MetaのAI for Scienceサミット：公開資源と確認できた範囲](../surveys/articles/2026-meta-open-source-ai-for-science-summit.ja.md)
+- [欧州向けGoogle Cloud Sovereign AI：運用主体と統制の範囲](../surveys/security-governance/2026-google-cloud-sovereign-ai-europe.ja.md)
+
 ## 2026-11-20
 
 - [A Society of AI Scientists：研究エージェントの協働と検証](../surveys/coding-agents/2026-society-of-ai-scientists.ja.md)
