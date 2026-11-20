@@ -7,6 +7,7 @@
 
 ## 2026-11-20
 
+- [Attention Is All You Need：Transformerの原著](../surveys/llm-infrastructure/2017-attention-is-all-you-need.ja.md)
 - [GUARD：モデルの重みを固定し、回帰を見ながらハーネスを更新する](../surveys/coding-agents/2026-guard-regret-guided-harness-improvement.ja.md)
 - [意図が曖昧な依頼に対するLLMの安全性評価](../surveys/agent-safety/2026-llm-ambiguous-intent-safety-evaluation.ja.md)
 - [OpenAIのフロンティアAIリスク管理：訓練から公開まで](../surveys/agent-safety/2026-openai-frontier-risk-model-lifecycle.ja.md)

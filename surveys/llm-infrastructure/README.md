@@ -5,6 +5,10 @@
 Hardware choices, scheduling, KV cache control, and long-term memory retrieval.
 
 
+## Added 2026-11-20
+
+- [Attention Is All You Need: the original Transformer](2017-attention-is-all-you-need.md) — NeurIPS 2017. Attention architecture, training conditions, and English–French BLEU discrepancy.
+
 ## Added 2026-11-19
 
 - [Azure Cobalt 200 VMs: workload performance and availability](2026-azure-cobalt-200-vm-workload-performance.md) — Official launch announcement. Regional availability and vendor workload comparisons.

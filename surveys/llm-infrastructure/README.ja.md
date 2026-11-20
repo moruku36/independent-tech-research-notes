@@ -5,6 +5,10 @@
 LLM推論のハードウェア選択、スケジューリング、KVキャッシュ制御、長期記憶検索。
 
 
+## 2026-11-20追加
+
+- [Attention Is All You Need：Transformerの原著](2017-attention-is-all-you-need.ja.md) — NeurIPS 2017論文。注意機構、学習条件、英仏BLEUの記載差を確認。
+
 ## 2026-11-19追加
 
 - [Azure Cobalt 200 VMのワークロード性能と提供範囲](2026-azure-cobalt-200-vm-workload-performance.ja.md) — 公式発表。提供リージョンとベンダーによるワークロード比較を確認。
