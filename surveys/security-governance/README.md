@@ -6,6 +6,7 @@ Organizational security questions around GenAI, cryptographic migration, and mul
 
 ## Added 2026-11-21
 
+- [OpenAI’s adversarial distillation defenses and evaluation](2026-openai-adversarial-distillation-defenses.md) — Company safety report. Request protections, campaign enforcement, and evaluation scope.
 - [Google Cloud sovereign AI in Europe: deployment and control boundaries](2026-google-cloud-sovereign-ai-europe.md) — Vendor and partner announcements. Deployment, key controls, and qualification scope.
 
 ## Added 2026-11-18

@@ -9,6 +9,7 @@
 
 ## 2026-11-21追加
 
+- [OpenAIの敵対的蒸留対策と評価の読み方](../surveys/security-governance/2026-openai-adversarial-distillation-defenses.ja.md) — 企業の安全性報告。個別リクエストの保護、不正利用への措置、評価範囲を確認。
 - [MetaのAI for Scienceサミット：公開資源と確認できた範囲](../surveys/articles/2026-meta-open-source-ai-for-science-summit.ja.md) — 主催者の開催報告。収集目標、公開ツール、確認範囲を整理。
 - [欧州向けGoogle Cloud Sovereign AI：運用主体と統制の範囲](../surveys/security-governance/2026-google-cloud-sovereign-ai-europe.ja.md) — 提供元・パートナーの発表。運用形態、鍵の管理、認定範囲を確認。
 

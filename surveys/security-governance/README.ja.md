@@ -6,6 +6,7 @@ GenAI利用・暗号移行・マルチクラウド統制の一貫性をめぐる
 
 ## 2026-11-21追加
 
+- [OpenAIの敵対的蒸留対策と評価の読み方](2026-openai-adversarial-distillation-defenses.ja.md) — 企業の安全性報告。個別リクエストの保護、不正利用への措置、評価範囲を確認。
 - [欧州向けGoogle Cloud Sovereign AI：運用主体と統制の範囲](2026-google-cloud-sovereign-ai-europe.ja.md) — 提供元・パートナーの発表。運用形態、鍵の管理、認定範囲を確認。
 
 ## 2026-11-18追加
