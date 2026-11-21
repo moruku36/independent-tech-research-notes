@@ -7,6 +7,11 @@
 
 
 
+## Added 2026-11-22
+
+- [Inkling 2 Mini: looped inference and local deployment](../surveys/llm-infrastructure/2026-thinking-machines-inkling-2-mini.md) — Vendor release and model card. Repeated layer computation, local memory requirements, and monitorability evidence.
+- [Language models editing their own weights: independent trials and held-out gains](../surveys/coding-agents/2026-language-models-self-rewrite-weights.md) — Preprint v2. Gradient-free weight edits, matched evaluation, and the limits of apparent sequential gains.
+
 ## Added 2026-11-21
 
 - [Microsoft AI at Ignite 2026: model benchmarks, pricing, and access](../surveys/articles/2026-microsoft-ai-ignite-mai-models.md) — Vendor announcement. Coding evaluation and promotional prices, product availability, and licensed deployment.
