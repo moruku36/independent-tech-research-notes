@@ -4,6 +4,10 @@
 
 Organizational security questions around GenAI, cryptographic migration, and multi-cloud control consistency.
 
+## Added 2026-11-22
+
+- [LLM vulnerability research: evidence, disclosures, and defensive response](2026-sok-llm-vulnerability-evidence.md) — SoK preprint v1. Evidence grading, matched-period CVE counts, and remediation limits.
+
 ## Added 2026-11-21
 
 - [OpenAI’s adversarial distillation defenses and evaluation](2026-openai-adversarial-distillation-defenses.md) — Company safety report. Request protections, campaign enforcement, and evaluation scope.

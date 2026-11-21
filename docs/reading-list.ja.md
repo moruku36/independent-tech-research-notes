@@ -9,6 +9,9 @@
 
 ## 2026-11-22追加
 
+- [LLMによる脆弱性研究：実証の根拠、公開記録、防御側の対応](../surveys/security-governance/2026-sok-llm-vulnerability-evidence.ja.md) — 体系化研究のプレプリントv1。証拠の格付け、同期間のCVE件数、修正・対策評価の範囲を確認。
+- [HardwareDx：グラフによる障害診断とデータセンターの修理時間](../surveys/cloud-resilience/2026-google-hardwaredx-datacenter-repair.ja.md) — 論文v1。本番の機器単位A/B、修理時間とQAの定義、転移学習の範囲を確認。
+- [Skillware：型付き機能の実行とベンチマークの限界](../surveys/coding-agents/2026-skillware-typed-agent-capabilities.ja.md) — プレプリントv1。型付きの機能、3つの比較条件、費用集計の単位差を確認。
 - [Inkling 2 Mini：中間層を反復する推論とローカル実行](../surveys/llm-infrastructure/2026-thinking-machines-inkling-2-mini.ja.md) — 提供元の発表とモデルカード。中間層の反復、ローカル実行のメモリ条件、監視評価の範囲を確認。
 - [言語モデルによる自身の重み編集：独立試行と未見問題での改善](../surveys/coding-agents/2026-language-models-self-rewrite-weights.ja.md) — プレプリントv2。勾配を使わない重み編集、対応比較、試行を重ねた改善の範囲を確認。
 

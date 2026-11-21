@@ -4,6 +4,10 @@
 
 Papers on fault injection, recovery decisions, safety and experiment coordination.
 
+## Added 2026-11-22
+
+- [HardwareDx: graph-based diagnosis and repair time in datacenters](2026-google-hardwaredx-datacenter-repair.md) — Paper v1. Machine-level production A/B, repair-time and QA definitions, and transfer scope.
+
 ## Added 2026-11-20
 
 - [OpenAI Performance Factory: investigating and verifying regressions](2026-openai-performance-factory-regression-workflow.md) — Engineering account. Incident workflow, human release review, and backtest scope.

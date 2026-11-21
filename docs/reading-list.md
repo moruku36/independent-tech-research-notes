@@ -9,6 +9,9 @@
 
 ## Added 2026-11-22
 
+- [LLM vulnerability research: evidence, disclosures, and defensive response](../surveys/security-governance/2026-sok-llm-vulnerability-evidence.md) — SoK preprint v1. Evidence grading, matched-period CVE counts, and remediation limits.
+- [HardwareDx: graph-based diagnosis and repair time in datacenters](../surveys/cloud-resilience/2026-google-hardwaredx-datacenter-repair.md) — Paper v1. Machine-level production A/B, repair-time and QA definitions, and transfer scope.
+- [Skillware: typed capability bundles and their benchmark limits](../surveys/coding-agents/2026-skillware-typed-agent-capabilities.md) — Preprint v1. Typed capabilities, three benchmark arms, and inconsistent cost units.
 - [Inkling 2 Mini: looped inference and local deployment](../surveys/llm-infrastructure/2026-thinking-machines-inkling-2-mini.md) — Vendor release and model card. Repeated layer computation, local memory requirements, and monitorability evidence.
 - [Language models editing their own weights: independent trials and held-out gains](../surveys/coding-agents/2026-language-models-self-rewrite-weights.md) — Preprint v2. Gradient-free weight edits, matched evaluation, and the limits of apparent sequential gains.
 

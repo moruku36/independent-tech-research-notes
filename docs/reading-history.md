@@ -7,6 +7,9 @@ Newest first. Earlier entries use dates recorded as additions in the reading lis
 
 ## 2026-11-22
 
+- [LLM vulnerability research: evidence, disclosures, and defensive response](../surveys/security-governance/2026-sok-llm-vulnerability-evidence.md)
+- [HardwareDx: graph-based diagnosis and repair time in datacenters](../surveys/cloud-resilience/2026-google-hardwaredx-datacenter-repair.md)
+- [Skillware: typed capability bundles and their benchmark limits](../surveys/coding-agents/2026-skillware-typed-agent-capabilities.md)
 - [Inkling 2 Mini: looped inference and local deployment](../surveys/llm-infrastructure/2026-thinking-machines-inkling-2-mini.md)
 - [Language models editing their own weights: independent trials and held-out gains](../surveys/coding-agents/2026-language-models-self-rewrite-weights.md)
 

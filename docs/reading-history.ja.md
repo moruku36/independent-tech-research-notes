@@ -7,6 +7,9 @@
 
 ## 2026-11-22
 
+- [LLMによる脆弱性研究：実証の根拠、公開記録、防御側の対応](../surveys/security-governance/2026-sok-llm-vulnerability-evidence.ja.md)
+- [HardwareDx：グラフによる障害診断とデータセンターの修理時間](../surveys/cloud-resilience/2026-google-hardwaredx-datacenter-repair.ja.md)
+- [Skillware：型付き機能の実行とベンチマークの限界](../surveys/coding-agents/2026-skillware-typed-agent-capabilities.ja.md)
 - [Inkling 2 Mini：中間層を反復する推論とローカル実行](../surveys/llm-infrastructure/2026-thinking-machines-inkling-2-mini.ja.md)
 - [言語モデルによる自身の重み編集：独立試行と未見問題での改善](../surveys/coding-agents/2026-language-models-self-rewrite-weights.ja.md)
 
