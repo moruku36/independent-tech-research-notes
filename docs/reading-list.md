@@ -9,6 +9,7 @@
 
 ## Added 2026-11-21
 
+- [Microsoft AI at Ignite 2026: model benchmarks, pricing, and access](../surveys/articles/2026-microsoft-ai-ignite-mai-models.md) — Vendor announcement. Coding evaluation and promotional prices, product availability, and licensed deployment.
 - [Recursive language model harnesses and compositional generalization](../surveys/llm-infrastructure/2026-rlm-harness-compositional-generalization.md) — Preprint v1. Length and strategy transfer, surrogate training, and the token comparison in Tables 4–5.
 - [OpenAI’s adversarial distillation defenses and evaluation](../surveys/security-governance/2026-openai-adversarial-distillation-defenses.md) — Company safety report. Request protections, campaign enforcement, and evaluation scope.
 - [Meta’s Open Source AI for Science Summit: resources and evidence](../surveys/articles/2026-meta-open-source-ai-for-science-summit.md) — Organizer recap. Project targets, public tooling, and evidence scope.

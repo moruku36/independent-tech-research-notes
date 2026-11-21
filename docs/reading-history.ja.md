@@ -7,6 +7,7 @@
 
 ## 2026-11-21
 
+- [Ignite 2026のMicrosoft AI：モデル評価・料金・提供条件](../surveys/articles/2026-microsoft-ai-ignite-mai-models.ja.md)
 - [再帰型言語モデルのハーネスと合成的汎化](../surveys/llm-infrastructure/2026-rlm-harness-compositional-generalization.ja.md)
 - [OpenAIの敵対的蒸留対策と評価の読み方](../surveys/security-governance/2026-openai-adversarial-distillation-defenses.ja.md)
 - [MetaのAI for Scienceサミット：公開資源と確認できた範囲](../surveys/articles/2026-meta-open-source-ai-for-science-summit.ja.md)
