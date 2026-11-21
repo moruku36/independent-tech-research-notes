@@ -7,6 +7,11 @@
 
 
 
+## 2026-11-22追加
+
+- [Inkling 2 Mini：中間層を反復する推論とローカル実行](../surveys/llm-infrastructure/2026-thinking-machines-inkling-2-mini.ja.md) — 提供元の発表とモデルカード。中間層の反復、ローカル実行のメモリ条件、監視評価の範囲を確認。
+- [言語モデルによる自身の重み編集：独立試行と未見問題での改善](../surveys/coding-agents/2026-language-models-self-rewrite-weights.ja.md) — プレプリントv2。勾配を使わない重み編集、対応比較、試行を重ねた改善の範囲を確認。
+
 ## 2026-11-21追加
 
 - [Ignite 2026のMicrosoft AI：モデル評価・料金・提供条件](../surveys/articles/2026-microsoft-ai-ignite-mai-models.ja.md) — 提供元の発表。コーディング評価と割引価格、提供段階、ライセンス展開を確認。

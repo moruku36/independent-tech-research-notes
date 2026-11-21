@@ -5,6 +5,10 @@
 Benchmarks and industrial studies of AI coding assistants, automated repair, and automated review.
 
 
+## Added 2026-11-22
+
+- [Language models editing their own weights: independent trials and held-out gains](2026-language-models-self-rewrite-weights.md) — Preprint v2. Gradient-free weight edits, matched evaluation, and the limits of apparent sequential gains.
+
 ## Added 2026-11-20
 
 - [A Society of AI Scientists: collaboration, review, and evidence](2026-society-of-ai-scientists.md) — Technical report. Agent research, review evidence, and public dataset coverage.

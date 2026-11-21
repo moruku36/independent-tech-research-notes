@@ -5,6 +5,11 @@
 Newest first. Earlier entries use dates recorded as additions in the reading list; these do not establish the user's actual reading dates. Undated entries are omitted.
 
 
+## 2026-11-22
+
+- [Inkling 2 Mini: looped inference and local deployment](../surveys/llm-infrastructure/2026-thinking-machines-inkling-2-mini.md)
+- [Language models editing their own weights: independent trials and held-out gains](../surveys/coding-agents/2026-language-models-self-rewrite-weights.md)
+
 ## 2026-11-21
 
 - [Microsoft AI at Ignite 2026: model benchmarks, pricing, and access](../surveys/articles/2026-microsoft-ai-ignite-mai-models.md)

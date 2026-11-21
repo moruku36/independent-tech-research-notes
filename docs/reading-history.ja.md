@@ -5,6 +5,11 @@
 新しい日付順。過去分は既存の読書一覧に記された追加日を使用し、本人の読了日を保証するものではありません。日付が特定できない資料は省いています。
 
 
+## 2026-11-22
+
+- [Inkling 2 Mini：中間層を反復する推論とローカル実行](../surveys/llm-infrastructure/2026-thinking-machines-inkling-2-mini.ja.md)
+- [言語モデルによる自身の重み編集：独立試行と未見問題での改善](../surveys/coding-agents/2026-language-models-self-rewrite-weights.ja.md)
+
 ## 2026-11-21
 
 - [Ignite 2026のMicrosoft AI：モデル評価・料金・提供条件](../surveys/articles/2026-microsoft-ai-ignite-mai-models.ja.md)
