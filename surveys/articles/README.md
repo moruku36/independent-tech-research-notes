@@ -7,6 +7,7 @@ Vendor reports, conference recaps and company articles appear alongside a work/l
 
 ## Added 2026-11-21
 
+- [Microsoft AI at Ignite 2026: model benchmarks, pricing, and access](2026-microsoft-ai-ignite-mai-models.md) — Vendor announcement. Coding evaluation and promotional prices, product availability, and licensed deployment.
 - [Meta’s Open Source AI for Science Summit: resources and evidence](2026-meta-open-source-ai-for-science-summit.md) — Organizer recap. Project targets, public tooling, and evidence scope.
 
 ## Added 2026-11-20

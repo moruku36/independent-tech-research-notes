@@ -7,6 +7,7 @@
 
 ## 2026-11-21追加
 
+- [Ignite 2026のMicrosoft AI：モデル評価・料金・提供条件](2026-microsoft-ai-ignite-mai-models.ja.md) — 提供元の発表。コーディング評価と割引価格、提供段階、ライセンス展開を確認。
 - [MetaのAI for Scienceサミット：公開資源と確認できた範囲](2026-meta-open-source-ai-for-science-summit.ja.md) — 主催者の開催報告。収集目標、公開ツール、確認範囲を整理。
 
 ## 2026-11-20追加
