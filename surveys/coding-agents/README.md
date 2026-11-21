@@ -7,6 +7,7 @@ Benchmarks and industrial studies of AI coding assistants, automated repair, and
 
 ## Added 2026-11-22
 
+- [Skillware: typed capability bundles and their benchmark limits](2026-skillware-typed-agent-capabilities.md) — Preprint v1. Typed capabilities, three benchmark arms, and inconsistent cost units.
 - [Language models editing their own weights: independent trials and held-out gains](2026-language-models-self-rewrite-weights.md) — Preprint v2. Gradient-free weight edits, matched evaluation, and the limits of apparent sequential gains.
 
 ## Added 2026-11-20
