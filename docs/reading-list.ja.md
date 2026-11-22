@@ -7,6 +7,10 @@
 
 
 
+## 2026-11-23追加
+
+- [Meta Muse：エージェントの隔離と会話・認証情報の保護](../surveys/agent-safety/2026-nebusec-meta-muse-isolation-credential-risk.ja.md) — セキュリティ研究報告。エージェントの隔離、非公開情報へのアクセス、修正報告の範囲を確認。
+
 ## 2026-11-22追加
 
 - [Sakana AIのセキュリティ研究グループ：設計での予防と集合的な防御](../surveys/security-governance/2026-sakana-ai-security-research-group.ja.md) — 組織設立発表。設計段階の予防、集合的な防御、公開統計の範囲を確認。

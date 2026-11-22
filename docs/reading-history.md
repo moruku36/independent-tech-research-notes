@@ -5,6 +5,10 @@
 Newest first. Earlier entries use dates recorded as additions in the reading list; these do not establish the user's actual reading dates. Undated entries are omitted.
 
 
+## 2026-11-23
+
+- [Meta Muse: agent isolation, private data, and credential storage](../surveys/agent-safety/2026-nebusec-meta-muse-isolation-credential-risk.md)
+
 ## 2026-11-22
 
 - [Sakana AI’s Security Research Group: prevention and collective defense](../surveys/security-governance/2026-sakana-ai-security-research-group.md)

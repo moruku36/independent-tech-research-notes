@@ -5,6 +5,10 @@
 新しい日付順。過去分は既存の読書一覧に記された追加日を使用し、本人の読了日を保証するものではありません。日付が特定できない資料は省いています。
 
 
+## 2026-11-23
+
+- [Meta Muse：エージェントの隔離と会話・認証情報の保護](../surveys/agent-safety/2026-nebusec-meta-muse-isolation-credential-risk.ja.md)
+
 ## 2026-11-22
 
 - [Sakana AIのセキュリティ研究グループ：設計での予防と集合的な防御](../surveys/security-governance/2026-sakana-ai-security-research-group.ja.md)
