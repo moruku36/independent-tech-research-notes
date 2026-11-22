@@ -6,6 +6,7 @@ Whether AI agents act outside their authorization, and how they can be attacked 
 
 ## Added 2026-11-23
 
+- [ROGUE-AI: matched controls for auditing agent incidents](2026-rogue-ai-incident-audit-controls.md) — Preprint v1. Offline audit, distinct replication denominators, and operational hazards.
 - [Meta Muse: agent isolation, private data, and credential storage](2026-nebusec-meta-muse-isolation-credential-risk.md) — Security research report. Agent isolation, private-data access, and the scope of the reported fix.
 
 ## Added 2026-11-20

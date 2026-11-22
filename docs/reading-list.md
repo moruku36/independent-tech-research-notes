@@ -9,6 +9,10 @@
 
 ## Added 2026-11-23
 
+- [MCP security controls across server, gateway, and protocol](../surveys/security-governance/2026-mcp-security-three-tier-mitigation.md) — Preprint v1. Three-tier control ownership and the limits of a single case study.
+- [ROGUE-AI: matched controls for auditing agent incidents](../surveys/agent-safety/2026-rogue-ai-incident-audit-controls.md) — Preprint v1. Offline audit, distinct replication denominators, and operational hazards.
+- [Envoy for agent traffic: token budgets, model routing, and MCP](../surveys/llm-infrastructure/2026-google-cloud-envoy-agentic-stack.md) — Google Cloud architecture article. Token accounting, cache-aware routing, and external policy boundaries.
+- [Perplexity and intelligence: pretraining measurement and safety proposals](../surveys/articles/2026-openai-perplexity-intelligence.md) — OpenAI commentary. Internal code benchmark, comparisons across labs, and proposed safety milestones.
 - [Meta Muse: agent isolation, private data, and credential storage](../surveys/agent-safety/2026-nebusec-meta-muse-isolation-credential-risk.md) — Security research report. Agent isolation, private-data access, and the scope of the reported fix.
 
 ## Added 2026-11-22

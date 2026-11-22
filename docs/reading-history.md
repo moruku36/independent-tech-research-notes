@@ -7,6 +7,10 @@ Newest first. Earlier entries use dates recorded as additions in the reading lis
 
 ## 2026-11-23
 
+- [MCP security controls across server, gateway, and protocol](../surveys/security-governance/2026-mcp-security-three-tier-mitigation.md)
+- [ROGUE-AI: matched controls for auditing agent incidents](../surveys/agent-safety/2026-rogue-ai-incident-audit-controls.md)
+- [Envoy for agent traffic: token budgets, model routing, and MCP](../surveys/llm-infrastructure/2026-google-cloud-envoy-agentic-stack.md)
+- [Perplexity and intelligence: pretraining measurement and safety proposals](../surveys/articles/2026-openai-perplexity-intelligence.md)
 - [Meta Muse: agent isolation, private data, and credential storage](../surveys/agent-safety/2026-nebusec-meta-muse-isolation-credential-risk.md)
 
 ## 2026-11-22

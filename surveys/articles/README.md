@@ -5,6 +5,10 @@
 Vendor reports, conference recaps and company articles appear alongside a work/labor academic paper. The paper is labeled and counted separately from articles.
 
 
+## Added 2026-11-23
+
+- [Perplexity and intelligence: pretraining measurement and safety proposals](2026-openai-perplexity-intelligence.md) — OpenAI commentary. Internal code benchmark, comparisons across labs, and proposed safety milestones.
+
 ## Added 2026-11-21
 
 - [Microsoft AI at Ignite 2026: model benchmarks, pricing, and access](2026-microsoft-ai-ignite-mai-models.md) — Vendor announcement. Coding evaluation and promotional prices, product availability, and licensed deployment.

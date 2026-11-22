@@ -5,6 +5,10 @@
 Hardware choices, scheduling, KV cache control, and long-term memory retrieval.
 
 
+## Added 2026-11-23
+
+- [Envoy for agent traffic: token budgets, model routing, and MCP](2026-google-cloud-envoy-agentic-stack.md) — Google Cloud architecture article. Token accounting, cache-aware routing, and external policy boundaries.
+
 ## Added 2026-11-22
 
 - [Inkling 2 Mini: looped inference and local deployment](2026-thinking-machines-inkling-2-mini.md) — Vendor release and model card. Repeated layer computation, local memory requirements, and monitorability evidence.

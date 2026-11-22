@@ -7,6 +7,10 @@
 
 ## 2026-11-23
 
+- [MCPのセキュリティ対策をサーバー・ゲートウェイ・プロトコルで分担する](../surveys/security-governance/2026-mcp-security-three-tier-mitigation.ja.md)
+- [ROGUE-AI：条件をそろえた比較によるエージェント事故の監査](../surveys/agent-safety/2026-rogue-ai-incident-audit-controls.ja.md)
+- [Envoyによるエージェント通信：トークン予算・モデル経路・MCP](../surveys/llm-infrastructure/2026-google-cloud-envoy-agentic-stack.ja.md)
+- [パープレキシティと知能：事前学習の指標と安全基準の提案](../surveys/articles/2026-openai-perplexity-intelligence.ja.md)
 - [Meta Muse：エージェントの隔離と会話・認証情報の保護](../surveys/agent-safety/2026-nebusec-meta-muse-isolation-credential-risk.ja.md)
 
 ## 2026-11-22
