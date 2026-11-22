@@ -4,6 +4,10 @@
 
 Organizational security questions around GenAI, cryptographic migration, and multi-cloud control consistency.
 
+## Added 2026-11-23
+
+- [MCP security controls across server, gateway, and protocol](2026-mcp-security-three-tier-mitigation.md) — Preprint v1. Three-tier control ownership and the limits of a single case study.
+
 ## Added 2026-11-22
 
 - [Sakana AI’s Security Research Group: prevention and collective defense](2026-sakana-ai-security-research-group.md) — Organization announcement. Prevention by design, shared defenses, and the scope of public statistics.
