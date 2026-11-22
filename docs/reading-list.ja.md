@@ -9,6 +9,7 @@
 
 ## 2026-11-22追加
 
+- [Sakana AIのセキュリティ研究グループ：設計での予防と集合的な防御](../surveys/security-governance/2026-sakana-ai-security-research-group.ja.md) — 組織設立発表。設計段階の予防、集合的な防御、公開統計の範囲を確認。
 - [LLMによる脆弱性研究：実証の根拠、公開記録、防御側の対応](../surveys/security-governance/2026-sok-llm-vulnerability-evidence.ja.md) — 体系化研究のプレプリントv1。証拠の格付け、同期間のCVE件数、修正・対策評価の範囲を確認。
 - [HardwareDx：グラフによる障害診断とデータセンターの修理時間](../surveys/cloud-resilience/2026-google-hardwaredx-datacenter-repair.ja.md) — 論文v1。本番の機器単位A/B、修理時間とQAの定義、転移学習の範囲を確認。
 - [Skillware：型付き機能の実行とベンチマークの限界](../surveys/coding-agents/2026-skillware-typed-agent-capabilities.ja.md) — プレプリントv1。型付きの機能、3つの比較条件、費用集計の単位差を確認。

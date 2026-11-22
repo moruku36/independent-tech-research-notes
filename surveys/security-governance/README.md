@@ -6,6 +6,7 @@ Organizational security questions around GenAI, cryptographic migration, and mul
 
 ## Added 2026-11-22
 
+- [Sakana AI’s Security Research Group: prevention and collective defense](2026-sakana-ai-security-research-group.md) — Organization announcement. Prevention by design, shared defenses, and the scope of public statistics.
 - [LLM vulnerability research: evidence, disclosures, and defensive response](2026-sok-llm-vulnerability-evidence.md) — SoK preprint v1. Evidence grading, matched-period CVE counts, and remediation limits.
 
 ## Added 2026-11-21
