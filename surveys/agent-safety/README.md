@@ -4,6 +4,10 @@
 
 Whether AI agents act outside their authorization, and how they can be attacked in real workflows.
 
+## Added 2026-11-23
+
+- [Meta Muse: agent isolation, private data, and credential storage](2026-nebusec-meta-muse-isolation-credential-risk.md) — Security research report. Agent isolation, private-data access, and the scope of the reported fix.
+
 ## Added 2026-11-20
 
 - [Ambiguous intent in LLM safety: filter evidence and legitimate use](2026-llm-ambiguous-intent-safety-evaluation.md) — Preprint v1. Automated judgments, filter pass rates, and legitimate-use evidence limits.

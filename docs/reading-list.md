@@ -7,6 +7,10 @@
 
 
 
+## Added 2026-11-23
+
+- [Meta Muse: agent isolation, private data, and credential storage](../surveys/agent-safety/2026-nebusec-meta-muse-isolation-credential-risk.md) — Security research report. Agent isolation, private-data access, and the scope of the reported fix.
+
 ## Added 2026-11-22
 
 - [Sakana AI’s Security Research Group: prevention and collective defense](../surveys/security-governance/2026-sakana-ai-security-research-group.md) — Organization announcement. Prevention by design, shared defenses, and the scope of public statistics.
