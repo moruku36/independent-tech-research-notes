@@ -9,6 +9,7 @@
 
 ## Added 2026-11-22
 
+- [Sakana AI’s Security Research Group: prevention and collective defense](../surveys/security-governance/2026-sakana-ai-security-research-group.md) — Organization announcement. Prevention by design, shared defenses, and the scope of public statistics.
 - [LLM vulnerability research: evidence, disclosures, and defensive response](../surveys/security-governance/2026-sok-llm-vulnerability-evidence.md) — SoK preprint v1. Evidence grading, matched-period CVE counts, and remediation limits.
 - [HardwareDx: graph-based diagnosis and repair time in datacenters](../surveys/cloud-resilience/2026-google-hardwaredx-datacenter-repair.md) — Paper v1. Machine-level production A/B, repair-time and QA definitions, and transfer scope.
 - [Skillware: typed capability bundles and their benchmark limits](../surveys/coding-agents/2026-skillware-typed-agent-capabilities.md) — Preprint v1. Typed capabilities, three benchmark arms, and inconsistent cost units.

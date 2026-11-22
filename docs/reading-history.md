@@ -7,6 +7,7 @@ Newest first. Earlier entries use dates recorded as additions in the reading lis
 
 ## 2026-11-22
 
+- [Sakana AI’s Security Research Group: prevention and collective defense](../surveys/security-governance/2026-sakana-ai-security-research-group.md)
 - [LLM vulnerability research: evidence, disclosures, and defensive response](../surveys/security-governance/2026-sok-llm-vulnerability-evidence.md)
 - [HardwareDx: graph-based diagnosis and repair time in datacenters](../surveys/cloud-resilience/2026-google-hardwaredx-datacenter-repair.md)
 - [Skillware: typed capability bundles and their benchmark limits](../surveys/coding-agents/2026-skillware-typed-agent-capabilities.md)
