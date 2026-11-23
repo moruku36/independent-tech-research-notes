@@ -9,6 +9,9 @@
 
 ## Added 2026-11-24
 
+- [AdaOffload: adaptive CPU–GPU execution for MoE inference](../surveys/llm-infrastructure/2026-adaoffload-multi-gpu-moe.md) — Preprint v1. Expert scheduling, matched hardware benchmarks, and per-request latency and rate.
+- [ProofPatch: keeping Lean statement reviews valid across revisions](../surveys/coding-agents/2026-proofpatch-lean-statement-review.md) — Preprint v1. Elaborated statements, dependency-aware review, and low-recall specification checks.
+- [Metrics-in-the-Loop: complexity feedback during coding runs](../surveys/coding-agents/2026-metrics-in-the-loop-complexity-feedback.md) — Preprint v1. Complexity concentration, held-out correctness, and limits of the metric.
 - [CrowdStrike’s Zscaler agreement and the proposed Zero Trust integration](../surveys/security-governance/2026-crowdstrike-zscaler-zero-trust-agreement.md) — Joint announcement and SEC filing. Stock terms, closing conditions, and product integration plans.
 - [Anthropic’s enterprise guide to securing coding agents](../surveys/security-governance/2026-anthropic-enterprise-coding-agent-security.md) — Vendor guide. Layered protections, permissions, and the scope of reported tests.
 - [Claude Ship: pull request review, remediation, and approval](../surveys/coding-agents/2026-anthropic-claude-ship-review-approval.md) — Product announcement. GitHub workflow roles, beta availability, and observation-mode cost.

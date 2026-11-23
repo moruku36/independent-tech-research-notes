@@ -7,6 +7,8 @@ Benchmarks and industrial studies of AI coding assistants, automated repair, and
 
 ## Added 2026-11-24
 
+- [ProofPatch: keeping Lean statement reviews valid across revisions](2026-proofpatch-lean-statement-review.md) — Preprint v1. Elaborated statements, dependency-aware review, and low-recall specification checks.
+- [Metrics-in-the-Loop: complexity feedback during coding runs](2026-metrics-in-the-loop-complexity-feedback.md) — Preprint v1. Complexity concentration, held-out correctness, and limits of the metric.
 - [Claude Ship: pull request review, remediation, and approval](2026-anthropic-claude-ship-review-approval.md) — Product announcement. GitHub workflow roles, beta availability, and observation-mode cost.
 
 ## Added 2026-11-22

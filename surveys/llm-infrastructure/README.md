@@ -5,6 +5,10 @@
 Hardware choices, scheduling, KV cache control, and long-term memory retrieval.
 
 
+## Added 2026-11-24
+
+- [AdaOffload: adaptive CPU–GPU execution for MoE inference](2026-adaoffload-multi-gpu-moe.md) — Preprint v1. Expert scheduling, matched hardware benchmarks, and per-request latency and rate.
+
 ## Added 2026-11-23
 
 - [Envoy for agent traffic: token budgets, model routing, and MCP](2026-google-cloud-envoy-agentic-stack.md) — Google Cloud architecture article. Token accounting, cache-aware routing, and external policy boundaries.

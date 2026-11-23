@@ -7,6 +7,9 @@ Newest first. Earlier entries use dates recorded as additions in the reading lis
 
 ## 2026-11-24
 
+- [AdaOffload: adaptive CPU–GPU execution for MoE inference](../surveys/llm-infrastructure/2026-adaoffload-multi-gpu-moe.md)
+- [ProofPatch: keeping Lean statement reviews valid across revisions](../surveys/coding-agents/2026-proofpatch-lean-statement-review.md)
+- [Metrics-in-the-Loop: complexity feedback during coding runs](../surveys/coding-agents/2026-metrics-in-the-loop-complexity-feedback.md)
 - [CrowdStrike’s Zscaler agreement and the proposed Zero Trust integration](../surveys/security-governance/2026-crowdstrike-zscaler-zero-trust-agreement.md)
 - [Anthropic’s enterprise guide to securing coding agents](../surveys/security-governance/2026-anthropic-enterprise-coding-agent-security.md)
 - [Claude Ship: pull request review, remediation, and approval](../surveys/coding-agents/2026-anthropic-claude-ship-review-approval.md)
