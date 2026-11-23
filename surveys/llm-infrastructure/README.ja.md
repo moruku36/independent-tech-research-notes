@@ -5,6 +5,10 @@
 LLM推論のハードウェア選択、スケジューリング、KVキャッシュ制御、長期記憶検索。
 
 
+## 2026-11-24追加
+
+- [AdaOffload：CPU・GPUの実行分担を調整するMoE推論](2026-adaoffload-multi-gpu-moe.ja.md) — プレプリントv1。エキスパートの実行先、同条件の比較、リクエストごとの速度指標。
+
 ## 2026-11-23追加
 
 - [Envoyによるエージェント通信：トークン予算・モデル経路・MCP](2026-google-cloud-envoy-agentic-stack.ja.md) — Google Cloudの構成解説。トークン計量、キャッシュを考慮した経路選択、外部ポリシーの範囲。

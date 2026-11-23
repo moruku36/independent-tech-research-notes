@@ -7,6 +7,8 @@ AIコーディング支援・自動修復・自動レビューのベンチマー
 
 ## 2026-11-24追加
 
+- [ProofPatch：Leanの命題レビューを変更後も有効に保つ](2026-proofpatch-lean-statement-review.ja.md) — プレプリントv1。Leanの内部表現と依存関係による再レビュー、仕様点検の再現率。
+- [Metrics-in-the-Loop：実行中の複雑度フィードバック](2026-metrics-in-the-loop-complexity-feedback.ja.md) — プレプリントv1。複雑度の集中、非公開テストの正しさ、指標の限界。
 - [Claude Ship：プルリクエストのレビュー・修正・承認](2026-anthropic-claude-ship-review-approval.ja.md) — 製品発表。GitHub上の役割、提供段階、観察モードの課金条件を確認。
 
 ## 2026-11-22追加

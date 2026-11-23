@@ -9,6 +9,9 @@
 
 ## 2026-11-24追加
 
+- [AdaOffload：CPU・GPUの実行分担を調整するMoE推論](../surveys/llm-infrastructure/2026-adaoffload-multi-gpu-moe.ja.md) — プレプリントv1。エキスパートの実行先、同条件の比較、リクエストごとの速度指標。
+- [ProofPatch：Leanの命題レビューを変更後も有効に保つ](../surveys/coding-agents/2026-proofpatch-lean-statement-review.ja.md) — プレプリントv1。Leanの内部表現と依存関係による再レビュー、仕様点検の再現率。
+- [Metrics-in-the-Loop：実行中の複雑度フィードバック](../surveys/coding-agents/2026-metrics-in-the-loop-complexity-feedback.ja.md) — プレプリントv1。複雑度の集中、非公開テストの正しさ、指標の限界。
 - [CrowdStrikeのZscaler買収合意とゼロトラスト統合構想](../surveys/security-governance/2026-crowdstrike-zscaler-zero-trust-agreement.ja.md) — 共同発表とSEC提出資料。株式交換、完了条件、製品統合の構想を確認。
 - [Anthropicの企業向けコーディングエージェント保護ガイド](../surveys/security-governance/2026-anthropic-enterprise-coding-agent-security.ja.md) — 提供元のガイド。多層防御、権限管理、公表された試験の範囲を確認。
 - [Claude Ship：プルリクエストのレビュー・修正・承認](../surveys/coding-agents/2026-anthropic-claude-ship-review-approval.ja.md) — 製品発表。GitHub上の役割、提供段階、観察モードの課金条件を確認。
