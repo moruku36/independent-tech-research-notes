@@ -5,6 +5,13 @@
 Newest first. Earlier entries use dates recorded as additions in the reading list; these do not establish the user's actual reading dates. Undated entries are omitted.
 
 
+## 2026-11-24
+
+- [CrowdStrike’s Zscaler agreement and the proposed Zero Trust integration](../surveys/security-governance/2026-crowdstrike-zscaler-zero-trust-agreement.md)
+- [Anthropic’s enterprise guide to securing coding agents](../surveys/security-governance/2026-anthropic-enterprise-coding-agent-security.md)
+- [Claude Ship: pull request review, remediation, and approval](../surveys/coding-agents/2026-anthropic-claude-ship-review-approval.md)
+- [AI discovery of formally verified quantum programs (v3 and public artifacts rechecked)](../surveys/coding-agents/2026-formally-verified-quantum-discovery.md)
+
 ## 2026-11-23
 
 - [MCP security controls across server, gateway, and protocol](../surveys/security-governance/2026-mcp-security-three-tier-mitigation.md)

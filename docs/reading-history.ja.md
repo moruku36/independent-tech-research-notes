@@ -5,6 +5,13 @@
 新しい日付順。過去分は既存の読書一覧に記された追加日を使用し、本人の読了日を保証するものではありません。日付が特定できない資料は省いています。
 
 
+## 2026-11-24
+
+- [CrowdStrikeのZscaler買収合意とゼロトラスト統合構想](../surveys/security-governance/2026-crowdstrike-zscaler-zero-trust-agreement.ja.md)
+- [Anthropicの企業向けコーディングエージェント保護ガイド](../surveys/security-governance/2026-anthropic-enterprise-coding-agent-security.ja.md)
+- [Claude Ship：プルリクエストのレビュー・修正・承認](../surveys/coding-agents/2026-anthropic-claude-ship-review-approval.ja.md)
+- [AIによる量子プログラム発見と形式検証（v3・公開成果物を再確認）](../surveys/coding-agents/2026-formally-verified-quantum-discovery.ja.md)
+
 ## 2026-11-23
 
 - [MCPのセキュリティ対策をサーバー・ゲートウェイ・プロトコルで分担する](../surveys/security-governance/2026-mcp-security-three-tier-mitigation.ja.md)

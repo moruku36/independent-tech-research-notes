@@ -4,6 +4,11 @@
 
 Organizational security questions around GenAI, cryptographic migration, and multi-cloud control consistency.
 
+## Added 2026-11-24
+
+- [CrowdStrike’s Zscaler agreement and the proposed Zero Trust integration](2026-crowdstrike-zscaler-zero-trust-agreement.md) — Joint announcement and SEC filing. Stock terms, closing conditions, and product integration plans.
+- [Anthropic’s enterprise guide to securing coding agents](2026-anthropic-enterprise-coding-agent-security.md) — Vendor guide. Layered protections, permissions, and the scope of reported tests.
+
 ## Added 2026-11-23
 
 - [MCP security controls across server, gateway, and protocol](2026-mcp-security-three-tier-mitigation.md) — Preprint v1. Three-tier control ownership and the limits of a single case study.

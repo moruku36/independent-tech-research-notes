@@ -4,6 +4,11 @@
 
 GenAI利用・暗号移行・マルチクラウド統制の一貫性をめぐる、組織面のセキュリティの問い。
 
+## 2026-11-24追加
+
+- [CrowdStrikeのZscaler買収合意とゼロトラスト統合構想](2026-crowdstrike-zscaler-zero-trust-agreement.ja.md) — 共同発表とSEC提出資料。株式交換、完了条件、製品統合の構想を確認。
+- [Anthropicの企業向けコーディングエージェント保護ガイド](2026-anthropic-enterprise-coding-agent-security.ja.md) — 提供元のガイド。多層防御、権限管理、公表された試験の範囲を確認。
+
 ## 2026-11-23追加
 
 - [MCPのセキュリティ対策をサーバー・ゲートウェイ・プロトコルで分担する](2026-mcp-security-three-tier-mitigation.ja.md) — プレプリントv1。3層の対策分担と、単一事例による確認の範囲。

@@ -7,6 +7,12 @@
 
 
 
+## Added 2026-11-24
+
+- [CrowdStrike’s Zscaler agreement and the proposed Zero Trust integration](../surveys/security-governance/2026-crowdstrike-zscaler-zero-trust-agreement.md) — Joint announcement and SEC filing. Stock terms, closing conditions, and product integration plans.
+- [Anthropic’s enterprise guide to securing coding agents](../surveys/security-governance/2026-anthropic-enterprise-coding-agent-security.md) — Vendor guide. Layered protections, permissions, and the scope of reported tests.
+- [Claude Ship: pull request review, remediation, and approval](../surveys/coding-agents/2026-anthropic-claude-ship-review-approval.md) — Product announcement. GitHub workflow roles, beta availability, and observation-mode cost.
+
 ## Added 2026-11-23
 
 - [MCP security controls across server, gateway, and protocol](../surveys/security-governance/2026-mcp-security-three-tier-mitigation.md) — Preprint v1. Three-tier control ownership and the limits of a single case study.
@@ -157,7 +163,7 @@
 
 ## Added 2026-11-10: model launch, TPU infrastructure, usage, research and memory
 
-- [AI discovery of formally verified quantum programs](../surveys/coding-agents/2026-formally-verified-quantum-discovery.md) — Preprint v2; frozen-specification verification and resource metrics partially checked; not reproduced.
+- [AI discovery of formally verified quantum programs](../surveys/coding-agents/2026-formally-verified-quantum-discovery.md) — Preprint. v3, DeepMind’s follow-up, and public Lean project rechecked 2026-11-24. No independent reproduction.
 - [Claude Fable 5.2 and Mythos 5.2: capabilities, safeguards and evidence](../surveys/articles/2026-anthropic-fable-mythos-5-2.md) — Primary source partially checked; not reproduced.
 - [Cloud Pathways GA: a runtime for multi-slice ML](../surveys/llm-infrastructure/2026-google-cloud-pathways-ga.md) — Primary source partially checked; not reproduced.
 - [GKE dynamic slicing: resource topology and recovery](../surveys/llm-infrastructure/2026-google-gke-dynamic-slicing.md) — Primary source partially checked; not reproduced.

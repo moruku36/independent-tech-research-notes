@@ -5,6 +5,10 @@
 AIコーディング支援・自動修復・自動レビューのベンチマークと企業での実証研究。
 
 
+## 2026-11-24追加
+
+- [Claude Ship：プルリクエストのレビュー・修正・承認](2026-anthropic-claude-ship-review-approval.ja.md) — 製品発表。GitHub上の役割、提供段階、観察モードの課金条件を確認。
+
 ## 2026-11-22追加
 
 - [Skillware：型付き機能の実行とベンチマークの限界](2026-skillware-typed-agent-capabilities.ja.md) — プレプリントv1。型付きの機能、3つの比較条件、費用集計の単位差を確認。
@@ -66,7 +70,7 @@ AIコーディング支援・自動修復・自動レビューのベンチマー
 
 ## 2026-11-10追加
 
-- [AIによる量子プログラム発見と形式検証](2026-formally-verified-quantum-discovery.ja.md) — プレプリントv2。仕様固定・外部証明検査・資源指標を部分確認／再現未実施。
+- [AIによる量子プログラム発見と形式検証](2026-formally-verified-quantum-discovery.ja.md) — プレプリント。v3とDeepMind続報・公開Leanプロジェクトを2026-11-24に再確認。独立再現なし。
 - [Organon：科学的探索の進め方そのものを改訂する](2026-organon-scientific-discovery.ja.md) — 一次資料を部分確認、再現未実施。
 
 ## 2026-11-09追加
