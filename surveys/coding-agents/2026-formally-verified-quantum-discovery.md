@@ -25,7 +25,13 @@ Checked 2026-11-10 JST: primary HTML §§1, selected §2 results, §3, and Appen
 
 ## Method, evidence and limits
 
-Gemini 4 Carbon teams use a shared wiki and discussions. Independent replay checks theorem/definition identity, allowed axioms and cost. Reported 290× arcsin improvement concerns logical qubits × T gates; other tasks use different metrics. Specification loopholes still required human correction. Reference 44 promises a future code release; availability was not verified.
+Gemini 4 Carbon teams use a shared wiki and discussions. Independent replay checks theorem/definition identity, allowed axioms and cost. Reported 290× arcsin improvement concerns logical qubits × T gates; other tasks use different metrics. Specification loopholes still required human correction. At the first reading, Reference 44 described a planned code release.
+
+## Follow-up on November 24, 2026 JST
+
+DeepMind’s November 23 article links the same arXiv paper, now at v3 (revised November 16), and the public Lean 4 project. Selected v3 passages and the repository README were checked. The public project includes a core library and a separate specification and benchmark library, with dependencies pinned in the repository. The code and proofs were not built or independently checked for this follow-up.
+
+The update confirms that the reported 290× result for fixed-point arcsin refers to the modeled spacetime cost, measured in logical qubits × T gates. The maximum 2.57× for parallel Grover search refers to expected oracle rounds for finding all marked targets under the stated conditions. Both are resource-model comparisons. The news article’s publication does not add a hardware-runtime measurement.
 
 ## Related work and interpretation
 
@@ -35,12 +41,15 @@ Gemini 4 Carbon teams use a shared wiki and discussions. Independent replay chec
 
 Proposed only: take a small owned classical specification, freeze its revision, and inspect how altered definitions or unproved assumptions would be rejected. Keep valid artifacts, tentative ideas and failed approaches in separate records. This can begin as a document audit without model calls, installation or quantum hardware.
 
-For an AI-scientist harness, propose an external acceptance receipt linking the immutable specification, candidate and evidence. This adaptation has not been tested. Next: verify released artifacts, trusted dependencies, resource assumptions and total discovery cost before reproduction.
+For an AI-scientist harness, propose an external acceptance receipt linking the immutable specification, candidate and evidence. This adaptation has not been tested. Before attempting reproduction, inspect the released artifacts, trusted dependencies, resource assumptions, and total discovery cost.
 
 ## Primary sources
 
 - [Requested record](https://arxiv.org/abs/2611.09822)
 - [Inspected v2](https://arxiv.org/html/2611.09822v2), especially §1.2 and Appendix B
 - [Versioned bibliography](https://arxiv.org/abs/2611.09822v2)
+- [DeepMind follow-up article](https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/)
+- [Selected v3 passages](https://arxiv.org/html/2611.09822v3)
+- [Published Lean project and specifications](https://github.com/google-deepmind/formal-quantum-computation)
 
 [Theme index](README.md) | [Reading list](../../docs/reading-list.md)

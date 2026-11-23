@@ -7,6 +7,12 @@
 
 
 
+## 2026-11-24追加
+
+- [CrowdStrikeのZscaler買収合意とゼロトラスト統合構想](../surveys/security-governance/2026-crowdstrike-zscaler-zero-trust-agreement.ja.md) — 共同発表とSEC提出資料。株式交換、完了条件、製品統合の構想を確認。
+- [Anthropicの企業向けコーディングエージェント保護ガイド](../surveys/security-governance/2026-anthropic-enterprise-coding-agent-security.ja.md) — 提供元のガイド。多層防御、権限管理、公表された試験の範囲を確認。
+- [Claude Ship：プルリクエストのレビュー・修正・承認](../surveys/coding-agents/2026-anthropic-claude-ship-review-approval.ja.md) — 製品発表。GitHub上の役割、提供段階、観察モードの課金条件を確認。
+
 ## 2026-11-23追加
 
 - [MCPのセキュリティ対策をサーバー・ゲートウェイ・プロトコルで分担する](../surveys/security-governance/2026-mcp-security-three-tier-mitigation.ja.md) — プレプリントv1。3層の対策分担と、単一事例による確認の範囲。
@@ -157,7 +163,7 @@
 
 ## 2026-11-10追加：モデル発表・TPU基盤・利用統計・研究と記憶
 
-- [AIによる量子プログラム発見と形式検証](../surveys/coding-agents/2026-formally-verified-quantum-discovery.ja.md) — プレプリントv2。仕様固定・外部証明検査・資源指標を部分確認／再現未実施。
+- [AIによる量子プログラム発見と形式検証](../surveys/coding-agents/2026-formally-verified-quantum-discovery.ja.md) — プレプリント。v3とDeepMind続報・公開Leanプロジェクトを2026-11-24に再確認。独立再現なし。
 - [Claude Fable 5.2／Mythos 5.2：能力・制約・評価の読み方](../surveys/articles/2026-anthropic-fable-mythos-5-2.ja.md) — 一次資料を部分確認、再現未実施。
 - [Cloud Pathways GA：複数スライスのML実行ランタイム](../surveys/llm-infrastructure/2026-google-cloud-pathways-ga.ja.md) — 一次資料を部分確認、再現未実施。
 - [GKE dynamic slicing：TPUの資源形状と障害復旧](../surveys/llm-infrastructure/2026-google-gke-dynamic-slicing.ja.md) — 一次資料を部分確認、再現未実施。

@@ -5,6 +5,10 @@
 Benchmarks and industrial studies of AI coding assistants, automated repair, and automated review.
 
 
+## Added 2026-11-24
+
+- [Claude Ship: pull request review, remediation, and approval](2026-anthropic-claude-ship-review-approval.md) — Product announcement. GitHub workflow roles, beta availability, and observation-mode cost.
+
 ## Added 2026-11-22
 
 - [Skillware: typed capability bundles and their benchmark limits](2026-skillware-typed-agent-capabilities.md) — Preprint v1. Typed capabilities, three benchmark arms, and inconsistent cost units.
@@ -66,7 +70,7 @@ Benchmarks and industrial studies of AI coding assistants, automated repair, and
 
 ## Added 2026-11-10
 
-- [AI discovery of formally verified quantum programs](2026-formally-verified-quantum-discovery.md) — Preprint v2; frozen-specification verification and resource metrics partially checked; not reproduced.
+- [AI discovery of formally verified quantum programs](2026-formally-verified-quantum-discovery.md) — Preprint. v3, DeepMind’s follow-up, and public Lean project rechecked 2026-11-24. No independent reproduction.
 - [Organon: adapting the procedure of scientific search](2026-organon-scientific-discovery.md) — Primary source partially checked; not reproduced.
 
 ## Added 2026-11-09
