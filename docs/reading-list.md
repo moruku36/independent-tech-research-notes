@@ -11,6 +11,9 @@
 
 - [DeepCrossAttention: selecting features across transformer layers](../surveys/llm-infrastructure/2025-deepcrossattention-transformer-residuals.md) — Google Research article and ICML 2025 paper. Training time, steps, and the cost of keeping layer history.
 - [Claude’s MCP update: skills, background tasks, and user input](../surveys/coding-agents/2026-anthropic-skills-over-mcp-tasks.md) — Product announcement and MCP references. Feature rollout, consent, and file-handling boundaries.
+[Shirudo: temporary live protection while Linux patches roll out](../surveys/security-governance/2026-openai-cisco-shirudo.md) — Joint announcement and project repository. Operator approval, signed mitigations, and the scope of a controlled test.
+[AWS API and AI security: discovery, managed rules, and coverage](../surveys/security-governance/2026-aws-api-ai-security-discovery-protection.md) — AWS launch and developer guides. API inventory, WAF behavior and protocol checks, and coverage limits.
+[AlloyDB Omni: calling locally hosted models from SQL](../surveys/llm-infrastructure/2026-google-alloydb-omni-local-models.md) — Google Cloud walkthrough. Local generation over SQL, model hosting, and data-boundary checks.
 
 ## Added 2026-11-24
 

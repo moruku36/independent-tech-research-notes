@@ -4,6 +4,11 @@
 
 GenAI利用・暗号移行・マルチクラウド統制の一貫性をめぐる、組織面のセキュリティの問い。
 
+## 2026-11-25追加
+
+[Shirudo：Linuxの恒久パッチ配布までをつなぐ稼働中の暫定防御](2026-openai-cisco-shirudo.ja.md) — 共同発表と公式リポジトリ。運用者による承認、署名付きの防御、管理された実証の範囲。
+[AWSのAPI・AIセキュリティ：棚卸し、マネージドルール、保護範囲](2026-aws-api-ai-security-discovery-protection.ja.md) — AWSの発表と開発者ガイド。APIの棚卸し、WAFの振る舞い・プロトコル検査、適用範囲。
+
 ## 2026-11-24追加
 
 - [CrowdStrikeのZscaler買収合意とゼロトラスト統合構想](2026-crowdstrike-zscaler-zero-trust-agreement.ja.md) — 共同発表とSEC提出資料。株式交換、完了条件、製品統合の構想を確認。

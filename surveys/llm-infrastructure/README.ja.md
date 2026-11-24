@@ -8,6 +8,7 @@ LLM推論のハードウェア選択、スケジューリング、KVキャッシ
 ## 2026-11-25追加
 
 - [DeepCrossAttention：Transformerの過去層から特徴を選ぶ残差接続](2025-deepcrossattention-transformer-residuals.ja.md) — Google Research記事とICML 2025論文。到達時間、ステップ数、過去層を参照するコスト。
+[AlloyDB Omni：SQLからローカルで稼働するモデルを呼び出す](2026-google-alloydb-omni-local-models.ja.md) — Google Cloudの構成例。SQLによるローカル生成、モデルのホスト、データの通り道の確認。
 
 ## 2026-11-24追加
 
