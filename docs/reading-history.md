@@ -9,6 +9,9 @@ Newest first. Earlier entries use dates recorded as additions in the reading lis
 
 - [DeepCrossAttention: selecting features across transformer layers](../surveys/llm-infrastructure/2025-deepcrossattention-transformer-residuals.md)
 - [Claude’s MCP update: skills, background tasks, and user input](../surveys/coding-agents/2026-anthropic-skills-over-mcp-tasks.md)
+[Shirudo: temporary live protection while Linux patches roll out](../surveys/security-governance/2026-openai-cisco-shirudo.md)
+[AWS API and AI security: discovery, managed rules, and coverage](../surveys/security-governance/2026-aws-api-ai-security-discovery-protection.md)
+[AlloyDB Omni: calling locally hosted models from SQL](../surveys/llm-infrastructure/2026-google-alloydb-omni-local-models.md)
 
 ## 2026-11-24
 

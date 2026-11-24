@@ -4,6 +4,11 @@
 
 Organizational security questions around GenAI, cryptographic migration, and multi-cloud control consistency.
 
+## Added 2026-11-25
+
+[Shirudo: temporary live protection while Linux patches roll out](2026-openai-cisco-shirudo.md) — Joint announcement and project repository. Operator approval, signed mitigations, and the scope of a controlled test.
+[AWS API and AI security: discovery, managed rules, and coverage](2026-aws-api-ai-security-discovery-protection.md) — AWS launch and developer guides. API inventory, WAF behavior and protocol checks, and coverage limits.
+
 ## Added 2026-11-24
 
 - [CrowdStrike’s Zscaler agreement and the proposed Zero Trust integration](2026-crowdstrike-zscaler-zero-trust-agreement.md) — Joint announcement and SEC filing. Stock terms, closing conditions, and product integration plans.

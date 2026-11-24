@@ -9,6 +9,9 @@
 
 - [DeepCrossAttention：Transformerの過去層から特徴を選ぶ残差接続](../surveys/llm-infrastructure/2025-deepcrossattention-transformer-residuals.ja.md)
 - [ClaudeのMCP更新：スキル配布・バックグラウンド処理・途中確認](../surveys/coding-agents/2026-anthropic-skills-over-mcp-tasks.ja.md)
+[Shirudo：Linuxの恒久パッチ配布までをつなぐ稼働中の暫定防御](../surveys/security-governance/2026-openai-cisco-shirudo.ja.md)
+[AWSのAPI・AIセキュリティ：棚卸し、マネージドルール、保護範囲](../surveys/security-governance/2026-aws-api-ai-security-discovery-protection.ja.md)
+[AlloyDB Omni：SQLからローカルで稼働するモデルを呼び出す](../surveys/llm-infrastructure/2026-google-alloydb-omni-local-models.ja.md)
 
 ## 2026-11-24
 

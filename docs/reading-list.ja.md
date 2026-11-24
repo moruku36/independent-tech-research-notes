@@ -11,6 +11,9 @@
 
 - [DeepCrossAttention：Transformerの過去層から特徴を選ぶ残差接続](../surveys/llm-infrastructure/2025-deepcrossattention-transformer-residuals.ja.md) — Google Research記事とICML 2025論文。到達時間、ステップ数、過去層を参照するコスト。
 - [ClaudeのMCP更新：スキル配布・バックグラウンド処理・途中確認](../surveys/coding-agents/2026-anthropic-skills-over-mcp-tasks.ja.md) — 製品発表とMCP仕様。機能ごとの提供段階、同意、ファイル取扱いの範囲。
+[Shirudo：Linuxの恒久パッチ配布までをつなぐ稼働中の暫定防御](../surveys/security-governance/2026-openai-cisco-shirudo.ja.md) — 共同発表と公式リポジトリ。運用者による承認、署名付きの防御、管理された実証の範囲。
+[AWSのAPI・AIセキュリティ：棚卸し、マネージドルール、保護範囲](../surveys/security-governance/2026-aws-api-ai-security-discovery-protection.ja.md) — AWSの発表と開発者ガイド。APIの棚卸し、WAFの振る舞い・プロトコル検査、適用範囲。
+[AlloyDB Omni：SQLからローカルで稼働するモデルを呼び出す](../surveys/llm-infrastructure/2026-google-alloydb-omni-local-models.ja.md) — Google Cloudの構成例。SQLによるローカル生成、モデルのホスト、データの通り道の確認。
 
 ## 2026-11-24追加
 
