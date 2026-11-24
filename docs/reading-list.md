@@ -7,6 +7,11 @@
 
 
 
+## Added 2026-11-25
+
+- [DeepCrossAttention: selecting features across transformer layers](../surveys/llm-infrastructure/2025-deepcrossattention-transformer-residuals.md) — Google Research article and ICML 2025 paper. Training time, steps, and the cost of keeping layer history.
+- [Claude’s MCP update: skills, background tasks, and user input](../surveys/coding-agents/2026-anthropic-skills-over-mcp-tasks.md) — Product announcement and MCP references. Feature rollout, consent, and file-handling boundaries.
+
 ## Added 2026-11-24
 
 - [AdaOffload: adaptive CPU–GPU execution for MoE inference](../surveys/llm-infrastructure/2026-adaoffload-multi-gpu-moe.md) — Preprint v1. Expert scheduling, matched hardware benchmarks, and per-request latency and rate.

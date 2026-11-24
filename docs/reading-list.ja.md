@@ -7,6 +7,11 @@
 
 
 
+## 2026-11-25追加
+
+- [DeepCrossAttention：Transformerの過去層から特徴を選ぶ残差接続](../surveys/llm-infrastructure/2025-deepcrossattention-transformer-residuals.ja.md) — Google Research記事とICML 2025論文。到達時間、ステップ数、過去層を参照するコスト。
+- [ClaudeのMCP更新：スキル配布・バックグラウンド処理・途中確認](../surveys/coding-agents/2026-anthropic-skills-over-mcp-tasks.ja.md) — 製品発表とMCP仕様。機能ごとの提供段階、同意、ファイル取扱いの範囲。
+
 ## 2026-11-24追加
 
 - [AdaOffload：CPU・GPUの実行分担を調整するMoE推論](../surveys/llm-infrastructure/2026-adaoffload-multi-gpu-moe.ja.md) — プレプリントv1。エキスパートの実行先、同条件の比較、リクエストごとの速度指標。

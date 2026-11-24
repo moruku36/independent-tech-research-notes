@@ -5,6 +5,10 @@
 LLM推論のハードウェア選択、スケジューリング、KVキャッシュ制御、長期記憶検索。
 
 
+## 2026-11-25追加
+
+- [DeepCrossAttention：Transformerの過去層から特徴を選ぶ残差接続](2025-deepcrossattention-transformer-residuals.ja.md) — Google Research記事とICML 2025論文。到達時間、ステップ数、過去層を参照するコスト。
+
 ## 2026-11-24追加
 
 - [AdaOffload：CPU・GPUの実行分担を調整するMoE推論](2026-adaoffload-multi-gpu-moe.ja.md) — プレプリントv1。エキスパートの実行先、同条件の比較、リクエストごとの速度指標。
