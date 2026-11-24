@@ -5,6 +5,11 @@
 新しい日付順。過去分は既存の読書一覧に記された追加日を使用し、本人の読了日を保証するものではありません。日付が特定できない資料は省いています。
 
 
+## 2026-11-25
+
+- [DeepCrossAttention：Transformerの過去層から特徴を選ぶ残差接続](../surveys/llm-infrastructure/2025-deepcrossattention-transformer-residuals.ja.md)
+- [ClaudeのMCP更新：スキル配布・バックグラウンド処理・途中確認](../surveys/coding-agents/2026-anthropic-skills-over-mcp-tasks.ja.md)
+
 ## 2026-11-24
 
 - [AdaOffload：CPU・GPUの実行分担を調整するMoE推論](../surveys/llm-infrastructure/2026-adaoffload-multi-gpu-moe.ja.md)

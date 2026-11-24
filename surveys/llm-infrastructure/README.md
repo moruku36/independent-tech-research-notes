@@ -5,6 +5,10 @@
 Hardware choices, scheduling, KV cache control, and long-term memory retrieval.
 
 
+## Added 2026-11-25
+
+- [DeepCrossAttention: selecting features across transformer layers](2025-deepcrossattention-transformer-residuals.md) — Google Research article and ICML 2025 paper. Training time, steps, and the cost of keeping layer history.
+
 ## Added 2026-11-24
 
 - [AdaOffload: adaptive CPU–GPU execution for MoE inference](2026-adaoffload-multi-gpu-moe.md) — Preprint v1. Expert scheduling, matched hardware benchmarks, and per-request latency and rate.

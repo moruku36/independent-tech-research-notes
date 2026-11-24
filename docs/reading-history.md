@@ -5,6 +5,11 @@
 Newest first. Earlier entries use dates recorded as additions in the reading list; these do not establish the user's actual reading dates. Undated entries are omitted.
 
 
+## 2026-11-25
+
+- [DeepCrossAttention: selecting features across transformer layers](../surveys/llm-infrastructure/2025-deepcrossattention-transformer-residuals.md)
+- [Claude’s MCP update: skills, background tasks, and user input](../surveys/coding-agents/2026-anthropic-skills-over-mcp-tasks.md)
+
 ## 2026-11-24
 
 - [AdaOffload: adaptive CPU–GPU execution for MoE inference](../surveys/llm-infrastructure/2026-adaoffload-multi-gpu-moe.md)
