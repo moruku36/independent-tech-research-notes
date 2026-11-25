@@ -5,6 +5,10 @@
 LLM推論のハードウェア選択、スケジューリング、KVキャッシュ制御、長期記憶検索。
 
 
+## 2026-11-26追加
+
+- [TideSand：計測の再現性を保ちながらサンドボックス資源を共有する](2026-tidesand-sandbox-multiplexing.ja.md) — プレプリントv1。ツール呼び出しの忠実度、処理量、ベンチマークの再実行。
+
 ## 2026-11-25追加
 
 - [DeepCrossAttention：Transformerの過去層から特徴を選ぶ残差接続](2025-deepcrossattention-transformer-residuals.ja.md) — Google Research記事とICML 2025論文。到達時間、ステップ数、過去層を参照するコスト。

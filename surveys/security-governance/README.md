@@ -7,6 +7,8 @@ Organizational security questions around GenAI, cryptographic migration, and mul
 ## Added 2026-11-26
 
 - [Azure database security at Ignite 2026](2026-azure-database-security-ignite.md) — Microsoft launch and technical docs. Availability, key and identity scope, and networking cutover.
+- [Google Workspace and Cloud controls for enterprise agents](2026-google-cloud-enterprise-agent-controls.md) — Google announcements and documentation. Agent access, approval, data retention, and rollout dates.
+- [GPU supply current for verifying declared AI workloads](2026-gpu-current-declared-workload-verification.md) — Preprint v1. One-class monitoring, reference coverage, and the limits of external evidence.
 
 ## Added 2026-11-25
 

@@ -5,6 +5,10 @@
 Hardware choices, scheduling, KV cache control, and long-term memory retrieval.
 
 
+## Added 2026-11-26
+
+- [TideSand: sharing sandbox resources while preserving measurements](2026-tidesand-sandbox-multiplexing.md) — Preprint v1. Tool-call fidelity, throughput, and benchmark replay.
+
 ## Added 2026-11-25
 
 - [DeepCrossAttention: selecting features across transformer layers](2025-deepcrossattention-transformer-residuals.md) — Google Research article and ICML 2025 paper. Training time, steps, and the cost of keeping layer history.

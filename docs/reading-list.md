@@ -10,6 +10,10 @@
 ## Added 2026-11-26
 
 - [Azure database security at Ignite 2026](../surveys/security-governance/2026-azure-database-security-ignite.md) — Microsoft launch and technical docs. Availability, key and identity scope, and networking cutover.
+- [Google Workspace and Cloud controls for enterprise agents](../surveys/security-governance/2026-google-cloud-enterprise-agent-controls.md) — Google announcements and documentation. Agent access, approval, data retention, and rollout dates.
+- [Security prompts and scanner findings in 400 generated web apps](../surveys/coding-agents/2026-security-prompts-ai-generated-web-apps.md) — Preprint v1. Paired prompt comparison, scanner findings, and dependency exposure.
+- [GPU supply current for verifying declared AI workloads](../surveys/security-governance/2026-gpu-current-declared-workload-verification.md) — Preprint v1. One-class monitoring, reference coverage, and the limits of external evidence.
+- [TideSand: sharing sandbox resources while preserving measurements](../surveys/llm-infrastructure/2026-tidesand-sandbox-multiplexing.md) — Preprint v1. Tool-call fidelity, throughput, and benchmark replay.
 
 ## Added 2026-11-25
 

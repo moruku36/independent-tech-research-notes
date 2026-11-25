@@ -7,6 +7,8 @@ GenAI利用・暗号移行・マルチクラウド統制の一貫性をめぐる
 ## 2026-11-26追加
 
 - [Ignite 2026のAzureデータベースセキュリティ更新](2026-azure-database-security-ignite.ja.md) — Microsoftの発表と公式資料。提供段階、鍵とIDの範囲、ネットワーク切り替え。
+- [Google WorkspaceとCloudの企業向けエージェント統制](2026-google-cloud-enterprise-agent-controls.ja.md) — Googleの発表と公式資料。アクセス、承認、データ保持の制約、適用日程。
+- [GPUの供給電流から申告済みAIワークロードを照合する](2026-gpu-current-declared-workload-verification.ja.md) — プレプリントv1。異常検知、基準データの網羅性、外部から観測できる証拠の範囲。
 
 ## 2026-11-25追加
 

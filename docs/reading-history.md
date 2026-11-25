@@ -8,6 +8,10 @@ Newest first. Earlier entries use dates recorded as additions in the reading lis
 ## 2026-11-26
 
 - [Azure database security at Ignite 2026](../surveys/security-governance/2026-azure-database-security-ignite.md)
+- [Google Workspace and Cloud controls for enterprise agents](../surveys/security-governance/2026-google-cloud-enterprise-agent-controls.md)
+- [Security prompts and scanner findings in 400 generated web apps](../surveys/coding-agents/2026-security-prompts-ai-generated-web-apps.md)
+- [GPU supply current for verifying declared AI workloads](../surveys/security-governance/2026-gpu-current-declared-workload-verification.md)
+- [TideSand: sharing sandbox resources while preserving measurements](../surveys/llm-infrastructure/2026-tidesand-sandbox-multiplexing.md)
 
 ## 2026-11-25
 
