@@ -8,6 +8,10 @@
 ## 2026-11-26
 
 - [Ignite 2026のAzureデータベースセキュリティ更新](../surveys/security-governance/2026-azure-database-security-ignite.ja.md)
+- [Google WorkspaceとCloudの企業向けエージェント統制](../surveys/security-governance/2026-google-cloud-enterprise-agent-controls.ja.md)
+- [生成Webアプリ400本で見るセキュリティ指示とスキャナー検出](../surveys/coding-agents/2026-security-prompts-ai-generated-web-apps.ja.md)
+- [GPUの供給電流から申告済みAIワークロードを照合する](../surveys/security-governance/2026-gpu-current-declared-workload-verification.ja.md)
+- [TideSand：計測の再現性を保ちながらサンドボックス資源を共有する](../surveys/llm-infrastructure/2026-tidesand-sandbox-multiplexing.ja.md)
 
 ## 2026-11-25
 

@@ -5,6 +5,10 @@
 Benchmarks and industrial studies of AI coding assistants, automated repair, and automated review.
 
 
+## Added 2026-11-26
+
+- [Security prompts and scanner findings in 400 generated web apps](2026-security-prompts-ai-generated-web-apps.md) — Preprint v1. Paired prompt comparison, scanner findings, and dependency exposure.
+
 ## Added 2026-11-25
 
 - [Claude’s MCP update: skills, background tasks, and user input](2026-anthropic-skills-over-mcp-tasks.md) — Product announcement and MCP references. Feature rollout, consent, and file-handling boundaries.
