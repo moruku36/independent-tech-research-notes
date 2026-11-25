@@ -7,6 +7,10 @@
 
 
 
+## Added 2026-11-26
+
+- [Azure database security at Ignite 2026](../surveys/security-governance/2026-azure-database-security-ignite.md) — Microsoft launch and technical docs. Availability, key and identity scope, and networking cutover.
+
 ## Added 2026-11-25
 
 - [DeepCrossAttention: selecting features across transformer layers](../surveys/llm-infrastructure/2025-deepcrossattention-transformer-residuals.md) — Google Research article and ICML 2025 paper. Training time, steps, and the cost of keeping layer history.

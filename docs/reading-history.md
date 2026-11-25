@@ -5,6 +5,10 @@
 Newest first. Earlier entries use dates recorded as additions in the reading list; these do not establish the user's actual reading dates. Undated entries are omitted.
 
 
+## 2026-11-26
+
+- [Azure database security at Ignite 2026](../surveys/security-governance/2026-azure-database-security-ignite.md)
+
 ## 2026-11-25
 
 - [DeepCrossAttention: selecting features across transformer layers](../surveys/llm-infrastructure/2025-deepcrossattention-transformer-residuals.md)
