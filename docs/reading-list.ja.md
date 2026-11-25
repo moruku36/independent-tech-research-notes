@@ -7,6 +7,10 @@
 
 
 
+## 2026-11-26追加
+
+- [Ignite 2026のAzureデータベースセキュリティ更新](../surveys/security-governance/2026-azure-database-security-ignite.ja.md) — Microsoftの発表と公式資料。提供段階、鍵とIDの範囲、ネットワーク切り替え。
+
 ## 2026-11-25追加
 
 - [DeepCrossAttention：Transformerの過去層から特徴を選ぶ残差接続](../surveys/llm-infrastructure/2025-deepcrossattention-transformer-residuals.ja.md) — Google Research記事とICML 2025論文。到達時間、ステップ数、過去層を参照するコスト。

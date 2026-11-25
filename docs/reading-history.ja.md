@@ -5,6 +5,10 @@
 新しい日付順。過去分は既存の読書一覧に記された追加日を使用し、本人の読了日を保証するものではありません。日付が特定できない資料は省いています。
 
 
+## 2026-11-26
+
+- [Ignite 2026のAzureデータベースセキュリティ更新](../surveys/security-governance/2026-azure-database-security-ignite.ja.md)
+
 ## 2026-11-25
 
 - [DeepCrossAttention：Transformerの過去層から特徴を選ぶ残差接続](../surveys/llm-infrastructure/2025-deepcrossattention-transformer-residuals.ja.md)

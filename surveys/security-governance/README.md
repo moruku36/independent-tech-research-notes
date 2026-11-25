@@ -4,6 +4,10 @@
 
 Organizational security questions around GenAI, cryptographic migration, and multi-cloud control consistency.
 
+## Added 2026-11-26
+
+- [Azure database security at Ignite 2026](2026-azure-database-security-ignite.md) — Microsoft launch and technical docs. Availability, key and identity scope, and networking cutover.
+
 ## Added 2026-11-25
 
 [Shirudo: temporary live protection while Linux patches roll out](2026-openai-cisco-shirudo.md) — Joint announcement and project repository. Operator approval, signed mitigations, and the scope of a controlled test.
