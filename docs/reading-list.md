@@ -14,6 +14,7 @@
 - [Security prompts and scanner findings in 400 generated web apps](../surveys/coding-agents/2026-security-prompts-ai-generated-web-apps.md) — Preprint v1. Paired prompt comparison, scanner findings, and dependency exposure.
 - [GPU supply current for verifying declared AI workloads](../surveys/security-governance/2026-gpu-current-declared-workload-verification.md) — Preprint v1. One-class monitoring, reference coverage, and the limits of external evidence.
 - [TideSand: sharing sandbox resources while preserving measurements](../surveys/llm-infrastructure/2026-tidesand-sandbox-multiplexing.md) — Preprint v1. Tool-call fidelity, throughput, and benchmark replay.
+- [The Agentic Scientist (Sakana AI talk added)](../surveys/coding-agents/2026-sakana-agentic-scientist.md) — Existing note expanded with talk timestamps, collaborative case studies and editable figures.
 
 ## Added 2026-11-25
 

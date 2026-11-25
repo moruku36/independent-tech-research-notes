@@ -25,6 +25,16 @@ Robert Tjarko Lange, Luca Grillotti, Yutaro Yamada, Rujikorn Charakorn and David
 
 The study reports research case studies and 70 campaigns over five manually prepared tasks. Its AI manuscript reviews complement search metrics. One co-created paper’s conference acceptance supplies a different kind of evidence. The report calls for independent reproduction and better assessment of novelty.
 
+## Sakana AI talk (2026-11-25)
+
+Reviewed the publisher's video description, chapters, and relevant transcript sections on 2026-11-26 JST. The talk accompanies the same preprint and adds detail on the research workflow and figure-generation tool.
+
+- [9:25–12:36](https://www.youtube.com/watch?v=JKcPclh4lEo&t=565s) — The talk distinguishes improving a fixed evaluation score from discovering new research directions. The optional setup step creates an initial program and evaluation function. Parallel investigation then feeds baselines, ablations and other analyses into drafting and review.
+- [12:37–16:54](https://www.youtube.com/watch?v=JKcPclh4lEo&t=757s) — In the ALIFE 2026 oral-presentation case, researchers set the initial direction, supplied constraints, prepared reinforcement-learning environments and checked results, citations and claims. The agents ran experiments and developed draft figures and text.
+- [16:55–19:42](https://www.youtube.com/watch?v=JKcPclh4lEo&t=1015s) — The Doc-to-LoRA case explored query-conditioned merging of LoRA adapters. The reported result used a multi-needle retrieval proxy, so transfer to general long-document use is still an open question.
+- [19:43–20:53](https://www.youtube.com/watch?v=JKcPclh4lEo&t=1183s) — The speakers report a correlation between solution performance and automated manuscript scores. These scores are proxy measures, and the ALIFE acceptance reflects one collaborative case.
+- [20:54–23:12](https://www.youtube.com/watch?v=JKcPclh4lEo&t=1254s) — AutoIllustrate produces editable draw.io source and a visually enhanced rendered image. The editable source lets researchers inspect and correct the diagram before use.
+
 ## Related notes
 
 - [The AI Scientist](2024-sakana-ai-scientist.md)
@@ -39,5 +49,9 @@ Proposed, untried. For one small deterministic experiment, write the hypothesis 
 - [arXiv record](https://arxiv.org/abs/2610.18933)
 - [Inspected v1](https://arxiv.org/html/2610.18933v1)
 - [Linked implementation](https://github.com/SakanaAI/AI-Scientist-v3)
+- [Sakana AI talk and chapter list](https://www.youtube.com/watch?v=JKcPclh4lEo)
+- [Sakana AI project page](https://pub.sakana.ai/agentic-scientist/)
+- [Diffusing Blame case-study paper](https://arxiv.org/abs/2606.31700)
+- [AutoIllustrate source repository](https://github.com/SakanaAI/autoillustrate)
 
 [Theme index](README.md) | [Reading list](../../docs/reading-list.md)
