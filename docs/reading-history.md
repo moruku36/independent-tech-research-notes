@@ -12,6 +12,7 @@ Newest first. Earlier entries use dates recorded as additions in the reading lis
 - [Security prompts and scanner findings in 400 generated web apps](../surveys/coding-agents/2026-security-prompts-ai-generated-web-apps.md)
 - [GPU supply current for verifying declared AI workloads](../surveys/security-governance/2026-gpu-current-declared-workload-verification.md)
 - [TideSand: sharing sandbox resources while preserving measurements](../surveys/llm-infrastructure/2026-tidesand-sandbox-multiplexing.md)
+- [The Agentic Scientist (Sakana AI talk added)](../surveys/coding-agents/2026-sakana-agentic-scientist.md)
 
 ## 2026-11-25
 

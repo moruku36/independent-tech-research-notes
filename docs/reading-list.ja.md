@@ -14,6 +14,7 @@
 - [生成Webアプリ400本で見るセキュリティ指示とスキャナー検出](../surveys/coding-agents/2026-security-prompts-ai-generated-web-apps.ja.md) — プレプリントv1。指示の有無の比較、検出件数、依存関係の変化。
 - [GPUの供給電流から申告済みAIワークロードを照合する](../surveys/security-governance/2026-gpu-current-declared-workload-verification.ja.md) — プレプリントv1。異常検知、基準データの網羅性、外部から観測できる証拠の範囲。
 - [TideSand：計測の再現性を保ちながらサンドボックス資源を共有する](../surveys/llm-infrastructure/2026-tidesand-sandbox-multiplexing.ja.md) — プレプリントv1。ツール呼び出しの忠実度、処理量、ベンチマークの再実行。
+- [The Agentic Scientist（Sakana AIの講演を追記）](../surveys/coding-agents/2026-sakana-agentic-scientist.ja.md) — 既存の論文ノートに、講演のタイムスタンプ、共同研究事例、編集可能な図の説明を追記。
 
 ## 2026-11-25追加
 

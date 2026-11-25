@@ -8,6 +8,7 @@ Benchmarks and industrial studies of AI coding assistants, automated repair, and
 ## Added 2026-11-26
 
 - [Security prompts and scanner findings in 400 generated web apps](2026-security-prompts-ai-generated-web-apps.md) — Preprint v1. Paired prompt comparison, scanner findings, and dependency exposure.
+- [The Agentic Scientist (Sakana AI talk added)](2026-sakana-agentic-scientist.md) — Existing note expanded with talk timestamps, collaborative case studies and editable figures.
 
 ## Added 2026-11-25
 
