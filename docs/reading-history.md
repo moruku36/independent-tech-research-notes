@@ -9,6 +9,7 @@ Newest first. Earlier entries use dates recorded as additions in the reading lis
 
 - [PROVE: training peer reviewers to require verified evidence](../surveys/agent-safety/2026-prove-evidence-grounded-peer-verification.md)
 - [ModelLess: lending idle GPUs across inference tiers](../surveys/llm-infrastructure/2026-modelless-shared-gpu-inference.md)
+- [go/codegolf benchmark: code size under a fixed search budget](../surveys/coding-agents/2026-go-codegolf-benchmark.md)
 
 ## 2026-11-26
 

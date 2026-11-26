@@ -11,6 +11,7 @@
 
 - [PROVE：検証済みの証拠を求めるよう相互レビューを学習させる](../surveys/agent-safety/2026-prove-evidence-grounded-peer-verification.ja.md) — プレプリントv1。証拠に基づく学習、対応のある比較、転用の範囲。
 - [ModelLess：待機中のGPUを推論サービス間で融通する](../surveys/llm-infrastructure/2026-modelless-shared-gpu-inference.ja.md) — 技術報告v1。休止・復帰、ログ再生の貸出容量、オンライン推論の末尾遅延。
+- [go/codegolf benchmark：制限時間内のコード短縮を測る](../surveys/coding-agents/2026-go-codegolf-benchmark.ja.md) — ベンチマークと版固定の順位データ。採点式、人間記録との比較範囲、実行環境の制約。
 
 ## 2026-11-26追加
 
