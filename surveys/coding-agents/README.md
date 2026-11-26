@@ -10,6 +10,7 @@ Benchmarks and industrial studies of AI coding assistants, automated repair, and
 - [go/codegolf benchmark: code size under a fixed search budget](2026-go-codegolf-benchmark.md) — Benchmark and pinned leaderboard data. Scoring, matched human comparison, and runtime constraints.
 - [ReAct: interleaving reasoning, actions and observations](2023-react-reasoning-and-acting.md) — ICLR 2023, arXiv v3. Tool-grounded prompting and four benchmark comparisons.
 - [SWE-agent: interfaces designed for software engineering agents](2024-swe-agent-computer-interface.md) — NeurIPS 2024, arXiv v3. Same-model shell comparison, interface ablations, and benchmark scope.
+- [SWE-bench: evaluating patches against real GitHub issues](2024-swe-bench-original-benchmark.md) — ICLR 2024, arXiv v3. Dataset construction, test-based resolution and retrieval baselines.
 
 ## Added 2026-11-26
 

@@ -33,6 +33,7 @@ Proposed and untried. Use a small set of ordinary bug fixes in a local test repo
 
 ## Related notes
 
+- [The original SWE-bench and its resolution criteria](2024-swe-bench-original-benchmark.md)
 - [ReAct and tool-grounded prompting](2023-react-reasoning-and-acting.md)
 - [FrontierHarness evaluation](2026-frontierharness-eval-v1-1.md)
 
