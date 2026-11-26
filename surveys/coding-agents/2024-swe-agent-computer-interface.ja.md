@@ -33,6 +33,7 @@ John Yang、Carlos E. Jimenez、Alexander Wettig、Kilian Lieret、Shunyu Yao、
 
 ## 関連ノート
 
+- [SWE-benchの原著と解決判定](2024-swe-bench-original-benchmark.ja.md)
 - [ReActの推論・操作・観測](2023-react-reasoning-and-acting.ja.md)
 - [FrontierHarnessの評価](2026-frontierharness-eval-v1-1.ja.md)
 
