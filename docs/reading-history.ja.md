@@ -13,6 +13,7 @@
 - [GPUの供給電流から申告済みAIワークロードを照合する](../surveys/security-governance/2026-gpu-current-declared-workload-verification.ja.md)
 - [TideSand：計測の再現性を保ちながらサンドボックス資源を共有する](../surveys/llm-infrastructure/2026-tidesand-sandbox-multiplexing.ja.md)
 - [The Agentic Scientist（Sakana AIの講演を追記）](../surveys/coding-agents/2026-sakana-agentic-scientist.ja.md)
+- [AnthropicのClaude Forward Deployed Engineer学習パス](../surveys/coding-agents/2026-anthropic-claude-fde-learning-path.ja.md)
 
 ## 2026-11-25
 

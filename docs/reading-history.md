@@ -13,6 +13,7 @@ Newest first. Earlier entries use dates recorded as additions in the reading lis
 - [GPU supply current for verifying declared AI workloads](../surveys/security-governance/2026-gpu-current-declared-workload-verification.md)
 - [TideSand: sharing sandbox resources while preserving measurements](../surveys/llm-infrastructure/2026-tidesand-sandbox-multiplexing.md)
 - [The Agentic Scientist (Sakana AI talk added)](../surveys/coding-agents/2026-sakana-agentic-scientist.md)
+- [Anthropic’s Claude Forward Deployed Engineer learning path](../surveys/coding-agents/2026-anthropic-claude-fde-learning-path.md)
 
 ## 2026-11-25
 

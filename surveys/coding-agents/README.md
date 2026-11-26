@@ -9,6 +9,7 @@ Benchmarks and industrial studies of AI coding assistants, automated repair, and
 
 - [Security prompts and scanner findings in 400 generated web apps](2026-security-prompts-ai-generated-web-apps.md) — Preprint v1. Paired prompt comparison, scanner findings, and dependency exposure.
 - [The Agentic Scientist (Sakana AI talk added)](2026-sakana-agentic-scientist.md) — Existing note expanded with talk timestamps, collaborative case studies and editable figures.
+- [Anthropic’s Claude Forward Deployed Engineer learning path](2026-anthropic-claude-fde-learning-path.md) — Partner Academy syllabus. Customer pilot planning, course overlap, and the associated certification route.
 
 ## Added 2026-11-25
 
