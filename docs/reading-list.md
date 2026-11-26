@@ -12,6 +12,8 @@
 - [PROVE: training peer reviewers to require verified evidence](../surveys/agent-safety/2026-prove-evidence-grounded-peer-verification.md) — Preprint v1. Evidence-conditioned training, paired evaluation, and limits of transfer.
 - [ModelLess: lending idle GPUs across inference tiers](../surveys/llm-infrastructure/2026-modelless-shared-gpu-inference.md) — Technical report v1. Sleep and wake, trace-replay capacity, and online tail latency.
 - [go/codegolf benchmark: code size under a fixed search budget](../surveys/coding-agents/2026-go-codegolf-benchmark.md) — Benchmark and pinned leaderboard data. Scoring, matched human comparison, and runtime constraints.
+- [ReAct: interleaving reasoning, actions and observations](../surveys/coding-agents/2023-react-reasoning-and-acting.md) — ICLR 2023, arXiv v3. Tool-grounded prompting and four benchmark comparisons.
+- [SWE-agent: interfaces designed for software engineering agents](../surveys/coding-agents/2024-swe-agent-computer-interface.md) — NeurIPS 2024, arXiv v3. Same-model shell comparison, interface ablations, and benchmark scope.
 
 ## Added 2026-11-26
 

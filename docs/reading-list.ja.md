@@ -12,6 +12,8 @@
 - [PROVE：検証済みの証拠を求めるよう相互レビューを学習させる](../surveys/agent-safety/2026-prove-evidence-grounded-peer-verification.ja.md) — プレプリントv1。証拠に基づく学習、対応のある比較、転用の範囲。
 - [ModelLess：待機中のGPUを推論サービス間で融通する](../surveys/llm-infrastructure/2026-modelless-shared-gpu-inference.ja.md) — 技術報告v1。休止・復帰、ログ再生の貸出容量、オンライン推論の末尾遅延。
 - [go/codegolf benchmark：制限時間内のコード短縮を測る](../surveys/coding-agents/2026-go-codegolf-benchmark.ja.md) — ベンチマークと版固定の順位データ。採点式、人間記録との比較範囲、実行環境の制約。
+- [ReAct：推論・操作・観測を交互に使うプロンプト設計](../surveys/coding-agents/2023-react-reasoning-and-acting.ja.md) — ICLR 2023、arXiv v3。外部ツールを使うプロンプトと4つの評価課題。
+- [SWE-agent：ソフトウェア開発エージェント向けの操作環境](../surveys/coding-agents/2024-swe-agent-computer-interface.ja.md) — NeurIPS 2024、arXiv v3。同一モデルでのシェル比較、操作環境の要素除去、評価範囲。
 
 ## 2026-11-26追加
 
