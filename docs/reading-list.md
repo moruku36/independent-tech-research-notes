@@ -7,6 +7,11 @@
 
 
 
+## Added 2026-11-27
+
+- [PROVE: training peer reviewers to require verified evidence](../surveys/agent-safety/2026-prove-evidence-grounded-peer-verification.md) — Preprint v1. Evidence-conditioned training, paired evaluation, and limits of transfer.
+- [ModelLess: lending idle GPUs across inference tiers](../surveys/llm-infrastructure/2026-modelless-shared-gpu-inference.md) — Technical report v1. Sleep and wake, trace-replay capacity, and online tail latency.
+
 ## Added 2026-11-26
 
 - [Azure database security at Ignite 2026](../surveys/security-governance/2026-azure-database-security-ignite.md) — Microsoft launch and technical docs. Availability, key and identity scope, and networking cutover.

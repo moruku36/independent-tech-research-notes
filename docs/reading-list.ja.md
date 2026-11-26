@@ -7,6 +7,11 @@
 
 
 
+## 2026-11-27追加
+
+- [PROVE：検証済みの証拠を求めるよう相互レビューを学習させる](../surveys/agent-safety/2026-prove-evidence-grounded-peer-verification.ja.md) — プレプリントv1。証拠に基づく学習、対応のある比較、転用の範囲。
+- [ModelLess：待機中のGPUを推論サービス間で融通する](../surveys/llm-infrastructure/2026-modelless-shared-gpu-inference.ja.md) — 技術報告v1。休止・復帰、ログ再生の貸出容量、オンライン推論の末尾遅延。
+
 ## 2026-11-26追加
 
 - [Ignite 2026のAzureデータベースセキュリティ更新](../surveys/security-governance/2026-azure-database-security-ignite.ja.md) — Microsoftの発表と公式資料。提供段階、鍵とIDの範囲、ネットワーク切り替え。

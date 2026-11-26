@@ -4,6 +4,10 @@
 
 Whether AI agents act outside their authorization, and how they can be attacked in real workflows.
 
+## Added 2026-11-27
+
+- [PROVE: training peer reviewers to require verified evidence](2026-prove-evidence-grounded-peer-verification.md) — Preprint v1. Evidence-conditioned training, paired evaluation, and limits of transfer.
+
 ## Added 2026-11-23
 
 - [ROGUE-AI: matched controls for auditing agent incidents](2026-rogue-ai-incident-audit-controls.md) — Preprint v1. Offline audit, distinct replication denominators, and operational hazards.
