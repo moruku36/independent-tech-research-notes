@@ -9,6 +9,7 @@
 
 - [PROVE：検証済みの証拠を求めるよう相互レビューを学習させる](../surveys/agent-safety/2026-prove-evidence-grounded-peer-verification.ja.md)
 - [ModelLess：待機中のGPUを推論サービス間で融通する](../surveys/llm-infrastructure/2026-modelless-shared-gpu-inference.ja.md)
+- [go/codegolf benchmark：制限時間内のコード短縮を測る](../surveys/coding-agents/2026-go-codegolf-benchmark.ja.md)
 
 ## 2026-11-26
 

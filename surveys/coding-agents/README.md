@@ -5,6 +5,10 @@
 Benchmarks and industrial studies of AI coding assistants, automated repair, and automated review.
 
 
+## Added 2026-11-27
+
+- [go/codegolf benchmark: code size under a fixed search budget](2026-go-codegolf-benchmark.md) — Benchmark and pinned leaderboard data. Scoring, matched human comparison, and runtime constraints.
+
 ## Added 2026-11-26
 
 - [Security prompts and scanner findings in 400 generated web apps](2026-security-prompts-ai-generated-web-apps.md) — Preprint v1. Paired prompt comparison, scanner findings, and dependency exposure.
