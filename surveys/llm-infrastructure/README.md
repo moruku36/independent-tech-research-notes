@@ -5,6 +5,10 @@
 Hardware choices, scheduling, KV cache control, and long-term memory retrieval.
 
 
+## Added 2026-11-27
+
+- [ModelLess: lending idle GPUs across inference tiers](2026-modelless-shared-gpu-inference.md) — Technical report v1. Sleep and wake, trace-replay capacity, and online tail latency.
+
 ## Added 2026-11-26
 
 - [TideSand: sharing sandbox resources while preserving measurements](2026-tidesand-sandbox-multiplexing.md) — Preprint v1. Tool-call fidelity, throughput, and benchmark replay.

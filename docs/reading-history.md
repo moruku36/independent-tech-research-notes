@@ -5,6 +5,11 @@
 Newest first. Earlier entries use dates recorded as additions in the reading list; these do not establish the user's actual reading dates. Undated entries are omitted.
 
 
+## 2026-11-27
+
+- [PROVE: training peer reviewers to require verified evidence](../surveys/agent-safety/2026-prove-evidence-grounded-peer-verification.md)
+- [ModelLess: lending idle GPUs across inference tiers](../surveys/llm-infrastructure/2026-modelless-shared-gpu-inference.md)
+
 ## 2026-11-26
 
 - [Azure database security at Ignite 2026](../surveys/security-governance/2026-azure-database-security-ignite.md)

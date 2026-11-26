@@ -5,6 +5,11 @@
 新しい日付順。過去分は既存の読書一覧に記された追加日を使用し、本人の読了日を保証するものではありません。日付が特定できない資料は省いています。
 
 
+## 2026-11-27
+
+- [PROVE：検証済みの証拠を求めるよう相互レビューを学習させる](../surveys/agent-safety/2026-prove-evidence-grounded-peer-verification.ja.md)
+- [ModelLess：待機中のGPUを推論サービス間で融通する](../surveys/llm-infrastructure/2026-modelless-shared-gpu-inference.ja.md)
+
 ## 2026-11-26
 
 - [Ignite 2026のAzureデータベースセキュリティ更新](../surveys/security-governance/2026-azure-database-security-ignite.ja.md)
