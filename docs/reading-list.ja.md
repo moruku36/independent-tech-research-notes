@@ -15,6 +15,7 @@
 - [GPUの供給電流から申告済みAIワークロードを照合する](../surveys/security-governance/2026-gpu-current-declared-workload-verification.ja.md) — プレプリントv1。異常検知、基準データの網羅性、外部から観測できる証拠の範囲。
 - [TideSand：計測の再現性を保ちながらサンドボックス資源を共有する](../surveys/llm-infrastructure/2026-tidesand-sandbox-multiplexing.ja.md) — プレプリントv1。ツール呼び出しの忠実度、処理量、ベンチマークの再実行。
 - [The Agentic Scientist（Sakana AIの講演を追記）](../surveys/coding-agents/2026-sakana-agentic-scientist.ja.md) — 既存の論文ノートに、講演のタイムスタンプ、共同研究事例、編集可能な図の説明を追記。
+- [AnthropicのClaude Forward Deployed Engineer学習パス](../surveys/coding-agents/2026-anthropic-claude-fde-learning-path.ja.md) — Partner Academyの講座案内。顧客向けパイロット計画、共通講座、認定への案内。
 
 ## 2026-11-25追加
 
