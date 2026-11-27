@@ -14,6 +14,7 @@
 - [SWE-agent：ソフトウェア開発エージェント向けの操作環境](../surveys/coding-agents/2024-swe-agent-computer-interface.ja.md)
 - [SWE-bench：実際のGitHub Issueをテストで評価する原著](../surveys/coding-agents/2024-swe-bench-original-benchmark.ja.md)
 - [Lean4Agent：エージェントのワークフローと実行記録を検証する](../surveys/coding-agents/2026-lean4agent-workflow-trajectory-verification.ja.md)
+- [AIエージェント時代にプラットフォームは何を引き受けるか](../surveys/coding-agents/2026-jacopen-platform-engineering-agent-era.ja.md)
 
 ## 2026-11-26
 

@@ -12,6 +12,7 @@ AIコーディング支援・自動修復・自動レビューのベンチマー
 - [SWE-agent：ソフトウェア開発エージェント向けの操作環境](2024-swe-agent-computer-interface.ja.md) — NeurIPS 2024、arXiv v3。同一モデルでのシェル比較、操作環境の要素除去、評価範囲。
 - [SWE-bench：実際のGitHub Issueをテストで評価する原著](2024-swe-bench-original-benchmark.ja.md) — ICLR 2024、arXiv v3。データセットの構築、テストによる解決判定、検索付きベースライン。
 - [Lean4Agent：エージェントのワークフローと実行記録を検証する](2026-lean4agent-workflow-trajectory-verification.ja.md) — arXiv v3。3層の検証、評価に使った部分集合、検証の前提。
+- [AIエージェント時代にプラットフォームは何を引き受けるか](2026-jacopen-platform-engineering-agent-era.ja.md) — アーキテクチャConference講演。共通の制御、コンテキスト、人による変更の責任。
 
 ## 2026-11-26追加
 
