@@ -12,6 +12,8 @@
 - [Construct22: a fictional group chat as AI-generated self-portrait](../surveys/human-ai-collaboration/2026-construct22-fictional-ai-group-chat.md) — Creative prompt and example. Personalization, fictional dialogue, and the scope of the evidence.
 - [AI-assisted self-hosting with versioned infrastructure](../surveys/articles/2026-jan-lukas-else-ai-assisted-self-hosting.md) — Practitioner account. Git-managed configuration, update automation, and maintenance tradeoffs.
 - [Slack emoji as a satirical measure of company culture](../surveys/articles/2026-liam-galvin-slack-emoji-culture.md) — Satirical essay. Denominator effects, contributor concentration, and proxy validity.
+- [Apertus red-teaming: confidentiality across languages and reasoning modes](../surveys/agent-safety/2026-apertus-llm-confidentiality-reasoning.md) — Preprint v1. Synthetic-record disclosure, reasoning traces, and post-training comparisons.
+- [Amazon Cognito Plus: the 99.99% availability SLA and application monitoring](../surveys/cloud-resilience/2026-aws-cognito-plus-availability-sla.md) — AWS Security Blog and SLA. Regional measurement, historical aggregation, and application-level availability.
 
 ## Added 2026-11-27
 

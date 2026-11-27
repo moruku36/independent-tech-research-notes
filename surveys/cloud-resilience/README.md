@@ -4,6 +4,10 @@
 
 Papers on fault injection, recovery decisions, safety and experiment coordination.
 
+## Added 2026-11-28
+
+- [Amazon Cognito Plus: the 99.99% availability SLA and application monitoring](2026-aws-cognito-plus-availability-sla.md) — AWS Security Blog and SLA. Regional measurement, historical aggregation, and application-level availability.
+
 ## Added 2026-11-22
 
 - [HardwareDx: graph-based diagnosis and repair time in datacenters](2026-google-hardwaredx-datacenter-repair.md) — Paper v1. Machine-level production A/B, repair-time and QA definitions, and transfer scope.

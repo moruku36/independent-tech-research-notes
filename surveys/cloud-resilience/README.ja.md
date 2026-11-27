@@ -4,6 +4,10 @@
 
 障害注入、復旧判定、実験の安全・協調を扱う論文。
 
+## 2026-11-28追加
+
+- [Amazon Cognito Plusの99.99% SLAとアプリ側の可用性計測](2026-aws-cognito-plus-availability-sla.ja.md) — AWS公式ブログとSLA。リージョン別の計測、過去実績の集計、アプリの可用性。
+
 ## 2026-11-22追加
 
 - [HardwareDx：グラフによる障害診断とデータセンターの修理時間](2026-google-hardwaredx-datacenter-repair.ja.md) — 論文v1。本番の機器単位A/B、修理時間とQAの定義、転移学習の範囲を確認。
