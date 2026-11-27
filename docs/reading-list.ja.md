@@ -12,6 +12,8 @@
 - [Construct22：架空のグループチャットで描くAIの人物像](../surveys/human-ai-collaboration/2026-construct22-fictional-ai-group-chat.ja.md) — 創作プロンプトと出力例。個人化、架空の会話、根拠の範囲。
 - [AI支援でセルフホスティングの試行と運用を続けやすくする](../surveys/articles/2026-jan-lukas-else-ai-assisted-self-hosting.ja.md) — 個人の実践記録。Gitで管理する構成、更新の自動化、保守の負担。
 - [Slackの絵文字で会社文化を測るという風刺](../surveys/articles/2026-liam-galvin-slack-emoji-culture.ja.md) — 風刺エッセイ。分母の変化、投稿者の偏り、代理指標の妥当性。
+- [Apertusのレッドチーミング：多言語・推論モードでの機密性評価](../surveys/agent-safety/2026-apertus-llm-confidentiality-reasoning.ja.md) — プレプリントv1。合成レコードの漏えい、推論トレース、後学習段階の比較。
+- [Amazon Cognito Plusの99.99% SLAとアプリ側の可用性計測](../surveys/cloud-resilience/2026-aws-cognito-plus-availability-sla.ja.md) — AWS公式ブログとSLA。リージョン別の計測、過去実績の集計、アプリの可用性。
 
 ## 2026-11-27追加
 

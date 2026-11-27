@@ -4,6 +4,10 @@
 
 Whether AI agents act outside their authorization, and how they can be attacked in real workflows.
 
+## Added 2026-11-28
+
+- [Apertus red-teaming: confidentiality across languages and reasoning modes](2026-apertus-llm-confidentiality-reasoning.md) — Preprint v1. Synthetic-record disclosure, reasoning traces, and post-training comparisons.
+
 ## Added 2026-11-27
 
 - [PROVE: training peer reviewers to require verified evidence](2026-prove-evidence-grounded-peer-verification.md) — Preprint v1. Evidence-conditioned training, paired evaluation, and limits of transfer.

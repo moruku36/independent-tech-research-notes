@@ -10,6 +10,8 @@ Newest first. Earlier entries use dates recorded as additions in the reading lis
 - [Construct22: a fictional group chat as AI-generated self-portrait](../surveys/human-ai-collaboration/2026-construct22-fictional-ai-group-chat.md)
 - [AI-assisted self-hosting with versioned infrastructure](../surveys/articles/2026-jan-lukas-else-ai-assisted-self-hosting.md)
 - [Slack emoji as a satirical measure of company culture](../surveys/articles/2026-liam-galvin-slack-emoji-culture.md)
+- [Apertus red-teaming: confidentiality across languages and reasoning modes](../surveys/agent-safety/2026-apertus-llm-confidentiality-reasoning.md)
+- [Amazon Cognito Plus: the 99.99% availability SLA and application monitoring](../surveys/cloud-resilience/2026-aws-cognito-plus-availability-sla.md)
 
 ## 2026-11-27
 
