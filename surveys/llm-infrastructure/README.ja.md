@@ -5,6 +5,10 @@
 LLM推論のハードウェア選択、スケジューリング、KVキャッシュ制御、長期記憶検索。
 
 
+## 2026-11-28追加
+
+- [TimeTravelContainerで状態を保持したツールセッションを分岐する](2026-timetravelcontainer-live-forking.ja.md) — arXiv v1。コピーオンライト、複製完了までの時間、固定EDA処理での比較。
+
 ## 2026-11-27追加
 
 - [ModelLess：待機中のGPUを推論サービス間で融通する](2026-modelless-shared-gpu-inference.ja.md) — 技術報告v1。休止・復帰、ログ再生の貸出容量、オンライン推論の末尾遅延。

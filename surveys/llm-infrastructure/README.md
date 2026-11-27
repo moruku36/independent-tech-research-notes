@@ -5,6 +5,10 @@
 Hardware choices, scheduling, KV cache control, and long-term memory retrieval.
 
 
+## Added 2026-11-28
+
+- [TimeTravelContainer for live forking of stateful tool sessions](2026-timetravelcontainer-live-forking.md) — arXiv v1. Copy-on-write forks, clone readiness, and fixed EDA workload timings.
+
 ## Added 2026-11-27
 
 - [ModelLess: lending idle GPUs across inference tiers](2026-modelless-shared-gpu-inference.md) — Technical report v1. Sleep and wake, trace-replay capacity, and online tail latency.

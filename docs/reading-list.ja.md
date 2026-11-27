@@ -14,6 +14,8 @@
 - [Slackの絵文字で会社文化を測るという風刺](../surveys/articles/2026-liam-galvin-slack-emoji-culture.ja.md) — 風刺エッセイ。分母の変化、投稿者の偏り、代理指標の妥当性。
 - [Apertusのレッドチーミング：多言語・推論モードでの機密性評価](../surveys/agent-safety/2026-apertus-llm-confidentiality-reasoning.ja.md) — プレプリントv1。合成レコードの漏えい、推論トレース、後学習段階の比較。
 - [Amazon Cognito Plusの99.99% SLAとアプリ側の可用性計測](../surveys/cloud-resilience/2026-aws-cognito-plus-availability-sla.ja.md) — AWS公式ブログとSLA。リージョン別の計測、過去実績の集計、アプリの可用性。
+- [TimeTravelContainerで状態を保持したツールセッションを分岐する](../surveys/llm-infrastructure/2026-timetravelcontainer-live-forking.ja.md) — arXiv v1。コピーオンライト、複製完了までの時間、固定EDA処理での比較。
+- [Algomaticのプロトタイプ起点のAI駆動開発と人による監督](../surveys/coding-agents/2026-algomatic-ai-driven-development-organizations.ja.md) — アーキテクチャConference講演。早期の認識合わせ、ワークフロー、人の監督、PR指標。
 
 ## 2026-11-27追加
 

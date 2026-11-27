@@ -5,6 +5,10 @@
 AIコーディング支援・自動修復・自動レビューのベンチマークと企業での実証研究。
 
 
+## 2026-11-28追加
+
+- [Algomaticのプロトタイプ起点のAI駆動開発と人による監督](2026-algomatic-ai-driven-development-organizations.ja.md) — アーキテクチャConference講演。早期の認識合わせ、ワークフロー、人の監督、PR指標。
+
 ## 2026-11-27追加
 
 - [go/codegolf benchmark：制限時間内のコード短縮を測る](2026-go-codegolf-benchmark.ja.md) — ベンチマークと版固定の順位データ。採点式、人間記録との比較範囲、実行環境の制約。
