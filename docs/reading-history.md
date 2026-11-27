@@ -13,6 +13,7 @@ Newest first. Earlier entries use dates recorded as additions in the reading lis
 - [ReAct: interleaving reasoning, actions and observations](../surveys/coding-agents/2023-react-reasoning-and-acting.md)
 - [SWE-agent: interfaces designed for software engineering agents](../surveys/coding-agents/2024-swe-agent-computer-interface.md)
 - [SWE-bench: evaluating patches against real GitHub issues](../surveys/coding-agents/2024-swe-bench-original-benchmark.md)
+- [Lean4Agent: formal checks for agent workflows and execution traces](../surveys/coding-agents/2026-lean4agent-workflow-trajectory-verification.md)
 
 ## 2026-11-26
 
