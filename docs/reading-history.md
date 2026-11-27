@@ -5,6 +5,12 @@
 Newest first. Earlier entries use dates recorded as additions in the reading list; these do not establish the user's actual reading dates. Undated entries are omitted.
 
 
+## 2026-11-28
+
+- [Construct22: a fictional group chat as AI-generated self-portrait](../surveys/human-ai-collaboration/2026-construct22-fictional-ai-group-chat.md)
+- [AI-assisted self-hosting with versioned infrastructure](../surveys/articles/2026-jan-lukas-else-ai-assisted-self-hosting.md)
+- [Slack emoji as a satirical measure of company culture](../surveys/articles/2026-liam-galvin-slack-emoji-culture.md)
+
 ## 2026-11-27
 
 - [PROVE: training peer reviewers to require verified evidence](../surveys/agent-safety/2026-prove-evidence-grounded-peer-verification.md)

@@ -4,6 +4,10 @@
 
 What people expect from AI co-workers, how tools treat waiting time and attention, and how AI use changes work activity and learning opportunities.
 
+## Added 2026-11-28
+
+- [Construct22: a fictional group chat as AI-generated self-portrait](2026-construct22-fictional-ai-group-chat.md) — Creative prompt and example. Personalization, fictional dialogue, and the scope of the evidence.
+
 ## Added 2026-11-16
 
 - [Software job titles: a practitioner’s family tree](2026-software-job-title-family-tree.md) — Practitioner visualization. Estimated dates and interpretive links.
