@@ -16,6 +16,7 @@
 - [SWE-agent: interfaces designed for software engineering agents](../surveys/coding-agents/2024-swe-agent-computer-interface.md) — NeurIPS 2024, arXiv v3. Same-model shell comparison, interface ablations, and benchmark scope.
 - [SWE-bench: evaluating patches against real GitHub issues](../surveys/coding-agents/2024-swe-bench-original-benchmark.md) — ICLR 2024, arXiv v3. Dataset construction, test-based resolution and retrieval baselines.
 - [Lean4Agent: formal checks for agent workflows and execution traces](../surveys/coding-agents/2026-lean4agent-workflow-trajectory-verification.md) — arXiv v3. Three verification layers, benchmark subsets, and the assumptions behind the checks.
+- [Platform engineering for AI agents and accountable teams](../surveys/coding-agents/2026-jacopen-platform-engineering-agent-era.md) — Architecture Conference talk. Shared controls, context, and human ownership of changes.
 
 ## Added 2026-11-26
 
