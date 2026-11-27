@@ -15,6 +15,7 @@
 - [ReAct：推論・操作・観測を交互に使うプロンプト設計](../surveys/coding-agents/2023-react-reasoning-and-acting.ja.md) — ICLR 2023、arXiv v3。外部ツールを使うプロンプトと4つの評価課題。
 - [SWE-agent：ソフトウェア開発エージェント向けの操作環境](../surveys/coding-agents/2024-swe-agent-computer-interface.ja.md) — NeurIPS 2024、arXiv v3。同一モデルでのシェル比較、操作環境の要素除去、評価範囲。
 - [SWE-bench：実際のGitHub Issueをテストで評価する原著](../surveys/coding-agents/2024-swe-bench-original-benchmark.ja.md) — ICLR 2024、arXiv v3。データセットの構築、テストによる解決判定、検索付きベースライン。
+- [Lean4Agent：エージェントのワークフローと実行記録を検証する](../surveys/coding-agents/2026-lean4agent-workflow-trajectory-verification.ja.md) — arXiv v3。3層の検証、評価に使った部分集合、検証の前提。
 
 ## 2026-11-26追加
 

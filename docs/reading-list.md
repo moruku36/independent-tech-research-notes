@@ -15,6 +15,7 @@
 - [ReAct: interleaving reasoning, actions and observations](../surveys/coding-agents/2023-react-reasoning-and-acting.md) — ICLR 2023, arXiv v3. Tool-grounded prompting and four benchmark comparisons.
 - [SWE-agent: interfaces designed for software engineering agents](../surveys/coding-agents/2024-swe-agent-computer-interface.md) — NeurIPS 2024, arXiv v3. Same-model shell comparison, interface ablations, and benchmark scope.
 - [SWE-bench: evaluating patches against real GitHub issues](../surveys/coding-agents/2024-swe-bench-original-benchmark.md) — ICLR 2024, arXiv v3. Dataset construction, test-based resolution and retrieval baselines.
+- [Lean4Agent: formal checks for agent workflows and execution traces](../surveys/coding-agents/2026-lean4agent-workflow-trajectory-verification.md) — arXiv v3. Three verification layers, benchmark subsets, and the assumptions behind the checks.
 
 ## Added 2026-11-26
 
