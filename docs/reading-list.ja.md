@@ -7,6 +7,12 @@
 
 
 
+## 2026-11-28追加
+
+- [Construct22：架空のグループチャットで描くAIの人物像](../surveys/human-ai-collaboration/2026-construct22-fictional-ai-group-chat.ja.md) — 創作プロンプトと出力例。個人化、架空の会話、根拠の範囲。
+- [AI支援でセルフホスティングの試行と運用を続けやすくする](../surveys/articles/2026-jan-lukas-else-ai-assisted-self-hosting.ja.md) — 個人の実践記録。Gitで管理する構成、更新の自動化、保守の負担。
+- [Slackの絵文字で会社文化を測るという風刺](../surveys/articles/2026-liam-galvin-slack-emoji-culture.ja.md) — 風刺エッセイ。分母の変化、投稿者の偏り、代理指標の妥当性。
+
 ## 2026-11-27追加
 
 - [PROVE：検証済みの証拠を求めるよう相互レビューを学習させる](../surveys/agent-safety/2026-prove-evidence-grounded-peer-verification.ja.md) — プレプリントv1。証拠に基づく学習、対応のある比較、転用の範囲。

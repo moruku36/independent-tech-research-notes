@@ -5,6 +5,12 @@
 新しい日付順。過去分は既存の読書一覧に記された追加日を使用し、本人の読了日を保証するものではありません。日付が特定できない資料は省いています。
 
 
+## 2026-11-28
+
+- [Construct22：架空のグループチャットで描くAIの人物像](../surveys/human-ai-collaboration/2026-construct22-fictional-ai-group-chat.ja.md)
+- [AI支援でセルフホスティングの試行と運用を続けやすくする](../surveys/articles/2026-jan-lukas-else-ai-assisted-self-hosting.ja.md)
+- [Slackの絵文字で会社文化を測るという風刺](../surveys/articles/2026-liam-galvin-slack-emoji-culture.ja.md)
+
 ## 2026-11-27
 
 - [PROVE：検証済みの証拠を求めるよう相互レビューを学習させる](../surveys/agent-safety/2026-prove-evidence-grounded-peer-verification.ja.md)

@@ -5,6 +5,11 @@
 Vendor reports, conference recaps and company articles appear alongside a work/labor academic paper. The paper is labeled and counted separately from articles.
 
 
+## Added 2026-11-28
+
+- [AI-assisted self-hosting with versioned infrastructure](2026-jan-lukas-else-ai-assisted-self-hosting.md) — Practitioner account. Git-managed configuration, update automation, and maintenance tradeoffs.
+- [Slack emoji as a satirical measure of company culture](2026-liam-galvin-slack-emoji-culture.md) — Satirical essay. Denominator effects, contributor concentration, and proxy validity.
+
 ## Added 2026-11-23
 
 - [Perplexity and intelligence: pretraining measurement and safety proposals](2026-openai-perplexity-intelligence.md) — OpenAI commentary. Internal code benchmark, comparisons across labs, and proposed safety milestones.
