@@ -5,6 +5,10 @@
 Benchmarks and industrial studies of AI coding assistants, automated repair, and automated review.
 
 
+## Added 2026-11-28
+
+- [Algomatic’s prototype-led AI development and supervised automation](2026-algomatic-ai-driven-development-organizations.md) — Architecture Conference talk. Early feedback, coded workflows, human oversight, and PR metrics.
+
 ## Added 2026-11-27
 
 - [go/codegolf benchmark: code size under a fixed search budget](2026-go-codegolf-benchmark.md) — Benchmark and pinned leaderboard data. Scoring, matched human comparison, and runtime constraints.

@@ -14,6 +14,8 @@
 - [Slack emoji as a satirical measure of company culture](../surveys/articles/2026-liam-galvin-slack-emoji-culture.md) — Satirical essay. Denominator effects, contributor concentration, and proxy validity.
 - [Apertus red-teaming: confidentiality across languages and reasoning modes](../surveys/agent-safety/2026-apertus-llm-confidentiality-reasoning.md) — Preprint v1. Synthetic-record disclosure, reasoning traces, and post-training comparisons.
 - [Amazon Cognito Plus: the 99.99% availability SLA and application monitoring](../surveys/cloud-resilience/2026-aws-cognito-plus-availability-sla.md) — AWS Security Blog and SLA. Regional measurement, historical aggregation, and application-level availability.
+- [TimeTravelContainer for live forking of stateful tool sessions](../surveys/llm-infrastructure/2026-timetravelcontainer-live-forking.md) — arXiv v1. Copy-on-write forks, clone readiness, and fixed EDA workload timings.
+- [Algomatic’s prototype-led AI development and supervised automation](../surveys/coding-agents/2026-algomatic-ai-driven-development-organizations.md) — Architecture Conference talk. Early feedback, coded workflows, human oversight, and PR metrics.
 
 ## Added 2026-11-27
 

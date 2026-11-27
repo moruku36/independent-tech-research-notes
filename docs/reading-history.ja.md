@@ -12,6 +12,8 @@
 - [Slackの絵文字で会社文化を測るという風刺](../surveys/articles/2026-liam-galvin-slack-emoji-culture.ja.md)
 - [Apertusのレッドチーミング：多言語・推論モードでの機密性評価](../surveys/agent-safety/2026-apertus-llm-confidentiality-reasoning.ja.md)
 - [Amazon Cognito Plusの99.99% SLAとアプリ側の可用性計測](../surveys/cloud-resilience/2026-aws-cognito-plus-availability-sla.ja.md)
+- [TimeTravelContainerで状態を保持したツールセッションを分岐する](../surveys/llm-infrastructure/2026-timetravelcontainer-live-forking.ja.md)
+- [Algomaticのプロトタイプ起点のAI駆動開発と人による監督](../surveys/coding-agents/2026-algomatic-ai-driven-development-organizations.ja.md)
 
 ## 2026-11-27
 
